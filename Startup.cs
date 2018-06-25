@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+using System.IO;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -5,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.SpaServices.ReactDevelopmentServer;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Swashbuckle.AspNetCore.Swagger;
 
 namespace hateSpeach
 {
@@ -26,6 +29,38 @@ namespace hateSpeach
             services.AddSpaStaticFiles(configuration =>
             {
                 configuration.RootPath = "ClientApp/build";
+            });
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1",
+                    new Info
+                    {
+                        Title = "SayNoToHateSpeach API",
+                        Version = "v1",
+                        Description = "Open Machine Learning API for sentiment analysis",
+                        TermsOfService = "Knock yourself out",
+                        Contact = new Contact
+                        {
+                            Name = "Abdulrahman Sulaiman",
+                            Email = "i@amansulaiman.me"
+                        }
+                    }
+                 );
+                //c.TagActionsBy(api => api.HttpMethod);
+                // var filePath = Path.Combine(PlatformServices.Default.Application.ApplicationBasePath, "MyFood.MobileAppService.xml");
+                // c.IncludeXmlComments(filePath);
+                c.AddSecurityDefinition("Bearer", new ApiKeyScheme
+                {
+                    In = "header",
+                    Description = "Please insert JWT with Bearer into field",
+                    Name = "Authorization",
+                    Type = "apiKey"
+                });
+
+                c.AddSecurityRequirement(new Dictionary<string, IEnumerable<string>>
+                {
+                    { "Bearer", new string[] { } }
+                });
             });
         }
 
@@ -53,6 +88,20 @@ namespace hateSpeach
                     template: "{controller}/{action=Index}/{id?}");
             });
 
+            app.UseSwagger(c =>
+           {
+               c.RouteTemplate = "api-docs/{documentName}/swagger.json";
+
+
+           });
+            app.UseSwaggerUI(c =>
+            {
+                c.RoutePrefix = "api-docs";
+                //c.ShowRequestHeaders();
+                c.SwaggerEndpoint("/api-docs/v1/swagger.json", "SayNoToHateSpeech API v1");
+                
+            });
+
             app.UseSpa(spa =>
             {
                 spa.Options.SourcePath = "ClientApp";
@@ -62,6 +111,7 @@ namespace hateSpeach
                     spa.UseReactDevelopmentServer(npmScript: "start");
                 }
             });
+
         }
     }
 }

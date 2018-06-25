@@ -12,6 +12,7 @@ export class FetchData extends Component {
       .then(data => {
         this.setState({ forecasts: data, loading: false });
       });
+      
   }
 
   static renderForecastsTable(forecasts) {

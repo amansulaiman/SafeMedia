@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import {Button} from 'react-bootstrap';
-export class Home extends Component {
-  displayName = Home.name
+export class Messages extends Component {
+  displayName = Messages.name
 
   render() {
     return (

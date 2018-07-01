@@ -1,45 +1,38 @@
-Platform,Gender,Location,Language,SentimentText,Target,AgeGroup,Category,Sentiment,Date
-1,1,Kano,2,"I had my dinner with Tuwo Miyar Kuka and Man Shanu at the house of Malam Abdulrahman Abdullahi, it was a delicious one. It makes my stay in Abuja a joyous one. I pray that may God Almighty bless me with a pious Wife and good cook. Thank you Abdurrahman!",Friend,5,8,0,2/4/18
-1,1,Kano,2,Drama among Delta delegates as Governor Okorocha was denied seat at Imo State delegates tent....,Okorochas,5,13,0,6/23/18
-1,1,Jigawa,1,Yawwa Comrade keep up real update sabida illar yan BUHARISK.,Buhari,6,13,1,6/23/18
-3,1,Niger,2,"In 2015 when u wia galvanising support for them nd using ur people's who are today tag as Criminals they wia happy but bcos u saw a sign of maladministration opened up to d whole world, u are now tag as a criminal, keep calm for it's said dt if been deser",Bukola,6,13,1,5/18/18
-1,1,Kano,1,Wai don Allah kaje wajen ne a matsayinka na dan jarida ne ko agent ne,Friend,5,10,0,6/23/18
-1,1,Kano,2,I hope you will not be like him. Be careful with lie! Lol,Lai Mohammed,5,13,1,6/23/18
-1,1,Kano,2,Nigerian security agencies should arrest this Man for investigation... It's getting out of hand.,Miyatti Allah,6,3,1,6/26/18
-1,1,Kano,1,Wai dan Allah da Baba Buhari da Ganduje wa yafi yiwa Kwankwaso Butulci?????,Kwankwaso,6,13,1,6/26/18
-1,1,Kano,2,It doesn’t add up & makes sense to me to see not a single APC politician faced a corruption trial or allegedly arrested by EFFC. PMB please take note.,Buhari,5,13,1,6/26/18
-1,1,Kano,1,"Heeeeeeeeee!!!!!!!
+ENGLISH,Nigerian security agencies should arrest this Man for investigation... It's getting out of hand.,1
+HAUSA,Wai dan Allah da Baba Buhari da Ganduje wa yafi yiwa Kwankwaso Butulci?????,1
+ENGLISH,It doesn't add up & makes sense to me to see not a single APC politician faced a corruption trial or allegedly arrested by EFFC. PMB please take note.,1
+HAUSA,"Heeeeeeeeee!!!!!!!
 Baba Buhari ya saki reshe ya kama ganye a Kano.
-kwankwaso shine Kano",Kwankwaso,6,13,1,6/26/18
-1,1,Kano,1,"Hmmmmm !!! Ra'ayinka kenan, amma in ana maganar siyasa da jama'a ai kawai a sallamawa mai girma SARDAUNA",Shekarau,6,13,1,6/26/18
-1,1,Kano,1,"KA ZAMO MAI NEMA,
+kwankwaso shine Kano",1
+HAUSA,"Hmmmmm !!! Ra'ayinka kenan, amma in ana maganar siyasa da jama'a ai kawai a sallamawa mai girma SARDAUNA",1
+HAUSA,"KA ZAMO MAI NEMA,
 KO KA KAMA NOMA,
 Sai an kauda lalaci, a ke tsere kaskanci.
-ALKANTAMAWY",Talauci,6,5,0,6/26/18
-1,1,Kano,2,"The Web is fascinating and transformative, but it's an easy, flashy, get-rich-quick option to the hard graft of proper industry",Poverty,5,5,0,6/26/18
-1,1,Kano,2,Ankarbo Daga Abihuraira(R.A)Hakika manzon Allah(S.A.W)yace:Anabude kofofin Aljanna Ranar litinin Da Alhamis Anagafartwa dukkan wani bawa Wanda bayashirka da Allah dakomai saidai mutumin dayakasance tsakaninsa da. Dan uwansa akwai gaba said ace:kujinkirtaw,Islam,5,8,0,6/26/18
-1,1,Kano,1,"The two 1966 coups were jihad, promoted for Islamization of Nigeria for sharia to replace democracy by Islamists.
+ALKANTAMAWY",0
+ENGLISH,"The Web is fascinating and transformative, but it's an easy, flashy, get-rich-quick option to the hard graft of proper industry",0
+ENGLISH,Ankarbo Daga Abihuraira(R.A)Hakika manzon Allah(S.A.W)yace:Anabude kofofin Aljanna Ranar litinin Da Alhamis Anagafartwa dukkan wani bawa Wanda bayashirka da Allah dakomai saidai mutumin dayakasance tsakaninsa da. Dan uwansa akwai gaba said ace:kujinkirtaw,0
+HAUSA,"The two 1966 coups were jihad, promoted for Islamization of Nigeria for sharia to replace democracy by Islamists.
 - Christian Elders.
-Me: Elders who no know history well, are those ones elders?",Christian,7,11,1,6/26/18
-,1,Kano,1,Analyzing the 2018 APC National Convention along with Barr El-Zubair. It was anchored by Sulaiman S Muhammad.,APC,5,13,0,6/26/18
-,1,JOS,2,"KIRISTOCI SUN KASHE MANA YAN AGAJI BIYU DA SAURA YAN UWA AGARIN JOS, MUNA ROKON ALLAH YA KARBI SHAHADARSU, A DAYA BANGAREN AN SAU RAHOTON BAYYANAR SHUGABAN JIBWIS PLATEAU ,ALLAHVMUKE ROKO YA KAWO KARSHEN KISAN GILLAN DA KIRISTOCI KE MN.",Kiristochi,5,11,1,6/26/18
-,1,JOS,2,"RIKICIN JOS; Ya kamata a gwabnatin taraiya ta dauki matakin gaggawa kuma a yi bincike domin gano wadanda suka dauki nauyin kiristocin da Duke tare hanya suna kashe Duke wani musulmi batare da suniyi laifin komai ba, ida suna da laifi a wurin su bai wuce S",Kiristochi,5,11,1,6/25/18
-,1,JOS,1,"Osinbajo in Jos over Plateau killings
-Wat about president",Buhari,5,11,1,6/25/18
-,1,Kano,2,"BABA BUHARI KENAN.....
+Me: Elders who no know history well, are those ones elders?",1
+HAUSA,Analyzing the 2018 APC National Convention along with Barr El-Zubair. It was anchored by Sulaiman S Muhammad.,0
+ENGLISH,"KIRISTOCI SUN KASHE MANA YAN AGAJI BIYU DA SAURA YAN UWA AGARIN JOS, MUNA ROKON ALLAH YA KARBI SHAHADARSU, A DAYA BANGAREN AN SAU RAHOTON BAYYANAR SHUGABAN JIBWIS PLATEAU ,ALLAHVMUKE ROKO YA KAWO KARSHEN KISAN GILLAN DA KIRISTOCI KE MN.",1
+ENGLISH,"RIKICIN JOS; Ya kamata a gwabnatin taraiya ta dauki matakin gaggawa kuma a yi bincike domin gano wadanda suka dauki nauyin kiristocin da Duke tare hanya suna kashe Duke wani musulmi batare da suniyi laifin komai ba, ida suna da laifi a wurin su bai wuce S",1
+HAUSA,"Osinbajo in Jos over Plateau killings
+Wat about president",1
+ENGLISH,"BABA BUHARI KENAN.....
 
 Cikin nutsuwa tare da sanin aiki, yake gudanar da ayyukansa, ba tare da tsoron cece kucen jama,a ba.....
 
-HOTO NA FARKO.... Titin Lagos zuwa Ibadan ne har zuwa arewacin Nigeria, a jikin hoton zaa ga yadda lalacewar hanyar tasa many",Buhari,6,13,0,6/19/18
-,1,Kano,1,Active president. May Allah continue to help and protect him,Buhari,6,13,0,6/26/18
-,1,Kano,2,"Maigirma Sent. Dr. Rabi'u Musa Kwankwaso ya bayyana Farin Cikin sa akan Yan wasan Nigeria bisa rawar gani da suka taka a wasan daya gaba Acigaba da gasar kofin dubiya,
+HOTO NA FARKO.... Titin Lagos zuwa Ibadan ne har zuwa arewacin Nigeria, a jikin hoton zaa ga yadda lalacewar hanyar tasa many",0
+HAUSA,Active president. May Allah continue to help and protect him,0
+ENGLISH,"Maigirma Sent. Dr. Rabi'u Musa Kwankwaso ya bayyana Farin Cikin sa akan Yan wasan Nigeria bisa rawar gani da suka taka a wasan daya gaba Acigaba da gasar kofin dubiya,
 
-Ya Kara dacewa yana fatan yau laraba zasu kara fitar da Nigeria kunya a idon dubiya ta",Kwankwaso,6,13,0,6/26/18
-,1,Kano,1,"HELLO MY FELLOW NIGERIANS, IF YOU WANT ME TO JOIN THE APC CHAMBERS
+Ya Kara dacewa yana fatan yau laraba zasu kara fitar da Nigeria kunya a idon dubiya ta",0
+HAUSA,"HELLO MY FELLOW NIGERIANS, IF YOU WANT ME TO JOIN THE APC CHAMBERS
 ALERT ME WITH FIVETHANDRED THOUSAND
 I COULD HAVE MANAGE AND SETTLE MY LITTLE PROBLEM
 
-Those that are serious should join the fold, thanks and God bless you all, #KWANKWASO all the way!!",Kwankwaso,5,13,0,6/26/18
-,1,Kano,1,"A kano ake sarki, A Zaria sai Mai Unguwa.",Zaria,6,4,0,6/26/18
-,1,Kano,1,"Stop these carefully planned and well orchestrated genocides.
-I stand with Plateau",JOS,5,4,1,6/26/18
+Those that are serious should join the fold, thanks and God bless you all, #KWANKWASO all the way!!",0
+HAUSA,"A kano ake sarki, A Zaria sai Mai Unguwa.",0
+HAUSA,"Stop these carefully planned and well orchestrated genocides.
+I stand with Plateau",1

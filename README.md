@@ -1,5 +1,5 @@
-# SAF3BOOK
-Hate speech and online violence are rampant nowadays, SAF3BOOK mean to make social media a safe place for everyone!
+# SafeMedia
+Hate speech and online violence are rampant nowadays, SafeMedia mean to make social media a safe place for everyone!
 
 # Inspiration
 As we are facing 2019 General election in our country Nigeria, one of the most mitigating factors against the peaceful co-existence of the nation of different tribes and multiple religions and aggravate our democratic governance in Nigeria is hate speech and online violence. 

@@ -11,10 +11,11 @@ Fortunately, Nigeria is a diverse country that comprises hundreds of tribes and 
 Our research is aim to help and promote nonuse of any form of hate speech in social media and to assist social media users on what to write and what to read that will not offend them or others. Also to provide analytic data to security concerns on hate speech and online violence. 
 
 # What it does
-SAF3BOOK ask user's facebook permissions to read his/her feed any run AI tool to determine wether the feed data contain hate speech or not. If yes then bloor  
+SafeMedia ask user's facebook permissions to read his/her feed any run AI tool to determine wether the feed data contain hate speech or not.  
 
 # How We built it
-Yaya nayi building dinshi
+We collected and gathered morethan 10,000+ post from various social media users of three most spoken languages oin Nigeria (English, Hausa, Yoruba) that include both hate and not hate speech. However, we wrote sentiment analysis algorithm using ML.NET machine learning framework with 90% accuracy to predict hate speech in three languages. 
+After that, we build 
 
 # Challenges We ran into
 Wanne kalu bale muka fuskanta
@@ -25,7 +26,7 @@ Wanne abu muka cimma da muke alfahari da shi
 # What we learned
 Me muka koya
 
-# What's next for SAF3BOOK
+# What's next for SafeMedia
 Our next iteration in the road map is to support other Nigerian languages such as
 * Yoruba
 * Igbo

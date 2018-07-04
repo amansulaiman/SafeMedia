@@ -11,18 +11,18 @@ namespace hateSpeach.Services
 {
     public class MLTraining
     {
-        public static PredictionModel<LanguageData, LanguagePrediction> LanguageModel;
+        public static PredictionModel<DataModel, LanguagePrediction> LanguageModel;
 
-        public static PredictionModel<SentimentData, SentimentPrediction> SentimentModel;
+        public static PredictionModel<DataModel, SentimentPrediction> SentimentModel;
 
-        public static async Task<PredictionModel<LanguageData, LanguagePrediction>> LanguageTrainAsync()
+        public static async Task<PredictionModel<DataModel, LanguagePrediction>> LanguageTrainAsync()
         {
             // LearningPipeline holds all steps of the learning process: data, transforms, learners.
             var pipeline = new LearningPipeline();
 
             // The TextLoader loads a dataset. The schema of the dataset is specified by passing a class containing
             // all the column names and their types.
-           pipeline.Add(new TextLoader(DataPath.TrainDataPath).CreateFrom<LanguageData>());
+           pipeline.Add(new TextLoader(DataPath.TrainDataPath).CreateFrom<DataModel>());
 
             // Assign numeric values to text in the "Label" column, because only
             // numbers can be processed during model training
@@ -39,7 +39,7 @@ namespace hateSpeach.Services
             pipeline.Add(new PredictedLabelColumnOriginalValueConverter() { PredictedLabelColumn = "PredictedLabel" });
 
             // The pipeline is trained on the dataset that has been loaded and transformed.
-            var model = pipeline.Train<LanguageData, LanguagePrediction>();
+            var model = pipeline.Train<DataModel, LanguagePrediction>();
 
             // Saving the model as a .zip file.
             await model.WriteAsync(DataPath.LanguageModelPath);
@@ -47,11 +47,11 @@ namespace hateSpeach.Services
             return model;
         }
 
-        private static void LanguageEvaluate(PredictionModel<LanguageData, LanguagePrediction> model)
+        private static void LanguageEvaluate(PredictionModel<DataModel, LanguagePrediction> model)
         {
             // To evaluate how good the model predicts values, the model is ran against new set
             // of data (test data) that was not involved in training.
-            var testData = new TextLoader(DataPath.TestDataPath).CreateFrom<LanguageData>();
+            var testData = new TextLoader(DataPath.TestDataPath).CreateFrom<DataModel>();
             
             // ClassificationEvaluator .
             var evaluator = new ClassificationEvaluator ();

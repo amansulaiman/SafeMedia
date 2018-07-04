@@ -11,5 +11,7 @@ namespace hateSpeach.Models
         public string Language { get; set; }
         public bool IsHateSpeech { get; set; }
         public string Suggestion { get; set; }
+        public float LanguageConfidance { get; set; }
+        public float HateSpeechConfidance { get; set; }
     }
 }

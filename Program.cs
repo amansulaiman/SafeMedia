@@ -20,7 +20,7 @@ namespace hateSpeach
         {
             try
             {
-                MLTraining.LanguageModel = await PredictionModel.ReadAsync<LanguageData, LanguagePrediction>(DataPath.LanguageModelPath);
+                MLTraining.LanguageModel = await PredictionModel.ReadAsync<DataModel, LanguagePrediction>(DataPath.LanguageModelPath);
             }
             catch (Exception)
             {

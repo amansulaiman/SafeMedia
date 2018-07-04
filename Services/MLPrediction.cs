@@ -6,7 +6,7 @@ namespace hateSpeach.Services
 {
     public class MLPrediction
     {
-        public static async Task<string> PredictLanguageAsync(LanguageData predictData)
+        public static async Task<string> PredictLanguageAsync(DataModel predictData)
         {
             if (MLTraining.LanguageModel == null)
             {

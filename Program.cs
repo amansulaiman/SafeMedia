@@ -26,7 +26,14 @@ namespace hateSpeach
             {
                 MLTraining.LanguageModel = await MLTraining.LanguageTrainAsync();
             }
-            //TODO Sentiment also
+            try
+            {
+                MLTraining.SentimentModel = await PredictionModel.ReadAsync<DataModel, SentimentPrediction>(DataPath.SentimentModelPath);
+            }
+            catch (Exception)
+            {
+                MLTraining.SentimentModel = await MLTraining.SentimentTrainAsync();
+            }
             CreateWebHostBuilder(args).Build().Run();
         }
 

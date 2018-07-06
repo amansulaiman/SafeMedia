@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/hateSpeach.csproj"
+                "${workspaceFolder}/SafeMedia.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

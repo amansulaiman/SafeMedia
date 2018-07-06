@@ -5,9 +5,10 @@ namespace hateSpeach.Services
 {
     public class DataPath
     {
-        public static string AppPath => System.IO.Path.GetDirectoryName(Environment.GetCommandLineArgs()[0]);
-        public static string TrainDataPath => System.IO.Path.Combine(AppPath, "datasets", "data.csv");
-        public static string TestDataPath => System.IO.Path.Combine(AppPath,  "datasets", "data_test.csv");
-        public static string LanguageModelPath => System.IO.Path.Combine(AppPath, "LanguageModel.zip");
+        public static string AppPath => Path.GetDirectoryName(Environment.GetCommandLineArgs()[0]);
+        public static string TrainDataPath => Path.Combine(AppPath, "datasets", "data.txt");
+        public static string TestDataPath => Path.Combine(AppPath,  "datasets", "data_test.txt");
+        public static string LanguageModelPath => Path.Combine(AppPath, "LanguageModel.zip");
+        public static string SentimentModelPath => Path.Combine(AppPath, "SentimentModel.zip");
     }
 }

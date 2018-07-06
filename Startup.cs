@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using System.IO;
+using hateSpeach.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -35,32 +36,31 @@ namespace hateSpeach
                 c.SwaggerDoc("v1",
                     new Info
                     {
-                        Title = "SayNoToHateSpeach API",
+                        Title = "SafeMedia API",
                         Version = "v1",
                         Description = "Open Machine Learning API for sentiment analysis",
                         TermsOfService = "Knock yourself out",
                         Contact = new Contact
                         {
-                            Name = "Abdulrahman Sulaiman",
+                            Name = "Team",
                             Email = "i@amansulaiman.me"
                         }
                     }
                  );
-                //c.TagActionsBy(api => api.HttpMethod);
-                // var filePath = Path.Combine(PlatformServices.Default.Application.ApplicationBasePath, "MyFood.MobileAppService.xml");
-                // c.IncludeXmlComments(filePath);
-                c.AddSecurityDefinition("Bearer", new ApiKeyScheme
-                {
-                    In = "header",
-                    Description = "Please insert JWT with Bearer into field",
-                    Name = "Authorization",
-                    Type = "apiKey"
-                });
+                var filePath = Path.Combine(DataPath.AppPath, "hateSpeach.xml");
+                c.IncludeXmlComments(filePath);
+                //c.AddSecurityDefinition("Bearer", new ApiKeyScheme
+                //{
+                //    In = "header",
+                //    Description = "Please insert JWT with Bearer into field",
+                //    Name = "Authorization",
+                //    Type = "apiKey"
+                //});
 
-                c.AddSecurityRequirement(new Dictionary<string, IEnumerable<string>>
-                {
-                    { "Bearer", new string[] { } }
-                });
+                //c.AddSecurityRequirement(new Dictionary<string, IEnumerable<string>>
+                //{
+                //    { "Bearer", new string[] { } }
+                //});
             });
         }
 
@@ -98,7 +98,7 @@ namespace hateSpeach
             {
                 c.RoutePrefix = "api-docs";
                 //c.ShowRequestHeaders();
-                c.SwaggerEndpoint("/api-docs/v1/swagger.json", "SayNoToHateSpeech API v1");
+                c.SwaggerEndpoint("/api-docs/v1/swagger.json", "SafeMedia API v1");
                 
             });
 

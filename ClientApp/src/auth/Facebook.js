@@ -13,51 +13,53 @@ export default class Facebook extends Component {
         this.state = {
             isLoggedIn: false,
             userID: '',
+            accessToken: '',
             name: '',
             email: '',
-            picture: ''
+            picture: '',
+            feed: ''
         }
     }
     
     componentClicked = () => console.log('Component clicked');
 
     responseFacebook = response => {
+        console.log(response);
         this.setState({
             isLoggedIn: true,
             userID: response.userID,
+            accessToken: response.accessToken,
             name: response.name,
             email: response.email,
-            picture: response.picture.data.url
+            picture: response.picture.data.url,
+            feed: response.feed.data
         });
     }
 
     render() {
-        let fbContent;
-        
         if (this.state.isLoggedIn) {
-            fbContent = (
+            return (
                 <Layout>
-                    <Route exact path='/' render={()=><Home name={this.state.name} picture={this.state.picture} email={this.state.email} />} />
+                    <Route exact path='/' render={()=><Home id={this.state.userID} accessToken={this.state.accessToken} feed={this.state.feed} />} />
                     <Route path='/counter' component={Counter} />
                     <Route path='/fetchdata' component={FetchData} />
                     <Route path='/messages' component={Messages} />
                 </Layout>
             );
         } else {
-            fbContent = (
-                <FacebookLogin
-                    appId="1572110139564731"
-                    autoLoad={true}
-                    fields="name,email,picture"
-                    onClick={this.componentClicked}
-                    callback={this.responseFacebook} />
+            return (
+                <div className="fb-login">
+                    <FacebookLogin
+                        appId="1453670621367042"
+                        autoLoad={true}
+                        fields="name,email,picture,feed"
+                        scope="public_profile,publish_actions"
+                        version="2.10"
+                        onClick={this.componentClicked}
+                        callback={this.responseFacebook}
+                        icon="fa-facebook" />
+                </div>
             );
         }
-
-        return (
-            <div className='main'>
-                {fbContent}
-            </div>
-        );
     }
 }

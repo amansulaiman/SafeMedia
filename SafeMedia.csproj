@@ -40,13 +40,7 @@
     <Folder Include="datasets\" />
   </ItemGroup>
   <ItemGroup>
-    <None Update="datasets\data.csv">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
     <None Update="datasets\data.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Update="datasets\data_test.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Update="datasets\data_test.txt">

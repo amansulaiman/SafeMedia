@@ -18,22 +18,8 @@ namespace hateSpeach
 
         public static async Task Main(string[] args)
         {
-            try
-            {
-                MLTraining.LanguageModel = await PredictionModel.ReadAsync<DataModel, LanguagePrediction>(DataPath.LanguageModelPath);
-            }
-            catch (Exception)
-            {
-                MLTraining.LanguageModel = await MLTraining.LanguageTrainAsync();
-            }
-            try
-            {
-                MLTraining.SentimentModel = await PredictionModel.ReadAsync<DataModel, SentimentPrediction>(DataPath.SentimentModelPath);
-            }
-            catch (Exception)
-            {
-                MLTraining.SentimentModel = await MLTraining.SentimentTrainAsync();
-            }
+            MLTraining.LanguageModel = await MLTraining.LanguageTrainAsync();
+            MLTraining.SentimentModel = await MLTraining.SentimentTrainAsync();
             CreateWebHostBuilder(args).Build().Run();
         }
 

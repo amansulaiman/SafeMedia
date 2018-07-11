@@ -4,13 +4,23 @@ namespace hateSpeach.Models
 {
     // STEP 1: Data structures models
     
-    public class DataModel
+    public class LanguageModel
     {
         [Column("0")]
         public string Language;
         [Column("1")]
         public string SentimentText;
         [Column("2")]
+        public float Sentiment;
+    }
+    public class SentimentModel
+    {
+        [Column("0")]
+        public string Language;
+        [Column("1")]
+        public string SentimentText;
+        [Column("2", name:"Label")]
+        [ColumnName("Label")]
         public float Sentiment;
     }
     // LanguagePrediction is the result returned from prediction operations

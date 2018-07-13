@@ -2,6 +2,7 @@ using System.Threading.Tasks;
 using hateSpeach.Models;
 using hateSpeach.Services;
 using Microsoft.AspNetCore.Mvc;
+using SafeMedia.Models;
 
 namespace hateSpeach.Controllers
 {
@@ -9,7 +10,7 @@ namespace hateSpeach.Controllers
     /// 
     /// </summary>
     [Route("api/[controller]")]
-    public class SentimentAnalysisController:Controller
+    public class SentimentAnalysisController : Controller
     {
         /// <summary>
         /// 
@@ -19,11 +20,14 @@ namespace hateSpeach.Controllers
         /// <response code ="404">Language not supported</response>
         /// <returns></returns>
         [HttpGet()]
-        public async Task<ActionResult<SentimentModel>> Train(string sentiment)
+        public async Task<ActionResult<SentimentViewModel>> Train(string sentiment)
         {
             if (sentiment != string.Empty && sentiment != null)
             {
-                return Ok("Successfull");
+                var predictedLanguage = await MLPrediction.PredictLanguageAsync(new LanguageModel() { SentimentText = sentiment });
+                var predictedSentiment = await MLPrediction.PredictSentimentAsync(new SentimentModel() { SentimentText = sentiment });
+
+                return Ok("");
             }
             return NotFound("Invalid text");
         }

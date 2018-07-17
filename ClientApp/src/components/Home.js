@@ -10,6 +10,7 @@ export class Home extends Component {
       value: '',
       bsStyle: 'default',
       disabled: true,
+      isHateSpeech: false,
       placeholder: 'Have anything in your mind? Write it here'
     };
 
@@ -18,19 +19,23 @@ export class Home extends Component {
   }
 
   handleChange(event) {
-    // I'm simulating the response from the sentiment API here
-    // We will pass event.target.value in our request in an async function
-    // If there is hate speech it'll return 1
-    // otherwise it'll return 0
-    const sentiment = Math.floor(Math.random() * 2);
+    const sentimentText = event.target.value.replace(' ', '%20');
 
-    if (event.target.value.length > 0 && !sentiment) {
+    if (sentimentText.length > 0) {
+      Promise.resolve((async () => {
+        return await fetch(`/api/SentimentAnalysis?sentiment=${sentimentText}`).then(res => res.json());
+      })()).then(data => {
+        this.setState({isHateSpeech: data.isHateSpeech});
+      })
+    }
+    
+    if (event.target.value.length > 0 && this.state.isHateSpeech === false) {
       this.setState({
         value: event.target.value,
         bsStyle: 'success',
         disabled: false
       });
-    } else if (event.target.value.length > 0 && sentiment) {
+    } else if (event.target.value.length > 0 && this.state.isHateSpeech === true) {
       this.setState({
         value: event.target.value,
         bsStyle: 'danger',

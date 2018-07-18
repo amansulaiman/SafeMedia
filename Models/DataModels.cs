@@ -3,7 +3,7 @@ using Microsoft.ML.Runtime.Api;
 namespace hateSpeach.Models
 {
     // STEP 1: Data structures models
-    
+
     public class LanguageModel
     {
         [Column("0")]
@@ -19,7 +19,7 @@ namespace hateSpeach.Models
         public string Language;
         [Column("1")]
         public string SentimentText;
-        [Column("2", name:"Label")]
+        [Column("2", name: "Label")]
         [ColumnName("Label")]
         public float Sentiment;
     }
@@ -36,5 +36,6 @@ namespace hateSpeach.Models
     {
         [ColumnName("PredictedLabel")]
         public bool PredictedLabels;
+        public float Score;
     }
 }

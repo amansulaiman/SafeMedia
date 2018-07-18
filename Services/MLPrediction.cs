@@ -6,23 +6,23 @@ namespace hateSpeach.Services
 {
     public class MLPrediction
     {
-        public static async Task<string> PredictLanguageAsync(LanguageModel predictData)
+        public static async Task<LanguagePrediction> PredictLanguageAsync(LanguageModel predictData)
         {
             if (MLTraining.LanguageModel == null)
             {
                 MLTraining.LanguageModel = await MLTraining.LanguageTrainAsync();
             }
             var prediction = MLTraining.LanguageModel.Predict(predictData);
-            return prediction.PredictedLabels;
+            return prediction;
         }
-        public static async Task<bool> PredictSentimentAsync(SentimentModel predictData)
+        public static async Task<SentimentPrediction> PredictSentimentAsync(SentimentModel predictData)
         {
             if (MLTraining.SentimentModel == null)
             {
                 MLTraining.SentimentModel = await MLTraining.SentimentTrainAsync();
             }
             var prediction = MLTraining.SentimentModel.Predict(predictData);
-            return prediction.PredictedLabels;
+            return prediction;
         }
     }
 }

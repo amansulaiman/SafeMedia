@@ -4,6 +4,7 @@ using hateSpeach.Models;
 using Microsoft.ML;
 using Microsoft.ML.Data;
 using Microsoft.ML.Models;
+using Microsoft.ML.Runtime.LightGBM;
 using Microsoft.ML.Trainers;
 using Microsoft.ML.Transforms;
 
@@ -41,11 +42,12 @@ namespace hateSpeach.Services
             // The pipeline is trained on the dataset that has been loaded and transformed.
             var model = pipeline.Train<LanguageModel, LanguagePrediction>();
 
+            //Evaluate model
+            EvaluateLanguage(model);
+
             // Saving the model as a .zip file.
             await model.WriteAsync(DataPath.LanguageModelPath);
             
-            //Evaluate model
-            EvaluateLanguage(model);
             return model;
         }
 
@@ -73,31 +75,29 @@ namespace hateSpeach.Services
         {
             // LearningPipeline holds all steps of the learning process: data, transforms, learners.
             var pipeline = new LearningPipeline();
-
             // The TextLoader loads a dataset. The schema of the dataset is specified by passing a class containing
             // all the column names and their types.
+            
            pipeline.Add(new TextLoader(DataPath.TrainDataPath).CreateFrom<SentimentModel>());
-
             // Assign numeric values to text in the "Label" column, because only
             // numbers can be processed during model training
-            //pipeline.Add(new ColumnCopier(("Sentiment", "Label")));
 
             // Puts all features into a vector
             pipeline.Add(new TextFeaturizer("Features", "SentimentText"));
-            //pipeline.Add(new Dictionarizer("Sentiment", "Label"));
+            
             // FastTreeBinaryClassifier is an algorithm that will be used to train the model.
             // It has three hyperparameters for tuning decision tree performance. 
-            pipeline.Add(new FastTreeBinaryClassifier() {NumLeaves = 5, NumTrees = 5, MinDocumentsInLeafs = 2});
-
-            
+            pipeline.Add(new FastTreeBinaryClassifier() {NumLeaves = 128, NumTrees = 100, MinDocumentsInLeafs = 10});
+            //LightGbmBinaryClassifier
             // The pipeline is trained on the dataset that has been loaded and transformed.
             var model = pipeline.Train<SentimentModel, SentimentPrediction>();
+
+            //Evaluate model
+            EvaluateSentiment(model);
 
             // Saving the model as a .zip file.
             await model.WriteAsync(DataPath.SentimentModelPath);
 
-            //Evaluate model
-            EvaluateSentiment(model);
             return model;
         }
 

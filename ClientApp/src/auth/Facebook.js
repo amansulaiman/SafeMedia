@@ -8,7 +8,7 @@ import { Messages } from '../components/Messages';
 import FacebookLogin from 'react-facebook-login';
 
 export default class Facebook extends Component {
-    displayName: 'Hello';
+    displayName = Facebook.name;
     constructor(props) {
         super(props);
         this.state = {

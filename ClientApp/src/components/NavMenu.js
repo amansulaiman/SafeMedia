@@ -1,9 +1,9 @@
 ﻿import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-import { Glyphicon, Nav, Navbar, NavItem } from 'react-bootstrap';
+import { Glyphicon, Nav, Navbar, NavItem, MenuItem } from 'react-bootstrap';
 import { LinkContainer } from 'react-router-bootstrap';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import './NavMenu.css';
-
 export class NavMenu extends Component {
   displayName = NavMenu.name
 
@@ -20,24 +20,25 @@ export class NavMenu extends Component {
           <Nav>
             <LinkContainer to={'/'} exact>
               <NavItem>
-                <Glyphicon glyph='pencil' /> Safe Write
+              <FontAwesomeIcon icon="edit"/> Safe Write
               </NavItem>
             </LinkContainer>
             <LinkContainer to={'/counter'}>
               <NavItem>
-                <Glyphicon glyph='book' /> Safe Read
+              <FontAwesomeIcon icon="comments"/> Safe Messages
               </NavItem>
             </LinkContainer>
             <LinkContainer to={'/messages'}>
               <NavItem>
-                <Glyphicon glyph='envelope' /> Safe Messages
+                <FontAwesomeIcon icon="bug"/> Report Hate Speech 
               </NavItem>
             </LinkContainer>
-            <LinkContainer to={'/fetchdata'}>
-              <NavItem>
-                <Glyphicon glyph='export' /> Analytics
+              <NavItem href="/api-docs" target="_blank">
+                <FontAwesomeIcon icon="dot-circle"/> API
               </NavItem>
-            </LinkContainer>
+            <NavItem href="https://github.com/amansulaiman/SafeMedia" target="_blank">
+              <FontAwesomeIcon icon={['fab', 'github']}/> Contibute
+            </NavItem>
           </Nav>
         </Navbar.Collapse>
       </Navbar>

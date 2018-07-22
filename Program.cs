@@ -34,7 +34,8 @@ namespace hateSpeach
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
-            WebHost.CreateDefaultBuilder(args)
-                .UseStartup<Startup>();
+            WebHost.CreateDefaultBuilder(args).UseKestrel(options => {
+                options.Listen(IPAddress.Any, 3000); //HTTP port
+            }).UseStartup<Startup>();
     }
 }

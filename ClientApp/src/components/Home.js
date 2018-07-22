@@ -75,7 +75,7 @@ export class Home extends Component {
     return (
       <Form onSubmit={this.handleSubmit}>
         <FormGroup controlId="formControlsTextarea" bsSize="large">
-          <FormControl componentClass="textarea" style={{height: '300px', marginTop: '50px'}} value={this.state.value} onChange={this.handleChange} placeholder={this.state.placeholder} />
+          <FormControl componentClass="textarea" style={{height: '200px', marginTop: '50px'}} value={this.state.value} onChange={this.handleChange} placeholder={this.state.placeholder} />
         </FormGroup>
         <Button type="submit" bsStyle={this.state.bsStyle} bsSize="large" disabled={this.state.disabled} block>POST ON MY FACEBOOK WALL <FontAwesomeIcon icon="arrow-right"/></Button>
       </Form>

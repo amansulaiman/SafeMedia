@@ -33,8 +33,7 @@ WORKDIR /safemedia
 RUN dotnet publish -c Release -o out
 
 FROM microsoft/dotnet:2.1-aspnetcore-runtime AS runtime
-ENV ASPNETCORE_URLS http://+:3000
-#;https://+:3001
+ENV ASPNETCORE_URLS http://+:3000;https://+:3001
 WORKDIR /safemedia
 COPY --from=publish /safemedia/out ./
 ENTRYPOINT ["dotnet", "SafeMedia.dll"]

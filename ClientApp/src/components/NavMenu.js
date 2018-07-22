@@ -1,6 +1,6 @@
 ﻿import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-import { Glyphicon, Nav, Navbar, NavItem, MenuItem } from 'react-bootstrap';
+import { Nav, Navbar, NavItem } from 'react-bootstrap';
 import { LinkContainer } from 'react-router-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import './NavMenu.css';

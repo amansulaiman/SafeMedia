@@ -16,8 +16,9 @@ namespace hateSpeach.Controllers
     public class SentimentAnalysisController : Controller
     {
         /// <summary>
-        /// 
+        /// Analyze a hate speech.
         /// </summary>
+        /// <returns>The hate speech analysis.</returns>
         /// <param name="sentiment">Sentiment Text to run analysis</param>
         /// <response code ="400">Invalid text</response>
         /// <response code ="404">Language not supported</response>
@@ -42,7 +43,8 @@ namespace hateSpeach.Controllers
                 if (predictedSentiment.PredictedLabels)
                 {
                     hateSpeachConfidance = predictedSentiment.Score * 100;
-                }else
+                }
+                else
                 {
                     hateSpeachConfidance = 0;
                 }
@@ -55,44 +57,34 @@ namespace hateSpeach.Controllers
                 {
                     suggestion = "Please refine your world they might be offensive to others";
                 }
-                return Ok(new SentimentViewModel(){
-                    Language = predictedLanguage.PredictedLabels, LanguageConfidance = LanguageConfidance, IsHateSpeech = predictedSentiment.PredictedLabels, HateSpeechConfidance = hateSpeachConfidance, Suggestion = suggestion 
+                return Ok(new SentimentViewModel()
+                {
+                    Language = predictedLanguage.PredictedLabels,
+                    LanguageConfidance = LanguageConfidance,
+                    IsHateSpeech = predictedSentiment.PredictedLabels,
+                    HateSpeechConfidance = hateSpeachConfidance,
+                    Suggestion = suggestion
                 });
             }
             return NotFound("Invalid text");
         }
 
-        private static string[] Summaries = new[]
+        /// <summary>
+        /// Reports a hate speech.
+        /// </summary>
+        /// <returns>The hate speech.</returns>
+        /// <param name="model">Hate Speech Report View Model</param>
+        /// <response code ="201">Created successfully</response>
+        /// <response code ="400">Bad request invalid inputs</response>
+        [HttpPost]
+        public async Task<ActionResult<HateSpeechReportViewModel>> ReportHateSpeech([FromBody]HateSpeechReportViewModel model)
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-        };
-
-        
-        [HttpGet("[action]")]
-        public IEnumerable<WeatherForecast> WeatherForecasts()
-        {
-            var rng = new Random();
-            return Enumerable.Range(1, 5).Select(index => new WeatherForecast
+            if (ModelState.IsValid)
             {
-                DateFormatted = DateTime.Now.AddDays(index).ToString("d"),
-                TemperatureC = rng.Next(-20, 55),
-                Summary = Summaries[rng.Next(Summaries.Length)]
-            });
-        }
-
-        public class WeatherForecast
-        {
-            public string DateFormatted { get; set; }
-            public int TemperatureC { get; set; }
-            public string Summary { get; set; }
-
-            public int TemperatureF
-            {
-                get
-                {
-                    return 32 + (int)(TemperatureC / 0.5556);
-                }
+                return Created(nameof(ReportHateSpeech), model);
             }
+            return BadRequest();
         }
+
     }
 }

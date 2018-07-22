@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Form, FormGroup, FormControl, Button } from 'react-bootstrap';
-
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 export class Home extends Component {
   displayName = Home.name
 
@@ -77,7 +77,7 @@ export class Home extends Component {
         <FormGroup controlId="formControlsTextarea" bsSize="large">
           <FormControl componentClass="textarea" style={{height: '300px', marginTop: '50px'}} value={this.state.value} onChange={this.handleChange} placeholder={this.state.placeholder} />
         </FormGroup>
-        <Button type="submit" bsStyle={this.state.bsStyle} bsSize="large" disabled={this.state.disabled} block>POST ON MY FACEBOOK WALL</Button>
+        <Button type="submit" bsStyle={this.state.bsStyle} bsSize="large" disabled={this.state.disabled} block>POST ON MY FACEBOOK WALL <FontAwesomeIcon icon="arrow-right"/></Button>
       </Form>
     );
   }

@@ -1,0 +1,26 @@
+version: "3"
+services:
+    safemedia:
+        build:
+          args:
+            source: obj/Docker/empty/
+        labels:
+          - "com.microsoft.visualstudio.targetoperatingsystem=linux"
+        environment:
+          - ASPNETCORE_ENVIRONMENT=Development
+          - DOTNET_USE_POLLING_FILE_WATCHER=1
+        volumes:
+          - .:/app
+          - ~/.nuget/packages:/root/.nuget/packages:ro
+          - ~/clrdbg:/clrdbg:ro
+        entrypoint: tail -f /dev/null
+        depends_on:
+            - db
+    db:
+        container_name: database
+        image: "microsoft/mssql-server-linux"
+        environment:
+            SA_PASSWORD: "Aman@2018"
+            ACCEPT_EULA: "Y"
+        ports:
+            - 1433:1433

@@ -24,6 +24,7 @@ namespace hateSpeach.Controllers
         /// <response code ="404">Language not supported</response>
         /// <returns></returns>
         [HttpGet()]
+        [Produces("application/json")]
         public async Task<ActionResult<SentimentViewModel>> Train(string sentiment)
         {
             if (sentiment != string.Empty && sentiment != null)

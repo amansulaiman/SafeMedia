@@ -47,7 +47,7 @@ namespace hateSpeach
                         }
                     }
                  );
-                var filePath = Path.Combine(DataPath.AppPath, "hateSpeach.xml");
+                var filePath = Path.Combine(System.AppContext.BaseDirectory, "hateSpeach.xml");
                 c.IncludeXmlComments(filePath);
                 //c.AddSecurityDefinition("Bearer", new ApiKeyScheme
                 //{

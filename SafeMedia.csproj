@@ -20,6 +20,7 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
     <LangVersion>latest</LangVersion>
+    <DocumentationFile>bin\Release\netcoreapp2.1\hateSpeach.xml</DocumentationFile>
   </PropertyGroup>
 
   <ItemGroup>

@@ -9,7 +9,8 @@ FROM microsoft/dotnet:2.1-sdk AS build
 WORKDIR /safemedia
 
 # copy csproj and restore as distinct layers
-COPY *.csproj ./
+COPY *.sln .
+COPY *.csproj .
 RUN dotnet restore
 
 # copy everything else and build app
@@ -25,10 +26,15 @@ RUN curl -SL "https://nodejs.org/dist/v${NODE_VERSION}/node-v${NODE_VERSION}-lin
     && ln -s /usr/local/bin/node /usr/local/bin/nodejs
 
 #publish
-RUN dotnet publish -o out /p:PublishWithAspNetCoreTargetManifest="false"
+RUN dotnet build
 
-FROM microsoft/dotnet:2.1-runtime AS runtime
-ENV ASPNETCORE_URLS http://+:3000;https://+:3001
+FROM build AS publish
 WORKDIR /safemedia
-COPY --from=build /safemedia/out ./
-ENTRYPOINT ["dotnet", "safemedia.dll"]
+RUN dotnet publish -c Release -o out
+
+FROM microsoft/dotnet:2.1-aspnetcore-runtime AS runtime
+ENV ASPNETCORE_URLS http://+:3000
+#;https://+:3001
+WORKDIR /safemedia
+COPY --from=publish /safemedia/out ./
+ENTRYPOINT ["dotnet", "SafeMedia.dll"]

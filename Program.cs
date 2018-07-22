@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Net;
 using System.Threading.Tasks;
 using hateSpeach.Models;
 using hateSpeach.Services;
@@ -33,7 +34,8 @@ namespace hateSpeach
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
-            WebHost.CreateDefaultBuilder(args)
-                .UseStartup<Startup>();
+            WebHost.CreateDefaultBuilder(args).UseKestrel(options => {
+            options.Listen(IPAddress.Loopback, 3000); //HTTP port
+            }).UseStartup<Startup>();
     }
 }

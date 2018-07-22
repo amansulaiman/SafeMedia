@@ -21,8 +21,14 @@ namespace hateSpeach
         {
             // workaround to ensure LightGbm assembly is loaded
             //new LightGbmArguments();
-            MLTraining.LanguageModel = await MLTraining.LanguageTrainAsync();
-            MLTraining.SentimentModel = await MLTraining.SentimentTrainAsync();
+
+            //Uncomment these two lines to train new models, after finish copy .Zip files from bin/Debug folder to the root folder
+            //await MLTraining.LanguageTrainAsync();
+            //await MLTraining.SentimentTrainAsync();
+
+            MLTraining.LanguageModel = await PredictionModel.ReadAsync<LanguageModel, LanguagePrediction>(DataPath.LanguageModelPath);
+            MLTraining.SentimentModel = await PredictionModel.ReadAsync<SentimentModel, SentimentPrediction>(DataPath.SentimentModelPath);
+
             CreateWebHostBuilder(args).Build().Run();
         }
 

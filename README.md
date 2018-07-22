@@ -18,7 +18,7 @@ We collected and gathered morethan 10,000+ post from various social media users 
 After that, we build 
 
 # Challenges We ran into
-Wanne kalu bale muka fuskanta
+The most challanges we ran into is the data collection. Due to recent data provacy laws that enforce most of social media giants change theri policy on data sharing we find it diffucult to get a tool that will generate a data for us to train our model. Most of the public data we got are not hour main focus language (Hausa) hence we decided to collect morethan 5,000+ hausa post manually from social media platforms. Also, the schema we design to work with has so many data iputs to the extend that to fill a single row it will take you morethan 5 minutes, after all we design a siple shema that we use to collect morethan 6,000+ data manually from social media. 
 
 # Accomplishments that We are proud of
 Wanne abu muka cimma da muke alfahari da shi
@@ -41,3 +41,5 @@ Also to support other social media platforms like
 * React.js 
 * Facebook Login SDK
 * Facebook Graph API
+
+export ASPNETCORE_ENVIRONMENT=Development

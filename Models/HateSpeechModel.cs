@@ -46,6 +46,7 @@ namespace hateSpeach.Models
         INTRA_RELIGION,
         BOKO_HARAM,
         INTER_RELIGION,
-        POLITICS
+        POLITICS,
+        OTHERS
     }
 }

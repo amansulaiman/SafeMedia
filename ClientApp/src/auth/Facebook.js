@@ -2,9 +2,8 @@ import React, { Component } from 'react';
 import { Route } from 'react-router';
 import { Layout } from '../components/Layout';
 import { Home } from '../components/Home';
-import { FetchData } from '../components/FetchData';
-import { Counter } from '../components/Counter';
-import { Messages } from '../components/Messages';
+import { SafeMessages } from '../components/SafeMessages';
+import { ReportHateSpeech } from '../components/ReportHateSpeech';
 import FacebookLogin from 'react-facebook-login';
 
 export default class Facebook extends Component {
@@ -38,13 +37,12 @@ export default class Facebook extends Component {
     }
 
     render() {
-        if (this.state.isLoggedIn) {
+        if (!this.state.isLoggedIn) {
             return (
                 <Layout>
                     <Route exact path='/' render={()=><Home id={this.state.userID} accessToken={this.state.accessToken} feed={this.state.feed} />} />
-                    <Route path='/counter' component={Counter} />
-                    <Route path='/fetchdata' component={FetchData} />
-                    <Route path='/messages' component={Messages} />
+                    <Route path='/safemessages' component={SafeMessages} />
+                    <Route path='/reporthatespeech' component={ReportHateSpeech} />
                 </Layout>
             );
         } else {

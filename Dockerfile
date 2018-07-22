@@ -5,6 +5,7 @@
 # EXPOSE 3000
 # COPY $source .
 # ENTRYPOINT dotnet safemedia.dll
+FROM node:8
 FROM microsoft/dotnet:2.1-sdk AS build
 WORKDIR /safemedia
 

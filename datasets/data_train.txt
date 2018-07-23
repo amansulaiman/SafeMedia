@@ -5110,3 +5110,509 @@ ENGLISH	final unblock request	0
 ENGLISH	Hello Hi Blu Aardvark, glad to see you did not permanently leave Wikipedia  I was wondering why my Template:Current event template redirect wasn't working, couldn't see the obvious! )  — (talk) 2006-01-15 13:36Z Thanks  0
 ENGLISH	Will you be archiving NWS and SPC maps from today and tomorrow to include on the page? Do you think it would be a good idea? ~	0
 ENGLISH	NPOV tag An anonymous user removed the NPOV tag yesterday without any comment I don't think the article is quite ready for that yet, because its problems are not really resolved It retains a poison pen hangover from what seemed to be edits from anonymous users with an agenda, and we ended up with some odd compromises like a Miranda Devine mention in the first paragraph (she's really not important enough IMHO), dodgy sources like Cnsnewscom, continued overemphasis of race, etc Others may not agree, but let's see	0
+HAUSA	"ai Tsaye daga gidan Jagora Senator Rabiu Musa Kwankwaso India Shugaban Jamiyyar APC Chief Adam oshimole da Wasu Gwamnoni guda Uku da suka hada da Abdulaziz Yari na zamfara, Muhammad Badaru Talamiz na Jigawa da Gwamnan Kebbi Alhaji Atiku Bagudu sukaje bada hakuri tare da danna kirji kan jagora yayi hakuri kada ya fita daga APC"	0						
+HAUSA	Gwmnatin Tarayya Na Ci Gaba Da Aikin Gyaran Babban Titin Jega/Koko/Yauri A Jihar Kebbi	0						
+HAUSA	"Buhari Nagartacce Ne Wanda Ba Shi Da Nasaba Da Cin Hanci Da Rashawa, Shine Kuma Mutum Na Farko Da Babu Kamarsa A Nahiyar Afrika"	0						
+HAUSA	Baba insha Allah Allah ya kara lfy da nisan Kwana ameen wlh ina alfari da Baba amatsayin shugaban kasa na	0						
+HAUSA	"DW Hausa...muna alfahari daku domin amfani da dan lokacin (judicious use of time) shirye-shiryenku wajan amfanar da masu sauraro. True definition of radio. Ilmantarwa, fadakarwa da kuma nishadantarwa. Kudos!"	0						
+HAUSA	dw inamaiyawan saurarenku inasonkumilkawagwamnan zamfara mudai alummar jahar zamfara sai abinda allahyayi ance anturo sojoji domin samarda tsaro amma haryanzu tamkarbabu jami an tsaro kulum yanta adda saikara habaka daisukai musamman satar shanu da satar mutane da kashe rayukajama a badare barana ammaida kashemutane tamkar kiyashe idwanhar gwamnatin jaha bata iyawato tasanarda shiugabankasa	0						
+HAUSA	Dw hausa kumigawa kokemu juwaga gomnan jahar diffa mukam muna acikin tjananin rashin abinci agaramar hukumar shettimari	0						
+HAUSA	"'Yan kwanaki bayan da aka dan samu lafawar al'amura a Gabas Ta Tsakiya, sai kuma gashi al'amura na kara ta'azzara har Sakatare-Janar na Majalisar Dinkin Duniya na bayyana damuwa."	0						
+HAUSA	"A ciagaba da kokarin yin kane-kane a Afirka ta fuskoki dabandaban, Shugaban China Mr. Shi (Xi) Jingping ya isa nahiyar inda zai fadada harkokin kasuwanci da diflomasiyya da wasu kasashen na Afrika"	0						
+HAUSA	"Turawan kasar Zimbabwe sun halarci gangamin jam'iyyar ZANU-PF a birnin Harare, inda Shugaba mai ci Emmerson Mnangagwa ya masu alkawarin gonakin noma tare da kare su daga duk wani kwace nan gaba."	0						
+HAUSA	Jamhuriyar Nijar ta yaye sojojinta da za ta tura aikin wanzar da zaman lafiya kasar Mali	0						
+HAUSA	Shirin casu na wannan makon yana daga cikin jerin nunin kayan kade-kaden al'adun gargajiya a Najeriya	0						
+HAUSA	"Wannan takadama sakanin gawnatin niger da kungiyar dalubban niger,sedey muyi addu 'a amma yan siyasamu saboda yansu suna waje ne suke kayruwa rana a kullum idan masala zata kunno kay.Allah kacece mu daluban da yan niger mun galata akan wannan mulkin na fir awnan ci."	0						
+HAUSA	Al'umma a Jibia da ke jihar Katsina a arewacin Najeriya na cigaba da jimami na asarar rai da ta dukiya da aka yi sakamakon ambaliyar ruwa da aka yi	0						
+HAUSA	Kungiyar Hamas ta tsagaita wuta bayan gwabzawa da Isra'ila.	0						
+HAUSA	Saurari shirinmu na yamma kai tsaye ta shafinmu na Facebook daga nan birnin Bonn na Tarayyar Jamus.	0						
+HAUSA	"Shugabanin alummomi a jihar Filato suna ci gaba da kokarin daukar matakai domin magance tashe tashen hankula da ke aukuwa a wasu sassan jihar Shekaru biyu bayan kafa dokar ta baci a fannin ilmi a jihar Adamawa domin farfado da martabar ilmi a jihar har yanzu kwalliya ba ta biya kudin sabulu ba, ko menene dalili? A kasance da mu domin jin karin bayani."	0						
+HAUSA	"A Jamhuriyar Niger malamai da suka sa ido wajen duba jarrabawar kammala makarantar sakandare wato BAC, sun yi garkuwa da sakamakon har sai gwamnati ta biya musu hakkokinsu. Sufurin Jiragen sama na ci gaba da zama babbar matsala wajen habakar tattalin arzikin Afirka ta hanyar jawo masu zuba jari. Za a ji rahoton kann kokarin shugabannin Afirka na bunkasa wannan fannin."	0						
+HAUSA	"a plateauto yakamata ayi wakowone kabila adalnci amman in ak nuna wariya to dawuya asamu mafita ba yadda za,a ayi akashe wata kabila ashuru ba.a dauki mataki ba misali kamar mu filani ko an kashe mana al umarmu bawota hukuma dazata yi magana akai ana ga ankashe dabbobi babu tallafi komi babu"	0						
+HAUSA	Kungiyoyin fafutikar yanci biladama a Najeriya sunce jinkirin tafiyar shariu a kotuna na daga cikin kalubalen da suke fuskanta wajen gudanar da ayyukan su.	0						
+HAUSA	"Kowane rai na kaunar mai kyautata masa, wannan lamari haka yake domin kuwa duk abin da mutum ke so to lallai yana kaunar sa, sai dai a wani bangaren kalmomin biyu na nufin abu daban."	0						
+HAUSA	Masanaantar shirya fina finai ta Hollywood wuri ne da ka iya daukaka sanaar mutum ko dukushe ta a cikin minti kalilan. Jarumai 33 sun bace daga wannan masanaantar ba a jin duriyarsu.	0						
+HAUSA	"Jama'a assalamu alaikum, kamar yadda muka saba a kowanne karshen mako, sashen Hausa na muryar Amurka na kawo maku shirin ""A Bari Ya Huce"" , wanda zaku iya saurare a duk lokacin da kuke bukata a shafukan mu na voafacebook dadandalinvoa.com, ku saurari sabon shirin na ranar Asabar 21, Yuli 2018 domin jin labaran ban dariya na wannan makon da kuma irin kade kade da gaishe gaishe da suka sami shiga cikin shirin."	0						
+HAUSA	"Salam VOA,inajin dadin wannan shiri da kuke,Allah ya qara Baku ikon kai sakoni yanda suke,Allah yayi maku daukaka"	0						
+HAUSA	"Filin Abari yahuce ina matukar jin dadin wannan shirin, ku sani cikin masu sauraronku."	0						
+HAUSA	"Dan wasan Faransa, Kylian Mbappe da tauraruwarsa ke haskawa a duniyar tamaula zai yi sadaka da dukkanin kudaden da ya samu a gasar cin kofin duniya ta bana da aka kammala a Rasha da yawanssu ya kai kimanin Naira miliyan 160."	0						
+HAUSA	"Gwarzon dan wasan duniya, Christiano Ronaldo ya ce, yana godiya matuka da damar da kungiyar kwallon kafa ta Juventus ta ba shi ta buga ma ta tamaula, lura da cewa, mafi tarin lokuta, 'yan wasa masu yawan shekaru irin nasa na karewa ne a kungiyoyin kwallon kafa na Qatar ko China"	0						
+HAUSA	"Daga,hagu marigayi Mutawalle Sule,sai marigayi Magajin Gari Kabir Usman,sai marigayi Sarkin Katsina Usman Nagogo,sai marigayi Madawakin Katsina Abubakar Duwan,sai marigayi Wamban Katsina Muhammadu Danmallam,a kasa kuma marigayi Sarkin Sullubawa Hussaini Usman,Allah Ya gafarta masu da dukkan musulmi,in lokacin mu yayi Allah Ya sa mu cika da kyau da imani,Allahummaamin"	0						
+HAUSA	Wace shekara kenan?	0						
+HAUSA	Allah ya gafarta masu amin	0						
+HAUSA	Allah yayi ma Sardaunan Katsina Alhaji Ibrahim Kumasi rasuwa bayan gajeruwar jinya a asibiti a katsina. Janaida a Masjidil Bali Kumasi bayan sallar Jumaa.	0						
+HAUSA	"KA?AN DAGA CIKIN KIRARIN MARIGAYI SARKIN KANO ALHAJI ADO BAYERO, DA YADDA AKE KIRAN LAFIYA A FADAR KANO."	0						
+HAUSA	"Gwandu kalma ce wadda aka tsago ta daga#ganduwato gonar Sarki. Wannan wuri #gandu ne na Sarkin Kabi Muhammadu Kanta, a nan ne ake yi masa noma ?ar?ashin shugabancin Sarkin Gandu. Sai wurin ya rayu ya zama birni da sunan Gwandu. Birnin Gwandu ya bun?asa a sakamakon zaman Fulani masu Jihadi a ?ar?ashin jagorancin Shaihu Abdullahi ?an Fodiyo."	0						
+HAUSA	"Kamar yadda bayani ya gabata, ?asar tana cikin yankin Daular Kabaira ta Birnin Kabi, amma a shekara ta 1805 Shaihu Abdullahi ya cinye ta, ya kore su daga Birnin Kabi ya yamutse wannan Masarauta."	0						
+HAUSA	Ansamu kuren rubutu sarki na 3.sunan shi shaihu khalilu Dan abdullahin gwandu nagode	0						
+HAUSA	SARKIN KANO SIR MUHAMMADU SANUSI NA DAYA A LOKACHIN YANA CHIROMAN KANO HAKIMIN BICHI.	0						
+HAUSA	GIRMAMAWAR DA AKAYI WA MAI MARTABA SARKIN KANO ALHAJI DR. ADO BAYERO.	0						
+HAUSA	Allah ya tsinewa Nigerian Air : Kuma Idan Allah ya so sabon Kamfanin jirgin na Najeriya ba zai kai labari ba	1						
+HAUSA	"Yayin da mutane da dama su ka yaba da kokarin da Gwamnatin Tarayya ke yi na dawo da kamfanin jirgin saman Najeriya ,kwatsam kuma sai aka ji wata Tsohuwar Minista a Kasar nan tana sukar lamarin a shafin Tuwita."	0						
+HAUSA	Tsohuwar Ministar ilmin Najeriya a lokacin mulkin Obasanjo Madam Oby Ezekwesili tayi tir da shirin Gwamnatin kasar ke yi na kafa Kamfanin jirgin Nigerian Airways.	0						
+HAUSA	"Kamfanin jirgin sama ba shi ne abin da ke gaban Najeriya ba a halin yanzu, don haka ta ke fatan kar a cin ma nasara ga wannan yunkuri."	0						
+HAUSA	A halin yanzu Gwamnatin Buhari tana daf da dawo da kamfanin jirgin saman Najeriya bayan shekaru 15 da aka kashe kamfanin.	0						
+HAUSA	Ita dai wannan Minista a na ta raayin kuskure ne ta fuskar tattalin arziki ayi kokarin dawo da kamfanin na jirgin sama.	0						
+HAUSA	Kwankwaso Ba Karamin Dan Siyasa Bane	0						
+HAUSA	Ninajima ina wannan ikrarin cewa babu shakka rasa mutum irin sen kwankwaso acikin kowa ce jam iyyar siyasa bakaramin babbar asara bace.	0						
+HAUSA	Bakin Alkalamin Mu Ajike Yake Kujechanta Kare Muku Mukam Sai Baba.	0						
+HAUSA	Sojoji Sun Samu Fatattakar 'Yan Boko Haram Da Suka Yi Masu Kwantar Bauna A Sasawa	0						
+HAUSA	Rundunar Sojan Nijeriya ta tabbatar da cewa dakarunta sun samu nasarar fatattakar wasu mayakan Boko Haram wadanda suka yi masa kwantar bauna a yankin Sasawa da ke karamar hukumar Babbangida a jihar Yobe.	0						
+HAUSA	"Daraktan Yada Labarai na Rundunar Sojan Nijeriya, Birgediya Janar Texas Chukwu ya ce, sojojin sun kashe mayakan Boko Haram din da dama inda ya nuna cewa 'yan Boko Haram din sun yi niyyar kai farmaki kasuwar Babbangida ne da nufin satar abinci tare kuma da kai hari kan sojojin da ke sintiri a yankin."	0						
+HAUSA	Allah yakara karemana ku	0						
+HAUSA	Rukunin 'yan Nijeriya su 155 ne da suka makale a kasar Rasha bayan kammala gasar kwallon cin kofin duniya a lokacin da aka kwaso su bayan umarnin Shugaba Buhari.	0						
+HAUSA	Mai girma kwamishina na shara.a jahar katsina state Ahmad usman El-marzuq dan takarar sanata na cike gurbi na marugayi madawakin daura Allah yaji kansa da rahama amin Yanawa kowa dakowa dukkanin muslmin duniya fatan alkhairi na wannan babbar rana ta juma.at Mubarak	0						
+HAUSA	"Allah ya amince ,muna rokon yatabbatar EL MARZUQ AMATSAYIN SANATA DAURA ZONE INSHA ALLAH"	0						
+HAUSA	MUNA TARE DASHI	0						
+HAUSA	Jan biro maganin takadarin dalibi	0						
+HAUSA	Yau dai bari na maida wa Sanata Abdullahi Adamu raddin sukar R-APC da ya ke yi	0						
+HAUSA	"A shekaru 16 da muka yi na gwagwarmayar tafiyar Buhari, muna da daftari da kudirorin da muka tanadar domin ci gaban kasar nan. Musamman kan tsaro, tattalin arziki, matsalar matasa masu aikata laifuka musammam Boko Haram."	0						
+HAUSA	"Amma ya na cin zabe sai ya zama tamkar wani sarkin mulkin mallaka, ya kankane mulki shi da iyalin sa. Sai ya dauka cewa ko ba ministoci ma zai iya aiki, domin shi a ganin sa farin jinin sa ne kawai ya kai shi ga nasara ba kokarin wasu ba."	0						
+HAUSA	"Mun amince mu sa Buhari a gaba domin shawo kan wannan matsaloli saboda ganin cewa tsohon soja ne, ya na da kwarewar hakan kuma ba zai zama wata wahala a gare shi ba."	0						
+HAUSA	Sai da ya ga mun jajirce mu na bude masa wuta sannan ya nada ministoci amma ba da son ran sa ba.	0						
+HAUSA	Idan kun tuna a lokacin ai ya rika cewa yan siyasa surutai kawai suka iya. Ba wanda ya san da mu ya ke yi don muna cewa ya kamata ya nada ministoci.	0						
+HAUSA	"Da ya zo nada ministocin sai ya kwaso har da wasu ma da ko takamaimen adireshin wurin zaman da za a iya samun su, idan an tashi neman su, ba su da shi. San nan kuma ya kwaso har da yan-ta-more, wadanda ba da su aka yi gwagwarmaya ba."	0						
+HAUSA	A yanzu da ya ke mulkin ai ga shi kowa na ji a jikin sa. Ga matsalar tattalin arziki. Ga rashin aikin yi kuma ga rashin tsaro. Mutane da yawa tsoron zuwa gona suke yi.	0						
+HAUSA	"Abin takaici kuma jamaa sun rasa ma inda za su fadi damuwar su. Saboda wannan gwamnatin ta dauki sojojin-baka sama da 300 a soshiyal midiya. Da zarar ka fito ka bayyana raayin da ya saba ko ka fadi wani kuskure, to sojojin-bakan nan sai sun keta maka mutunci, ko kai wane ne."	0						
+HAUSA	"Babu ruwan wadannan sojojin-baka da yin nazarin maganar ka, aikin su kawai su shiga soshiyal midiya su tozarta ka."	0						
+HAUSA	"Ni na fara kiran wani taro a Kaduna gidan Bashir Dalhatu, wanda surukin Abacha ne. Akwai ni da Bashir Dalhatu sai Wada Nas da Sule Yahaya Hamma. Mu dai 34 ne muka taru muka tattauna yadda Obasanjo ke cin zarafin iyalin Abacha a lokacin. To daga nan ne batun shigo da Buhari cikin siyasa ya taso."	0						
+HAUSA	"To ya zuwa lokacin da aka rantsar da shi ba ya tare da ko mutum daya daga cikin mu 34 din nan. Duk ya zubar da mu, ya watsar da mu."	0						
+HAUSA	Kai a ranar da za a rantsar da shi ma umarni ya bayar cewa kada a bar kowanen mu ya halarci bikin rantsarwar.	0						
+HAUSA	A yanzu ya debo wadanda suka rika adawa da gaba da shi muraran a lokacin da mu ke tare da shi. Kuma wadanda ya tarkato din nan sure ne fa suka rika daure mu saboda mu na tare da Buhari.	0						
+HAUSA	"Cikin masu ikirarin masoyan Buhari na gaskiya a yanzu, har akwai wanda ya san mun san cewa su ne suka zauna a cikin daki a otal din Hilton suka rubuta sakamakon zaben 2007."	0						
+HAUSA	Shin bari na tambayi masu cewa don Buhari bai ba ni mukami ba na ke sukar sa. To a na su adalcin su na ganin bai kamata Buhari ya ba mu mukami ba?	0						
+HAUSA	Wanda ke ganin Buhari ya yi daidai sai ya je ya yi wa wani bautar shekara 16 su na neman abu daya. Bayan ya samu sai ya watsar da shi sannan zai san amsar.	0						
+HAUSA	Yau dai bari na maida wa Sanata Abdullahi Adamu raddin sukar R-APC da ya ke yi har ya na ce mana makiyan Buhari. Shi ne fa lokacin da ya na gwamnan jihar Nasarawa ya hana Sarakunan Gargajiyar jihar karbar Buhari idan ya je fadar su.	0						
+HAUSA	"Abdullahi Adamu ne fa ya ce duk Sarkin da ya bari Buhari ya je fadar sa, to bakin rawanin sa. Amma yanzu sun ga Buhari ke mulki wai su ne masu kaunar Buhari  har ya na da bakin kiran mu makiya Buhari."	0						
+HAUSA	Na san wadanda ci wa zarafi saboda Buhari kuma na san wadanda ya daure saboda Buhari. Mutumin nan sai ga shi ya koma ya na faduwa gaban sarakuna ya na kuka ya na rokon su hana Barista Mohammed Abdullahi tsayawa takarar sanata tare da shi  soboda ya san karon ba zai yi masa dadi ba.	0						
+HAUSA	Kakaf a cikin gwamnatin Buhari idan banda yan ACN ka fada min wanda ba gyauron PDP ba. Kashi 90 bisa 100 na ministocin Buhari yan PDP ne.	0						
+HAUSA	"Yau duk wani wanda ya sha zagi a baya ana ce masa rubabbe, barawo, kazami, mai laifi duk sun yi hijira zuwa APC. Duk dan PDP da ke tsoron kamun EFCC sai ya koma APC ya yi bakam kuma a karbe shi hannu bibbiyu."	0						
+HAUSA	"Duk wanda ka ga har yanzu ya na cikin PDP bai koma APC ba, to tsarkakke ne ba shi da wani aibi. To mu irin su muke so su zo mu tafi tare. Amma APC ta karbi yan PDP har da masu tambarin garkuwa da mutane da kuma Boko Haram."	0						
+HAUSA	Tsohon Mataimakin Shugaban Kasa Atiku Abubakar ya kaddamar da takarar shugaban kasa a karkashin jamiyyar PDP.	0						
+HAUSA	Dubban magoya bayan sa sun cika filin wasa na Jimeta inda ya sha alwashin dawo da kassr nan a cikin hayyacin ta.	0						
+HAUSA	Atiku ya ce za a fi tuna gwamnatin Buhari da asarar dubban rayuka fiye da wani amfani da gwamnatin ta samar.	0						
+HAUSA	"A dalilin kashe-kashen da ka yi ta samu a kasar nan da ake ta danganta shi da ayyukan wasu yan barandan makiyaya, mutanen da aka kashe a wannan mulki na APC sun fi wadanda aka kashe a kasashen Iraki da Afghanistan. Atiku ya ce idan ya zama shugaban kasa zai kawo karshen irin wannan kashe-kashe."	0						
+HAUSA	"Daga nan sai Atiku ya kara da nuna wani abin da ya kira babbar matsalar da gwamnatin Buhari ta haifar wato mummunan rabuwar kawuwan kabilun kasar nan, fiye da can baya."	0						
+HAUSA	Ya ce duk wadannan matsaloli ne da zai gaggauta kawar da su da zaran ya hau mulkin kasar nan.	0						
+HAUSA	"Atiku zai fuskanci gwagwagwa da sauran yan takara irin su Sule Lamido, Ahmed Makarfi da kuma irin su Rabiu Kwankwaso da Aminu Tambuwal da ake tsimayen canja shekar su zuwa PDP kwanan nan."	0						
+HAUSA	"Tun bayan kafa sabuwar jamiyyar R-APC daga APC, zuwa yanzu siyasa ta dau zafin da banda yarfe gumi a goshi ba abin da jamiyya mai mulki ke yi."	0						
+HAUSA	Shugaban APC Adams Oshimhole ya fita rangadin tausar kirgin manyan yan jamiyyar da suka fidda maitar ficewa jamiyyar gaba daya.	0						
+HAUSA	"Duk da haka, PREMIUM TIMES ta tsakuro wasu sanatoci 20 da ake kyakkyawan zaton ficewar su daga jamiyyar."	0						
+HAUSA	"Duk da dai ba laifi daya gaba dayan su aka yi musu ba, amma dai dalilan ba su wuce rikicin cikin jamiyyar ne."	0						
+HAUSA	"Akwai masu kulafucin shi kansa Shugaba Buhari da kuma dalilai na maida su saniyar-saniyar ware a jihihin su, musamman ga masu rashin jituwa su da gwamnonin jihar su."	0						
+HAUSA	Shugaban kasa Muhammadu Buhari ya bayyana cewa daya daga cikin dalilan da ya sa ya fadi wa yan Najeriya da duk duniya raayin sa na sake yin takara a 2019 shine don a sami daidaituwa a Jamiyyar su ta APC.	0						
+HAUSA	Shugaba Buhari ya bayyana haka ne da yake zantawa da kungiyar gamayyar kungiyoyi masu yi masa kamfen wanda shugaban ta Umaru Dembo ya ke jagoranta.	0						
+HAUSA	Ya zama min dole in sanar wa uwar Jamiyyar mu cewa ina so in yi takara a 2019 da wuri saboda a dan samu natsuwa da kwantar wa wasu da dama da hankula.	0						
+HAUSA	Sannan kuma hakan ya sa an sake yin zabubbukan wakilai da shugabannin jamiyyar mu ta APC tun daga kasa har sama.	0						
+HAUSA	Idan kun tuna a da wasu shafaffu da mai ne suka zama a wuri daya su rubuta sakamakon zabe a kasar nan sai Allah ya taimaki Najeriya aka kawo naurar mai tantance wanda ya kada kuria. Wannan damar da aka samu yasa an sami nasara sannan aka ba mutane wadanda suka zaba a 2015.	0						
+HAUSA	"Buhari ya roki yan Najeriya da su zabi wadanda suka ga sun dace, wadanda zasu yi alfahari da su."	0						
+HAUSA	"A nashi tsokacin, Dembo ya ce wannan gamayyar kungiyoyi zasu dukufa ne wajen sake tallata shugaba Buhari a kasar nan , sako-sako, lungu-lungu, kurdi-kurdi, Kwararo-Kwararo domin ganin ya lashe zaben 2019."	0						
+HAUSA	"A ranar jajibirin gangamin jamiyyar PDP da za a gudanar yau Asabar a Abuja, sai ga wani sabon rikici ya tirnike reshen Arewa-maso-maso yamma na jamiyyar inda aka yi zargin yin karfa-karfa wajen dora yan takara mukamai."	0						
+HAUSA	"Taron da masu ruwa da tsakin jamiyyar na wannan shiyya su ka yi a jiya Jumaa, a gidan tsohon jakadan Najeriya, Aminu Wali, an tashi baram-baram, har ta kai tsohon shugaban kasa Namadi Sambo ya fice daga taron a fusace, tun kafin lokacin tashi."	0						
+HAUSA	"An amince cewa wannan yanki ne zai samar da Sakataren Jamiyya na Kasa da kuma Shugabar Jamiyya ta Kasa, sai kuma Mataimakin Maaji na Kasa, har da Mai Bayar da Shawara Kan Alamurran Sharia."	0						
+HAUSA	"PREMIUM TIMES ta gano cewa manyan iyayen jamiyyar na wannan shiyya, ciki har da jagoran su Aminu Wali, sun bukaci a samu matsaya guda ta yadda za su fito da wadanda za a zaba ta hanyar maslaha, ba sai an kai ga yin zabe ba."	0						
+HAUSA	"Sai wani mai suna Sani Mashi ya ce hakan ba zai yiwu ba, domin kowane dan takara ya kashe kudi ya sayi fam, kuma an tantance shi. Don haka a bar dimokradiyya ta yi aikin ta."	0						
+HAUSA	Mashi dai ya fito ne takarar mataimakin mai bayar da shawara kan alamurran sharia.	0						
+HAUSA	"Ya kara da cewa da a cewa sun janye wa mutum daya, har gara a ce mutum dayan ya kayar da su a Dandalin Eagle Square zurin zabe."	0						
+HAUSA	"Maimakon su tuntube mu tun tuni tukunna, amma sai an zo karshe su ce wai umarni suka ba mu, saura su janye wa wani? Haba!"	0						
+HAUSA	"Wannan kiki-kaka ce ta janyo har tsohon mataimakin shugaban kasa, Namadi Sambo ya fice daga taron a fusace. Inji Sani Mashi."	0						
+HAUSA	"Wasu da suka halarci taron, sun hada da Ibrahim Shekarau, Attahiru Bafarawa, Sule Lamido, Ibrahim Shema da Ramalan Yero."	0						
+HAUSA	"Akwai kuma Kabru Turaki, Bello Halliru, Danjuma Laeh, Bello Hayatu Gwarzo, Ibrahim Sharu, Ibrahim Tsauri, Nenadi Usman, Baraka Sani da Sauran su."	0						
+HAUSA	"An ce kuma masu neman su yi wa yan takara karfa-karfa, sun kasa cimma nasarar dora Sanata Ibrahim Tsauri a matsayin dan takarar Sakataren Jamiyya na Kasa, bisa sauran yan takara da suka hada da: Abubakar Mustapha da Nenadi Usman."	0						
+HAUSA	"Haka ita ma Baraka Usman daga Kano, an nemi ta janye wa wata kifin-rijiya mai suna Mariya Bala Waziri, amma Baraka ita ma ba ta janye din ba."	0						
+HAUSA	Haka kuma an ki yarda a janye wa Wada Masu daga takarar Mataimakin Maajin Jamiyya na Kasa. Masu dai shi ne jamiin da ke wa Aminu Wali yan buge-bugen takardu a ofishin sa. Haka daya daga cikin wanda ya halarci taron ya shaida wa PREMIUM TIMES.	0						
+HAUSA	"Adeleke ya samu kuriu 1,569, yayin da mai bi masa Akin Ogunbiyi ya samu kuriu 1,562, wato da kwaya bakwai kacal Adeleke ya yi rinjaye kenan."	0						
+HAUSA	"Wasu sun nemi a sake lissafawa, amma sai shugaban shirya zaben, kuma Gwamnan Jihar Bayelsa, Seriake Dickson ya ce tunda ya rigaya ya bayyana sakamako, maganar sake lissafa kuriu ba ta taso ba."	0						
+HAUSA	"Adeleke tsohon dan APC ne, amma lokacin da yayan sa Isiaka Adeleke ya rasu sadda ya na Sanatan Osun ta Yamma, sai Adeleke ya canja sheka lokaci guda, ya tsaya takara a karkashin PDP kuma ya yi nasara."	0						
+HAUSA	Shi ne sanatan nan da ba ya gajiya da rawa ko a gaban wa takawa ya ke yi.	0						
+HAUSA	"Mutane uku sun mutu, yayin da wasu da dama suka ji ciwo a lokacin da wani jirgin kasa ya banke wata mota kirar bas a daidai Pen Cinema a Legas, yau Jumaa."	0						
+HAUSA	"Wani da aka yi hadarin kan idon sa mai suna Raji Oladimeji, ya shaida wa Kamfanin Dillancin Labarai na Najeriya, NAN cewa hadarin ya faru a daidai lokacin da direban bas din ke kokarin yin kwana a kan titin jirgin kasan."	0						
+HAUSA	"Sai da muka gargadin direban bas din muka ce kada ya kuskura ya tsaya yin kwana a kan titin jirgin, saboda ya kusa da wuri, amma ya ki jin maganar mu."	0						
+HAUSA	"Jirgin na isowa ya bangaji bas din, sai fasinjoji uku daga cikin wadanda ke makale da jirgin a waje, suka fado kasa, suka mutu, wasu kuma da suka fado suka ji raunuka. Inji Oladimeji, wani mai gyaran lantarki."	0						
+HAUSA	"Ya ce wasu hasalallun matasa sun banka wa bas din wuta, yayin da aka dauki wadanda suka ji ciwo aka garzaya da su asibiti."	0						
+HAUSA	"Manajan Tashar Jirgin Kasa ta Lagos, Jerry Oche ya ce ya tabbatar da cewa hadarin ya auku ne da misalign karfe 9:30 na safe."	0						
+HAUSA	Wasu da ba asan ko su waye ba sun kashe wani maaikacin babban bankin Najeriya CBN a garin Gusau.	0						
+HAUSA	Kakakin yan sandan jihar Zamfara Mohammed Shehu ya tabbatar da aukuwar wannan mummnunar abu.	0						
+HAUSA	Wadannan yan bindiga sun far wa gidan Kabiru Zango da karfe uku da rabi na dare inda suka dirka masa harsashi a tsakiyar kansa.	0						
+HAUSA	"Kafin yan sanda su iso wannan wuri bayan waya da akayi musu wadannan mutane su gudu, saidai ya ce tuni yan sanda sun fara bincike a kai."	0						
+HAUSA	Tuni dai har an tafi da gawar Zango Katsina da nan ne asalin jihar sa don yi masa sutura.	0						
+HAUSA	Gobara da ya fara ci tun da karfe 1:30 na dare ya babbake shaguna sama da 200 a babbar kasuwar Taminus dake garin Jos Jihar Filato.	0						
+HAUSA	Kwamishinan yan sandan jihar Filato Undie Andie ya tabbatar wa manema labarai aukuwar gobarar.	0						
+HAUSA	Ya ce yan sanda sun iya kubutar da wasu kaya daga kasuwar kuma duk suna ofishin su. Da zaran an kammala tantance masu shi za amika musu.	0						
+HAUSA	Shugaban yan kasuwan Taminus Jimoh Yusuf ya ce akalla shaguna 217 ne suka kone sannan akwai wani da ya rasa kayan kusan naira miliyan 28.	0						
+HAUSA	"Akwaine 166 da ya basu jarin naira 180,000 da dukkan su suna dan yin kananan sanaoi kuma duk ya shafe su wannan gobarar."	0						
+HAUSA	Shugaban masu kananan sanaoi a kasuwar Mustapha Ibrahim ya ce yan kasuwa sun rasa kayan sama da miliyan 70.	0						
+HAUSA	"Kwamitin Raba Kudade na Tarayya, FAAC, ya saki naira biliyan 669 domin kasafta wa gwamatocin tarayya, jihohi da kananan hukumomi."	0						
+HAUSA	Kwamitin ya bayyana cewa an saki kudin ne domin gwamnatoci su iya biyan albashi domin rage radadin tsaikon biyan maaikatan gwamnati albashin watan Yuni da ba a yi ba a jihohi da yawa.	0						
+HAUSA	"Zaman da aka yi cikin watan Yuni domin a kasafta kudi, bai haifar da da mai ido ba, domin an yi ta tirka-tirka kan batun yadda za a raba naira biliyan 147 daga ribar man fetur da NNPC ke bayarwa."	0						
+HAUSA	"Tun bayan wannan lokaci, sun sake zama har sau biyu, amma aka kasa cimma matsayar abin da za a raba, wanda haka ya kawo aka daga taron har sai yadda hali ya yi."	0						
+HAUSA	"Da yawan maaikatan gwamnatin tarayya, jihohi da kananan hukumomi basu karbi albashin watan Yuni ba."	0						
+HAUSA	"Maimakon a yi ta zaman dirshan a haka, sai gwamnatin tarayya ta yanke shawarar yin amfani da kudaden ribar watan Mayu 2018 da za a raba, ta sake su domin a biyan albashin watan Yuni da su."	0						
+HAUSA	"Sanarwar da Kakakin Maaikatar Harkokin Kudade, Hassan Dodo ya aiko wa PREMUM TIMES a ranar Jumaa, ta bayyana yadda aka rarraba kudaden."	0						
+HAUSA	"Gwamnatin Tarayya ta samu naira biliyan 282.2, gwamnatocin jihohi sun tashi da naira bilyan 181.7 yayin da kuma aka raba wa kananan hukumomi naira 136.5"	0						
+HAUSA	Yau ne da misalin karfe 11 na safe aka fara jigilar maniyyata aikin Hajjin bana.	0						
+HAUSA	An fara ne mako guda cur da fara aikin Hajji din a Saudi Arabiya.	0						
+HAUSA	"Kakakin Hukumar Alhazai ta Kasa, Fatima Sanda, ta ce yau Asabar ne jirgin Max Air zai fara daukar maniyyata daga jihar Kogi."	0						
+HAUSA	Za a kaddamar da jigilar da misalin karfe 11: na safe a filin jirginNnamdi Azikwe dake Abuja.	0						
+HAUSA	Ta ce wadanda aka kwasa din za a zarce da su ne kai tsaye zuwa Madina.	0						
+HAUSA	"Da ta ke magana a kan aikin tantance maniyyata, Usara ta ce ya zuwa yanzu dai an tantance 17,000 yayin da 5,000 har sun karbi bizar su."	0						
+HAUSA	Ta yi kiran a kara hakuri kuma a ci gaba da bi a hankali wajen aikin tantancewar.	0						
+HAUSA	"FIFA ta zabi dan wasan Super Eagles, Ahmed Musa, cikin wadanda za su fafata cikin kwallon da aka fi nuna bajinta, kwarewa da kuma bugrgewa wajen jefa ta raga a gasar cin Kofin Duniya na 2018, da aka kammala jiya Lahadi a Rasha."	0						
+HAUSA	"A gasar ta bana dai an jefa kwallaye 167, amma 18 daga cikin su kadai FIFA ta tsame domin a fitar da mafi birgewa da nuna kwayewa a wajen jefa ta raga."	0						
+HAUSA	"Kwallon da Musa ya ci ta biyu, a wasan Najeriya da Iceland ce aka dauka. Dama kwallaye biyu ya ci a wasan na Najeriya da Iceland din."	0						
+HAUSA	Cikin wadanda aka zaba har da kwallo ta uku da Cristiano Ronaldo ya ci Spain da kuma kwallon da Messi ya ci Najeriya.	0						
+HAUSA	"Akwai kwallon da dan wasan Rasha. Denis Cheryshev ya ci, haka ta wani dan wasan Rasha din mai suna Artem Dzyuba."	0						
+HAUSA	Bincike ya nuna cewa cin man kifi wanda ake kira Omeg 3 Supplements a turance baya cutar da masu fama da cutar zuciya.	0						
+HAUSA	"Wasu masu yin nazari da bincike a fannin kiwon lafiya dake kasar Britaniya suka gano haka bayan sun gudanar da bincike kan ko akwai illolin da cin man kifi ke yi a jikin mutane 112,059 musamman wadanda dake fama da matsala a zuciya."	0						
+HAUSA	Bayan haka kuma bayanan binciken sun nuna cewa tabbas ba ta yi wa jiki lahani musamman masu dauke da cutar a zukatan su mai makon haka ma lafiya yake kar wa mara lafiya sannan ya samar masa da kariya.	0						
+HAUSA	Wasu kungiyoyi masu zaman kansu za su tattauna matsayin gwamnatin game da ayyukan shirin muradin karni (MDGs) da ya shafi fannin kiwon Lafiya.	0						
+HAUSA	Kungiyoyin da suka kai 12 za su tattauna a wannan taro ranar Alhamis a Abuja.	0						
+HAUSA	Kungiyoyin da suka shirya wannan taro sun hada development Research & Project Center (dRPC) da Partnership for Advocacy in Child and Family Health (PAS) project.	0						
+HAUSA	Kungiyoyi sun shirya wannan taro ne domin tattauna matsalolin da kudirin Task Shifting Task Sharing (TS) policy ke fama da su da hanyoyin da za a bi domin kauce musu wurin zantar da ayyukan da ya shafi fannin kiwon lafiya a kasar nan.	0						
+HAUSA	"Bangarorin kiwon lafiya da Kudirin TS ke aiki a kai sun hada da inganta kiwon lafiyar mata da yara kanana, cutar kanjamau, zazzabin cizon sauro, tarin fuka da sauran cututtukan da ake kamawa ta hanyar shakar iska da sauran su."	0						
+HAUSA	Faransa ta doke kasar Croatia a wasan karshe da aka buga ranar Lahadi a kasar Rasha.	0						
+HAUSA	Fransa ta doke Croatia da ci 4  2.	0						
+HAUSA	A jiya ne kasar Belgium ta doke kasar Ingila don zama na uku.	0						
+HAUSA	Bayan gumurzu da akayi ta kusan awowi uku kasar Croatia ta jefa kwallon ta ta biyu a ragar kasar Ingila.	0						
+HAUSA	Mario Manzukic ne ya jefa kwallon bayan an dawo hutun rabin lokaci na karin lokaci da aka yi.	0						
+HAUSA	Yanzu dai Kasar Ingila za ta kara ne da kasar Belgium don neman gamawa a na uku.	0						
+HAUSA	Ita kuwa kasar Croatia za ta gwabza ne da kasar Faransa.	0						
+HAUSA	"Za a buga wasar karshe ne ranar Lahadi mai zuwa, sai dai kafin nan za a buga wasan Ingila da Belgium ne ranar Asabar."	0						
+HAUSA	Kasar Faransa ta doke kasar Belgium da ci daya mai ban haushi a wasan cin kofin kwallon kafa ta duniya da ake bugawa a kasar Rasha.	0						
+HAUSA	"Dan wasan Barcelona, Umtiti ne ta jefa wa Belgium kwallo dayan da ya makale har karshen wasa."	0						
+HAUSA	Kasar Belgium dai tayi kokarin ganin ta ramo wannan kwallo amma ina hakan bai samu ba sai har aka hura tashin wasa.	0						
+HAUSA	Yanzu dai za ta buga wasan wanda zai fito a na uku tsakanin ta da wanda aka ci a wasa tsakanin kasar Ingila da Croatia.	0						
+HAUSA	"A gasar cin Kofin Duniya na shekarar 2018, babu wata kasar Afrika da ta taka rawar da ta kai ta ga shiga zagaye na biyu."	0						
+HAUSA	"Dukkan kasashen da suka wakilci Afrika da suka hada har da Najeriya an koro su gida, tuni har sun manta da sun je wasan cin kofin duniya."	0						
+HAUSA	"Sai dai kuma wani abin mamaki shi ne, har yanzu akwai yan wasan da asalin su daga Afrika ne har su 20 da ake ta fafatawa da su, amma su na wakiltar kasashen Turai ne."	0						
+HAUSA	"Kasar Belgium da ta kori Brazil ta samu hayewa zuwa wasan kusa da na karshe, ta na da yan asalin Afrika da suka hada da: William Carvalho daga Angola, Eder daga Guinea Bissau, Divock Origin daga Kenya, Nasir Chadli daga Morocco, Marouane Fellani daga Morocco, Michy Batshuayi daga Jamhuriyar Kongo shi da Lukaku."	0						
+HAUSA	"Idan mu ka dubi yan wasan kasar Faransa, akwai yan asalin Afrika har takwas. Dalili kenan idan su na wasa wasu sai su yi tsammani ko wata kasar Afrika ce ke wasa, ba Turawa ba."	0						
+HAUSA	"A Faransa akwai Samuel Umtiti daga Kamaru, NGolo Kante daga daga Mali, Kelian Mbappe daga Guinea Bissau da Najeriya, Adil Rani daga Morocco, Blaise Matuidi daga Angola, Steve Mandala daga Jamhuriyar Kongo, sai kuma Ousmane Dembele daga kasar Mali."	0						
+HAUSA	Fitattun yan wasan Ingila uku duk yan asalin Afrika ne. Akwai Daniel Alaba shi da Danny Welbeck daga Najeriya sai kuma Leroy Sane dan asalin Senegal.	0						
+HAUSA	"Akwai wasu yan wasan kuma kamar su Paul Pogba, Dele Ali, da suma suna da asali da nahiyar Afrika."	0						
+HAUSA	Bayan tafka gumurzu da aka yi tsakanin kasar Rasha mai masaukin baki da kasar Croatia da aka tashi 2-2 ya kai ga sai da aka yi bugun daga kai sai gola.	0						
+HAUSA	Croatia ta doke Rasha a wannan bugu.	0						
+HAUSA	Yanzu dai kasar Croatia zata kara ne da kasar Ingila a bugun kusa da na karshe wato kwata-Final.	0						
+HAUSA	Kasar Belgium zata kara da kasar Faransa.	0						
+HAUSA	Kasar Brazil da ake wa zaton ita ce zata lashe gasar cin kofin kwallon kafa ta duniya yau dai ta ci taliyar ta karshe.	0						
+HAUSA	Kasar Belgium ta doke Brazil da ci 2-1 a wasa na biyu da aka buga ranar Jumaa.	0						
+HAUSA	Tun da farko dai kasar Belgium ne ta zura wa Brazil kwallaye 2 a raga inda a cikin mintuna 10 da kammala wasan Brazil ta samu damar jefa kwallo daya.	0						
+HAUSA	Yanzu dai shima Neymar da ya rage a gasar cikin mashahuran yan wasan da suka zo kasar Rasha zai tattara nashi-ina-nashi ya koma gida kamar yadda su Messi da Ronaldo suka yi.	0						
+HAUSA	"A wasan farko da aka buga da yammacin Jumaa, kasar Faransa ta doke Urugay da ci biyu babu ko daya."	0						
+HAUSA	"Anan ma fitaccen dan wasan Barcelona, Suares ya kasa ceto kasar tasa don ta iya kaiwa zagayen na kusa da karshe."	0						
+HAUSA	"Mako daya bayan tawagar jagororin Kungiyar Kwallon Kafar Najeriya da yan wasa sun dawo daga gasar cin Kofin Duniya daga Rasha, Ministan Wasanni Solomon Dalung ya umarci Shugaban Hukumar Kwallon Kafa ta Kasa, Amaju Pinnick da ya gaggauta sauka daga kan mukamin sa."	0						
+HAUSA	"Wannan umarni kuwa na cikin wata wasika da Ministan ya aika wa Shugaban Hukumar Kwallon Kafa na Kasa, wadda Babban Hadimin Ministan, Nneka Ikem Anibeze ya sa wa hannu, Dalung ya nusasshe da Pinnick umarnin da kotu ta bayar, inda ta jingine zaben ranar 30 Ga Satumba, 2014, wanda shi ne ya kai Pinnick din zama shugaban hukumar ta kwallon Najeriya."	0						
+HAUSA	Dalung ya kara da cewa umarnin da ya bayar ya biyo tunatarwar da Antoni Janar na Tarayya ya yi wa Maaikatar Wasanni cewa ta sanar da Pinnick ya gaggauta bin umarnin kotu.	0						
+HAUSA	A kan haka ne Minista Dalung ya ce umarnin kotu ne shi ma ya bi da aka ce ya umarci Pinnick ya sauka.	0						
+HAUSA	"Wannan umarni ne daga kotu, ba daga Dalung ba. Ba zan so haka kawai dalilin wani a tura ni kurkukun Kuje ba, saboda kin bin umarnin kotu."	0						
+HAUSA	"Don haka ina umartar ka da ka bi umarnin kotu na ranar 5 Ga Yuni, 2018, ka sauka. Kamar yadda ni ma aka ba ni umarni aka ce na sanar da kai umarni daga kotu, ka sauka."	0						
+HAUSA	"Tuni dai ita kuma FIFA ta rubuto cewa ita ba ta san da wasu shugabannin hukumar kwallon kafar Najeriya, sai Amaju Pinnick da sauran mukarraban sa."	0						
+HAUSA	"Gwamnan jihar Sokoto, Aminu waziri Tambuwal ya karrama dan kwallon Najeriya Shehu Abdullahi."	0						
+HAUSA	"Tambuwal ya yi wa Abdullahi kayutar gida, da fila da kujeran Hajji."	0						
+HAUSA	Bayan haka ya yabawa dan wasan ganin cewa shine dan wasa taya tal daga jihar Sokoto da ya sami damar shiga kungiyar Super Eagles din da suka fafata a wasan kwallon kafa ta world cup da ake bugawa yanzu haka a kasar Rasha.	0						
+HAUSA	"Duk da cewa Brazil ta zuba kwallye biyu a ragar Mexico, hakan bai nuna bajintar kungiyar kwallon kafar kasar sosai ba, sai dai kawai a ce ta tsira da mutuncin ta zuwa wasa na kwata-final kawai."	0						
+HAUSA	"Dan wasan PSG, Neymar ne ya fara jefa kwallo a daidai minti na 51, shi kuma Firminho na Liverpool ya antaya kwallo ta biyu."	0						
+HAUSA	"Sai dai kuma mai horas da yan wasan Mexico, Osorio, ya yi tir da alkalin wasa inda ya ce an nuna wa yan wasan sa bambanci karara."	0						
+HAUSA	"Brazil ta samu hayewa, yayin da sauran mashahuran kasashen da ake tunanin cewa a tsakanin su ne za a yi rububin damke kofin duniya, wato Germany, Spain, Portugal da Spain, duk an kora su zuwa gida."	0						
+HAUSA	"Ana dai ci gaba da ganin wallen alkalan wasa yayin da dimbin masu kallo ke fadar raayoyin su cewa su na lalata wasan kwallo, ta hanyar busar da ba ta dace ba kwata-kwata."	0						
+HAUSA	"A wasan Spain da Rasha, Spain ta samu bugun daga kai sai mai tsaron gida har sau biyu, amma ba a ba ta ba, kamar irin yadda aka yi wa Najeiya a wasan ta da Ajantina."	0						
+HAUSA	"Sai dai kuma abin mamaki, kwallo ta dira kan hannun dan wasan Spain, Gerard Pique, kuma ta baya, bai ma san ta dira ba, amma alkalin wasa ya hura bugun daga kai sai mai tsaron gida."	0						
+HAUSA	"Gasar cin Kofin Duniya da ke gudana a Rasha, ta zo da ban-mamaki, yadda tun a zagaye na biyu aka kori manyan mashahuran yan kwallon duniya biyu da aka fi ji da su a duniya, Messi da Ronaldo."	0						
+HAUSA	"Ajantina ta sha kashi a hannun Faransa, ita kuma Portugal ta ci dukan tsiya a hannun Uraguay."	0						
+HAUSA	"Dama ita Ajantina tun farko da kyar da jibin goshi ta samu fitowa gasar, saboda yadda kwallo ya yi wa Messi santsi."	0						
+HAUSA	"MESSI: An kara karya alkadarin Messi da Ajantina yayin da Croatia ta ragargaje ta. Messi ya jefa kwallo daya da kyar a gasar, wanda hakan ya kara tabbatar wa jamaa masu shaawar kwallo a duniya cewa kurin Messi na Barcelona ne, idan ya fita daga kulob din ya zama nama."	0						
+HAUSA	"A wasan da Ajantina ta ci Najeriya 2-1, kiri-kiri alkalin wasa ya yi wa Najeriya sagegeduwar hana ta bugun daga kai sai mai tsaron gida har sau biyu. Wanda da an yi haka, da Ajantina ba ta samu damar zuwa zagaye na biyu ba."	0						
+HAUSA	"Wannan ne ya sa awasan jiya Asabar da Faransa ta kori su Messi zuwa gida, Yan Najeriya suke murna da kade-kade, ana yi wa kasar shagube da wakokin muzantawa."	0						
+HAUSA	"An nuno hoton Messi ya cire riga, nan da nan a wasu gidajen kallon kwallo a Kano, aka rika yi masa sowa ana tafi, ana cewa: A wanke jersey sai badi."	0						
+HAUSA	"A Instagram kuwa, Ajantina da Messi sun sha cakarkaca musamman a hannun yan fim din Hausa abokar zumunci Ahmed Musa, dan kwallon Najeriya."	0						
+HAUSA	"Hadiza Gabon, Mansura Isa da sauran yan fim da yawa sun rika yi wa Messi shagube. A gaida gida, Umma ta gaida Aisha. Haka mawakiya Sadiya Yarima ta rubuta a karkashin hoton Messi."	0						
+HAUSA	"RONALDO: Duk duniya an yi zaton Ronaldo ya dira gasar nan da kafar dama, ganin yadda a wasan san a farko ya zurara wa Spain kwallaye uku shi kadai."	0						
+HAUSA	An kara sara wa Ronaldo a lokacin da ya ci Spain kwallo ta uku da bugun firikik ban ban-alajabi.	0						
+HAUSA	"Kafin wannan bugun firikik, Ronaldo ya buga irin sa a wasannin Portugal sau 44 a jere amma bai yi nasarar jefa kwallo ba, sai a ranar."	0						
+HAUSA	"Kwallon da ya ci a wasa na gaba, ya sa Ronaldo ya zama wanda ya fi sauran yan wasan kasar Turai cin kwallaye da yawa a gasannin cin Kofin Duniya a tarihin gasar."	0						
+HAUSA	"Akwai masoyan Ronaldo da suka rika cika bakin cewa sai gwanin na su ya ci kwallaye tara kafin a kammala gasar, duk kuwa da cewa a wasan Portugal na karshe a rukunin su, ya buga bugun daga kai sai mai tsaron gida, amma mai tsaron gida ya kama kwallon."	0						
+HAUSA	"Ci biyu da dayan da Urugay ta yi wa Portugal jiya Asabar, ya karya duk wasu fukafuki da Ronaldo ke faffaka da su idan ya shiga filin kwallo."	0						
+HAUSA	"Dimbin magoya bayan Messi da Barcelona a duniya sun cika da murna bayan da alkalin wasa ya hura tashi bayan DA Uraguay ta yi galaba a kan Portugal, domin kowa ya san wannan usur da aka hura, an hura wa Ronaldo ne cewa ya kama hanyar garin su, idan ya ga dama ya bi ta hanyar da Messi ya bi ya bar kasar."	0						
+HAUSA	"Abin haushi, An ci su Ronaldo kwallo ta biyu, a ragar da ya ci Spain kwallaye uku girmis shi kadai."	0						
+HAUSA	"Yanzu dai Sarkin Mafarautar Ajantina, da abokin adawar sa na Spain, wadanda ake ganin farautar da ake kan ganiyar yi a dajin Rasha duk za su iya komawa gida da naman, giwa, to an samu wani hurtumin tunku ya fatattake su, sun gudu zuwa gida, ba tare da sun kamo ko da janwalagwada, namijin kadangare ba."	0						
+HAUSA	Har yanzu dai manyan kasashen da ake sa ran za su ci kofin kwallon kafa ta duniya duk sai waje rod suke yi.	0						
+HAUSA	"A yammacin Lahadi, kasar Rasha wato mai masaukin baki ta doke kasar Spain a bugun daga kai sai gola."	0						
+HAUSA	Kasar Rasha ta jefa kwallaye hudu cikin duka kwallayen da ta buga inda ita kasar spain ta jefa kwallaye biyu ne kawai cikin hudu da ta buga.	0						
+HAUSA	Rasha na buga na hudun wasa ya kare.	0						
+HAUSA	"Yanzu dai suma kasar Spain sun bi sawun kasashen Germany, Argentina, Najeriya, Egypt da sauran kasashen da suka riga sukafice daga wasan."	0						
+HAUSA	Kamar yadda Messi da kasar Ajantina suka sha zana hannun kasar Faransa haka Ronaldo da kasar sa na Portugal suka kwashi kashin su a hannun Urugay.	0						
+HAUSA	An lallasa kasar Portugal da ci 2 da 1.	0						
+HAUSA	"Shahararren dan wasan Urugay mai buga wasa a kasar Faransa, Edison Cavanni ne ya zura musu kwallaye biyu."	0						
+HAUSA	Yanzu dai kasar Urugay za su gwanza da kasar Faransa a zagayen kwata-Final	0						
+HAUSA	Kasar Faransa ta yi wasan kura da kasar Ajantina a wasan zagaye na biyu na cin kofin kwallon kafa ta duniya.	0						
+HAUSA	An tashi wasa kasar Faransa na da ci 4 Ajantina na da ci 3.	0						
+HAUSA	Yanzu dai itama Ajantina zata tattara komatsen ta ta kara gaba kamar yadda kashen da suka fita a zagayen farko suka yi.	0						
+HAUSA	Masu yin sharhi sun ce babu abin azo a gani da shahararren dan wasan kasar Leo Messi a filin wasa	0						
+HAUSA	"An fitar da kasar Senegal daga gasar cin Kofin Duniya da ake fafatawa a kasar Rasha, bayan Columbia ta ci ta kwallo daya mai ban-haushi."	0						
+HAUSA	"Babban abin ban-haushin shi ne makin su daya da Japan, sai dai kuma FIFA ta yi amfani da baubawan-burmin hukunci, aka fitar da Senegal."	0						
+HAUSA	"An yi amfani da kungiyar da ta fi aikata yawan laifuka a yawan wasanni da suka yi. An gano cewa an bai wa Japan katin gargadi har guda hudu, yayin da ita kuma Senegal an ba ta har guda shida."	0						
+HAUSA	"Ganin cewa Senegal ce aka fi bai wa yawan katin gargadi, sai aka ce Japan ta tsallake zuwa rukuni nag aba, yayin da Senegal kuma aka maida ta gida."	0						
+HAUSA	"Sai dai kuma tun a hutun rabin lokaci Senegal ta samu bugun daga kai sai mai tsaron gida, amma alkalin wasa ya yi musu irin abin da aka yi wa Najeriya."	0						
+HAUSA	"Bayan da alkalin wasa ya sheka da gudu ya tuntubi bokan da ke wa FIFA duba, ta hanyar talbijin mai gani-har-hanji, sai aka ce Columbia ba ta yi laifi ba don haka ba bugun daga kai sai mai tsaron gida ba ne."	0						
+HAUSA	"A yanzu dai duk an dawo da kasashen Afrika biyar zuwa gida, babu wadda ta haye zuwa rukuni na biyu."	0						
+HAUSA	Shugaban asibitin koyar wa na jamiar Abakaliki jihar Imo Emeka Ogah ya sanar da rasuwar daya daga cikin likitocin asibitin mai suna Canice Ebirim.	0						
+HAUSA	Ogah ya sanar da haka ne ranar Laraba wa Kamfanin Dillancin Labaran Najeriya a Abakaliki inda ya bayyana cewa Ebirim ya rasu ne a lokacin da ake buga kallon kafa na World Cup tsakanin Najeriya da Ajantina ranar Talata.	0						
+HAUSA	"Na sami labarin rasuwar abokin aikin na da karfe tara na dare, ina ji kuwa jiki na yayi sanyi domin kuwa mutuminane matuka sannan ko da muka rabu kafin wasan yana cikin koshin lafiya."	0						
+HAUSA	Ogah yace abokan Ebirim da suke tare da shi sun bayyana cewa yayin da suke kwallon ne suka kula cewa Ebrimi bai jin dadin jikinsa wanda hakan ya sa suka gaggauta kai shi asbibiti cikin wannan dare.	0						
+HAUSA	Sai dai kafin likita su gane abin da ke damunsa ne Ebirim ya ce ga garin kunan.	0						
+HAUSA	A karshe Ogah ya ce bashi da tabbacin abin da ya kashe Ebirim amma za su yi shawara da iyalen mamacin domin gudanar da gwajin da zai tabbatar da abin da ya kashe shi.	0						
+HAUSA	Ministan kiwon lafiya Isaac Adewole ya bayyana cewa maaikatar kiwon lafiya ta ware kashi 64 bisa 100 daga cikin kasafin kudin ta na 2018 domin ayyukan cibiyoyin kiwon lafiya da ke kasar nan.	0						
+HAUSA	Ya ce wannan mataki da maaikatar ta dauka ya nuna kokarin da wannan gwamnati ke yi na ganin ta samar da ingantaciyyar kiwon lafiya ga mutanen kasar nan.	0						
+HAUSA	Ya kuma kara da cewa yin haka ya zama dole ganin cewa cibiyoyin kiwon lafiya a kasar nan sune mutane suka fi ziyarta fiye da manyan asibitoci a kasar nan.	0						
+HAUSA	A shekarun baya mun dauki matakin bunkasa asibitocin koyarwa a kasar nan domin samar da ingantaciyyar kiwon lafiya amma sai muka gano cewa talaka da ke zaune a kauye baya iya zuwa wadannan asibitocin.	0						
+HAUSA	A dalilin haka muka amince mu bunkasa cibiyoyin kiwon lafiya ta hanyar kara musu kason kudaden da suke samu daga kashi 18 zuwa 64 bisa 100 domin inganta kiwon lafiya a kasar.	0						
+HAUSA	Shugaban hukumar kula da cibiyoyin kiwon lafiya na matakin farko na babban birnin tarayya Abuja Rilwanu Mohammed ya bayyana cewa hukumar ta zabi wasu asibitoci 50 da za su yi aiki na tsawon awowi 24 a Abuja.	0						
+HAUSA	Ya fadi haka ne ranar Talata da ya ke hira da Kamfanin Dillancin Labaran Najeriya a Abuja.	0						
+HAUSA	A mafi yawan lokutta mutane musamman mazauna karkara kan tafi asibiti cikin dare. Sau da yawa ko da sun tafi basu samun likitoci ko maaikatan asibitin. Saboda haka ne ya sa mu ka zabi wadannan asibitoci 50 domin su rika aiki har safe.	0						
+HAUSA	Sannan kuma gwamnati na kokarin kara gina cibiyoyin kiwon lafiya 12 a yankuna shida dake a Abuja.	0						
+HAUSA	Majalisar dinkin duniya (UN) ta bayyana cewa sun sami nasarar yi wa yara miliyan 123 allurar rigakafin cutar tsatasa wato Tetanus a duniya cikin shekarar 2017.	0						
+HAUSA	Majalisar ta fadi haka ne bisa ga sakamakon rahotannin da WHO da UNICEF suka mika mata.	0						
+HAUSA	Majalisar ta ce duk da wannan nasarori da suke samu daga wannan bincike ya nuna cewa akwai yara miliyan 20 a duniya da basu sami yin rigakafi ba.	0						
+HAUSA	"Bayan haka kuma an gano cewa akwai jarirai sama da miliyan 4 da aka yi musu allurar rigakafi a 2017, da hakan ya nuna an sami kari kan yawan wadanda aka yi wa a 2010."	0						
+HAUSA	"Rahoton ya nuna cewa kasahe 167 sun hada har da maganin bakon dauro, sannan kuma 162 na amfani da maganin rigakafi na rubella ga jariran da hakan ya sa a ka sami karuwa daga kashi 35 bisa 100 zuwa kashi 52 na wadanda aka yi wa rigakafin."	0						
+HAUSA	Wasu daga cikin dalilan da ya sa aka yi ta samun matsaloli wajen yi wa yara allurar rigakafi sun hada da yake-yake da ake fama dasu a kasashen duniya da kuma kuma karyewar tattalin arzikin wasu kasashe musamman masu tasowa da matsanancin talauci.	0						
+HAUSA	"Bayan haka UN ta ce ta sami maganin rigakafin cututtukan sankara dake kama mahaifa, zazzabin cizon sauro, sankarau da Ebola."	0						
+HAUSA	Daga karshe UN ta hori gwamnatoci da su kara yawan kudaden da suke ware wa fannin kiwon lafiya domin samun ci gaba a kasahen duniya.	0						
+HAUSA	Wani likita mai suna Okezie Emenike ya bayyana cewa rama da kiba a jiki ga namiji ko mace na iya hana samun haihuwa.	0						
+HAUSA	Ya fadi haka ne don wayar da kan mutane musamman wadanda ke fama da rashin haihuwa hanyoyin da za su bi domin kubuta daga matsalar da suke fama da ita.	0						
+HAUSA	Emenike ya bayyana cewa hakan na yiwuwa ne sanadiyyar rashin iya sarrafa sinadarorin da ke taimakawa wurin samun yaya a jikin mace ko namijin dake fama da kiba ko kuma rama.	0						
+HAUSA	"Likitan ya ce mutanen da suke fama da wannan matsala za su iya kubuta ne idan suna cin kayayyakin lambu, ganyayyakin dake kara lafiya, motsa jiki tare da samun hutu."	0						
+HAUSA	Shugaban asibitin Yariman Bakura dake Gusau jihar Zamfara Bello Mohammed ya koka kan yadda fannin kiwon lafiyar jihar ta rasa likitoci sama da 20 a cikin watanni shida.	0						
+HAUSA	Bayan haka kwamishinan kiwon lafiya na jihar Zamfara Lawal Liman ya bayyana cewa gwamnati ta fara gyara cibiyoyin kiwon lafiya na matakin farko a jihar.	0						
+HAUSA	Liman yace gwamnati na yin haka ne domin inganta fannin kiwon lafiya na jihar saboda mutanen karkara da sauran masu bukatar kiwon lafiya.	0						
+HAUSA	Ya ce a yanzu haka gwamnati ta fara gyara asibitoci 15 daga cikin 147 din dake jihar.	0						
+HAUSA	Maaikatan kiwon lafiya dake asibitin Shell medical diagnostic center da likitocin dake jamiar jihar Legas sun tallafa wa mazaunan unguwannin Lekki da Ogudu Ori Oke a jihar Legas da magunguna da gwajin cututtuka kyauta.	0						
+HAUSA	Jagoran wadannan maaikatan kiwon lafiya Chris Kwakpovwe a tsokacin da ya yi ya bayyana wa manema labarai cewa sun yi haka ne domin taimaka wa talakawan jihar samun ingantacciyar kiwon lafiya.	0						
+HAUSA	"Ya ce sun yi wa mutane gwajin cututtukan Kanjamau, Zazzabin Cizon sauro,hawan jini, Daji. Sannan da bada magunguna, gidaje sauro kyauta wa mutanen."	0						
+HAUSA	Ya kuma hori mutane kan yawai ta cin abin cin dake kara karfin garkuwan jiki sannan da yin gwaji akai- akai domin shawo kan cutar da ka iya kama su.	0						
+HAUSA	"Shan giya, zukar taba sigari da cin abincin da bai kamata ba na yi wa kiwon lafiyar mu illa domin banda cututtukan da suke kawowa sukan sa mutum ya tsufa da wuri."	0						
+HAUSA	Kwamishinan kiwon lafiya na jihar Jigawa Abba Zakari ya bayyana cewa gwamnati za ta raba gidajen sauro guda miliyan 3.5 wa mutane kyauta a jihar.	0						
+HAUSA	Zakari ya fadi haka ne ranar Laraba a garin Dutse.	0						
+HAUSA	Ya ce gwamnati ta yi haka ne domin kare mutanen jihar daga kamuwa da zazzabin cizon sauro musamman yanzu da damina ta zo.	0						
+HAUSA	Gwamnati ta horas da wadanda za su raba wa mutane wadannan gidajen sauro sannan tana sa ran cewa kowani gida zai sami akalla gidan sauro biyu a rabon da za a yi.	0						
+HAUSA	A karshe Zakari ya yi kira ga gidajen jaridu da masu fada a ji kan su hada hannu da gwamnati domin wayar da kan mutane kan hanyoyin guje wa kamuwa da cutar.	0						
+HAUSA	Jamiin kungiyar kiwon lafiya ta duniya (WHO) Wondi Alemu ya bayyana cewa kungiyar WHO ta fara yi wa mutane allurar rigakafin cutar Kwalara a jihar Adamawa.	0						
+HAUSA	Alemu ya fadi haka ne a Adamawa inda ya kara da cewa za a fara yi wa mutane allurar ne ranar 10 zuwa 17 ga watan Yuli kuma a kananan hukumomin da suka fi fama da cutar.	0						
+HAUSA	Binciken da muka gudanar ya nuna cewa cutar ta fara bullowa ne a ranar 12 ga watan Mayu sannan kananan hukumomin Mubi ta arewa da Mubi ta kudi ne suka fi fama da cutar.	0						
+HAUSA	"A yanzu dai mutane 1,500 ne ke dauke da cutar sannan mutane 25 sun rasa rayukansu sanadiyyar kamuwa da cutar."	0						
+HAUSA	Tare da hadin guiwar kamfanin GAVI mun sami kason farko na magungunan alluran sannan za mu sami sauran bisa ga sakamakon da za mu samu bayan mun kammala da wadannan da muka karba.	0						
+HAUSA	A karshe kwamishinan kiwon lafiya na jihar Fatima Abubakar ta bayyana cewa sun sami nasarar dakile yaduwar cutar ta hanyar wayar da kan mutane kan cutar da yadda za su iya kare kansu daga kamuwa da ita.	0						
+HAUSA	Ta kuma ce suna sa ran cewa wannan allurar rigakafin da aka fara zai taimaka wurin hana yaduwa da kawar da cutar daga jihar kwata-kwata.	0						
+HAUSA	"Kasar Koriya Ta Kudu ta yi wa Jamus mai rike da Kofin Duniya korar-kare zuwa gida, tun a wasan karshe na zagaye na daya, da ci 2-0."	0						
+HAUSA	"Wannan ci da aka yi musu, ya maida Jamus na karshe a rukunin, tunda dama a wasan ta na farko, Mexico ta lallasa ta da ci daya mai ban-haushi. Sai dai ta yi nasara kan Sweden da ci 2-1."	0						
+HAUSA	"Irin haka aka yi wa Faransa mai rike da kofi a gasar ci Kofin Duniya na 2002, inda aka yi waje-rod da ita tun a zagaye na farko, bayan ta ci kofin a gasar 1998."	0						
+HAUSA	Rabon da a fitar da Jamus a wasan zagaye na farko tun a 1938.	0						
+HAUSA	"Kasar Italiya ta hadu da wannan tsautsayin a 2010, inda aka fitar da ita a zagayen farko, bayan da ta ci kofi a 2006. Spain ma ta hadu da wannan tsautsayin a 2014, bayan da ta yi nasarar lashe kofin a 2010."	0						
+HAUSA	Gasa uku kenan a jere ana cire mai rike da kofi a zagaye na farko.	0						
+HAUSA	"Jamian tsaron kasar nan da suka hada da yan sanda da kuma jamian shigi da fice na kasa, sun yi gargadi da cewa akwai famamun za a kaswa gidajen kallon kwallo hare-hare a yayin da ake gudanar da gasar cin ko fin duniya."	0						
+HAUSA	"Sun ce duk da cewa jamian tsaron kasar nan, sun sa ido sosai, to ya na da kyau jamaa musamman matasan kasar nan a iyar tsawon kwanakin da za yi n gasar a Rasha."	0						
+HAUSA	"An dai fara gasar ranar 15 Ga Yuni, za a rufe ranar 15 Ga Yuli."	0						
+HAUSA	"A c ikin wasikar da rundunar yan sanda ta aiko wa PREMIUM TIMES, ta yi kira ga kwamishinnin yan sandan jihohin kasar nan da su kara maida hanukulan su wajen tsananta sintiri a yankunan su."	0						
+HAUSA	Ita ma hukumar shige da fice ta kasa ta umarci jamian ta da su tsananta sa-ido wajen tabbatar da ceewa ba a taba musu kayyakin su ba.	0						
+HAUSA	"Idan ba a manta ba, an kai hari a garin Damaturu, a lokacin da ake kallon wasan gasar cin kwallon duniya na shearar 2014, inda aka kashe yan kallo 21."	0						
+HAUSA	Abin dai dama da kamar wuya wasan Najeriya da kasar Ajantina duk da cewa Najeriya ta kusa zarcewa zuwa zagaye na biyu badun wasu kananan kurakurai data tafka a wasan ba.	0						
+HAUSA	Wasa dai tayi kyau sai dai Najeriya basu yi amfani da damar da suka samu ba.	0						
+HAUSA	An tashi wasa Najerya na da ci 1 Ajantina na da ci 2.	0						
+HAUSA	Da Ajantina da kasar Croatia ne suka sami damar zarce wa zuwa zagaye na gaba.	0						
+HAUSA	"Tsohon dan wasan Ajantina, kuma tsohon mai horas da kungiyar kwallon kafar kasa, Diego Maradona, ya nemi iznin yin ganawar sirri da yan wasan kasar kafin karawar su da kungiyar Super Eagles da za su yi gobe Talata."	0						
+HAUSA	"Ajantina dai ba za ta iya wucewa zuwa zagayen wasa na gaba ba, har sai ta doke Najeriya da cin kwallye da yawa."	0						
+HAUSA	"Sai dai kuma ita Najeriya za ta ita wucewa zuwa wasa na gaba, ko da kuwa kunnen doki ta yi da Ajantina."	0						
+HAUSA	"Maradona dai ya ce idan aka ba shi iznin ganawa da yan wasan, to zai je wurin su ne tare da rakiyar wasu tsoffin fitattun yan wasan kasar wadanda suka taka wa Ajantina rawar gani a idon duniya a lokacin ganiyar su."	0						
+HAUSA	"Kun ga dai zan tafi da tsohon mai tsohon mai tsaron gida, Nery Pumpido, Sergio Goycochea, Claudio Caniggia, Daniel Passarella, kai har da Jorge Valdano. Haka Maradona ya shaida wa gidan talbijin na Venezuela, mai suna Telesur."	0						
+HAUSA	Za mu je necdomin mu kare martabar kasar mu. Mun shiga gargarar kakarin mutuwa saboda wulakancin da muka kwasa a hannun kasar Croatia. Muka tashi har yau ko kwallon bogi ba mu jefa a kowace raga ba.	0						
+HAUSA	"Duk wani mai kishin saka rigar kasar Ajantina, ya fusata sosai yadda Croatia ta wulakanta mu. Kasar da ba Spain ko Jamus ko Brazil Holland ba, haka kawai ta kwance mana zani a kasuwa."	0						
+HAUSA	"Idan za a iya lura, Segun Adegbami da Kanu Nwanko sun je sun yi wa yan wasan Najeriya huduba, a lokacin da za su kara da Iceland, bayan da Croatia ta yi nasara a kan Najeriya da ci 2-0."	0						
+HAUSA	"A daya gefen kuwa, yan wasan Najeriya sun kara shan alwashin cewa ba za sub a Najeriya kunya a wasan sun a ko a ci ko a dawo gida da za su kara da Ajantina a gobe Talata ba."	0						
+HAUSA	Kungiyar kiwon lafiya ta duniya (WHO) ta yi kira ga mutane da su rage yawan cin gishiri domin guje wa kamuwa da cututtukan dake kama zuciya.	0						
+HAUSA	WHO ta fadi haka ne a shafinta na tiwita inda ta bayyana cewa yawan cin gishiri a abinci na kawo wa zuciyar mutum matsala da idan ba a kula ba yakan yi ajalin mutum.	0						
+HAUSA	WHO ta bayyana cewa domin guje wa irin haka kamata ya yi mutane musamman matasa su ci akalla cikin karamin chokali daya a rana idan ya kama.	0						
+HAUSA	"Kungiyar ta ce haka zai taimaka wurin kare zuciyar mutum sannan da kare mutum daga kamuwa da cututtuka kamar su hawan jini, shanyewar sashen jiki da sauran su."	0						
+HAUSA	WHO ta kuma bayyana cewa mutane za su iya inganta kiwon lafiyar su ta hanyar cin ganyayyakin da kuma kayan lambu.	0						
+HAUSA	Sannan idan har ta kama a ci gishirin kamata ya yi a ci wanda ke dauke da sinadarin Iodine domin shi wannan sinadarin na taimaka wa wurin kar kaifin kwakwalwar yara kanana da jaririn dake cikin iyayen su mata.	0						
+HAUSA	Shugaban kasa Muhammadu Buhari ya bayyana cewa rashin sanin adadin yawan mutanen dake dauke da cutar kanjamau a kasar nan na cikin kalubalan dake hana Najeriya samun tallafin magungunan cutar daga kasashen waje.	0						
+HAUSA	Shugaba Buhari a fadi hake a fadar gwamnati a yayin kaddamar da taron fara kididdiga na yawan mutanen da ke dauke da cutar kanjamau a kasar.	0						
+HAUSA	Buhari ya ce domin kawar da irin wadannan matsalolin ne gwamnati ta amince kan yin kidaya domin samun adadin yawan mutanen dake dauke da cutar.	0						
+HAUSA	Sanin adadin yawan mutanen dake dauke da cutar kanjamau zai taimaka mana wurin samun isassun magungunan kawar da cutar.	0						
+HAUSA	Buhari ya ce kidayan zai dauki tsawon watanni shida a duka fadin kasar nan.	0						
+HAUSA	"Jamii a hukumar kula da cibiyoyin kiwon lafiya na matakin farko a jihar Adamawa Amos Ujulu ya bayyana cewa a shekarar 2018 mutane 1,564 sun kamu da cutar kwalara sannan mutane 26 sun rasa rayukan su sanadiyyar kamuwa da cutar a jihar."	0						
+HAUSA	Ya fadi haka ne a zaman da kwamitin zantarwa na jihar ta yi a makon da ya gabata a Yola.	0						
+HAUSA	"Kananan hukumomin da wadannan kauyukan suka yi fama da cutar sun hada da Maiha,Mubi da Mubi ta kudu sannan cutar ta yadu zuwa wasu bangarorin kasar Kamaru."	0						
+HAUSA	Ujulu yace jihar za ta bukaci Naira miliyan 22 domin kawo karshen yaduwar cutar a jihar.	0						
+HAUSA	"Shugaban hukumar kula da cibiyoyin kiwon lafiya na matakin farko na jihar Cross Rivers Betta Edu ya bayyana cewa gwamnati na shirin yi wa yara 808,470 allurar rigakafin cutar shan inna a jihar."	0						
+HAUSA	"Ya kuma kara da cewa ko da yake wannan allurar itace karo na biyu gwamnati ta dauki maaikata 7,588 da za su yi wa yara allurar na tsawon kwanaki hudu."	0						
+HAUSA	"Mun dauki maaikata 7,588 wanda za su yi wa yara allurar rigakafin cutar a kananan hukumomi 18 a jihar na tsawon kwanaki hudu."	0						
+HAUSA	Jami in asusun Kula da kanana yara na majalisar dinkin duniya (UNICEF) Sanjana Bhardwaj ya bayyana cewa kashi 55 bisa 100 na jarirai 1000 da ake haihuwa a jihar Kebbi na mutuwa a duk wata.	0						
+HAUSA	Ya ce sun gano haka ne bayan gudanar da binciken da suka yi a Najeriya tsakanin shekarar 2016 zuwa 2017.	0						
+HAUSA	Bhardwaj ya ce mutuwar wadannan jarirai a jihar Kebbi na da nasaba lalacewar kiwon lafiya da matsalolin da ake samu a jihar.	0						
+HAUSA	"Ya ce wadannan matsaloli sun hada da cutar sanyi dake kama hakarkari, cututtukan dake kama kafofin shakar iska na jariri da ke cushe masa hanyoyin yin numfashin sa da sauran su."	0						
+HAUSA	Ministan kiwon lafiya Isaac Adewole ya bayyana cewa maaikatar sa ta amince da a bude sabon sashe don kula da maganin gargajiya.	0						
+HAUSA	Ministan ya fadi haka ne a taton masana da aka yi a garin kano a makon da ya gabata.	0						
+HAUSA	Adewole ya ce tuni ofishin sakataren gwamnatin tarayya ta amince musu da bude wannan sashe da zai kula da ayyukan magungunan gargajiyya.	0						
+HAUSA	Kamfanin Dillancin Labaran Najeriya ya ruwaito cewa cutar zazzabin Lassa ta bullo a jihar Edo inda cutar ta yi ajalin wani Likita wanda maaikacin jinya ne a asibitin kamfanin yin manja OkomuOilPalm Company.	0						
+HAUSA	Majiyar mu ta fada mana cewa tun a makon da ya gabata ne shi wanda ya rasu din mai suna Henry ke kwance a wannan asibiti sannan gwajin da likitoci suka yi a kan sa ya nuna cewa zazzabin cizon sauro ne ya kamu da.	0						
+HAUSA	"Da zazzabin ya ki ci yaki cinyewa sai asibitin ta gwada jinin Henry a wani asibiti mai zaman kan sa, a nan ne suka gano zazzabin Lassa ne ya kama shi. Sai dai kafin a dauke shi a tafi dashi asibiti da ake kula da masu wannan cuta ya ce ga garinku nan."	0						
+HAUSA	Kungiyar kula da kiwon lafiya ta duniya (WHO) ta sanar cewa ta hana wani magani mai suna Carbetocin dake da ingancin kare mata fadawa matsalar zuban jini bayan sun haihu.	0						
+HAUSA	WHO ta bayyana cewa yawan zuban jini matsala ce da mata kan yi fama da shi bayan sun haihu sannan idan ba a gaggauta daukan mataki ba yakan yi ajalin su.	0						
+HAUSA	"Bayanan wani bincike ya nuna cewa a duk shekara matan dake fadawa irin wannan matsalar a duniya sun kai 70,000. Kuma ya nuna cewa jariran da wadannan mata ke haihuwa kan rasu cikin wata daya bayan an haife su saboda rashin uwayen su."	0						
+HAUSA	A tsokacin da ya yi shugaban kungiyar WHO Tedros Adhanom Ghebreyesus ya bayyana cewa domin kawar da irin haka ne ya sa suka fara sarrafa maganin Oxytocin.	0						
+HAUSA	Sai dai babbar matsalar da muke fama da wannan maganin shine ajiye maganin a wuri mai sanyi a kowani lokaci.	0						
+HAUSA	Ghebreyesus yace ganin irin wannan matsalar da suke fama da su na wurin ajiya mai sanyi ne ya sa suka kara sarrafa wani maganin mai suna Carbetocin da ba sai dole an ajiye shi a wurin da ke da sanyi ba.	0						
+HAUSA	Samun wannan maganin ya tabbatar mana da cewa za mu iya ceto rayukan mata musamman na kasashen dake tasowa sannan suna fama da wannan matsala.	0						
+HAUSA	Ministan kiwon lafiya Isaac Adewole ya yi kira da a dunga yi wa sabbin maaikatan da za a dauka a maaikatun gwamnati na kasar nan da daliban sakandare da Jamioi gwajin cutar tarin fuka kafin a ba su aiki.	0						
+HAUSA	Isaac ya ce yin haka zai taimaka wajen gane masu dauke da cutar da kuma magance yaduwar cutar a kasar nan.	0						
+HAUSA	Bincike ya nuna cewa Najeriya na daya daga cikin kasashen duniya da suka fi fama da cutar tarin fuka sannan daga ciki kashi 25 bisa 100 ne kadai aka iya gano wa.	0						
+HAUSA	Ya ce mutane masu yawa ne ke rasa rayukan su a dalilin kamuwa da wannan cuta a kasar nan musamman a yankin Arewa Maso Gabashin Kasar nan.	0						
+HAUSA	"Ina kira ga duk maaikata da ke jihohi da kananan hukumomin kasarnan da su dunga yi wa duk wani sabon maaikaci gwajin tarin Fuka, har da ma sabbin dalibai a makarantun mu domin kare sauran maaikata da ga kamuwa, wato a rage yaduwar cutar."	0						
+HAUSA	A karshe yace wannan dabaran za ta taimaka wa maaikatan kiwon lafiya wajen gano cutar a jikin mutane musamman wadanda ke dauke da ita basu sani ba.	0						
+HAUSA	Gwamnatin tarayya ta umurci kungiyar likitocin hakora (MDCN) da ta binciki dalilin da ya sa daliban da suka yi karatu a makarantun dake kasashen waje suka fadi jarabawar kwarewa na likitoci da akayi a kwanakin baya a kasar nan.	0						
+HAUSA	"A shekarar 2017 ne daiban da suka yi karatun aikin likita jamioin dake kasashen waje su 501 suka rubuta jarabawar kwarewa na akin likita a asibitin koyarwa na jamiar Ilori, jihar Kwara."	0						
+HAUSA	Bayanai sun nuna cewa dalibai 132 cikin 501 ne su suka sami nasarar cin jarabawar.	0						
+HAUSA	"A kwanankin baya idan za a tuna, iyayen daliban da suka fadi jarabawar sun zargi MDCN da kada yayan su da gangar in da har sai da gwamnatin ta umurci kungiyar ta binciki musabbabin faduwar daliban."	0						
+HAUSA	"Akwai yiwuwar wadannan dalibai sun yi karatu ne a irin makarantun da kan yaudari iyaye da yayan su ne, inda bayan sun tafi can ba za su sami yin karatun kirki ba sannan kuma kaga sun kammala karatun cikin dan kankananin lokaci."	0						
+HAUSA	A inda za ka gane haka shine ko bayan wannan korafi da iyaye suka yi ta yi mun sake shirya musu jarabawar kuma ile duk sun saki fadi. Cewar Karamin Ministan kiwon lafiya Osagie Enahire.	0						
+HAUSA	A karshe rajistaran MDCN Tajudeen Sanusi ya ce kungiyar za ta yi kokarin ganin ta shawo kan wannan matsalar sannan za a ba daliban dama su koma makaranta domin samun kwarewar da ya kamata.	0						
+HAUSA	"Harry Kane ya zama dan wasa na uku da ya ci kwallo uku a wasa daya, a Gasar Cin Kofin Duniya wadda ke gudana a kasar Rasha."	0						
+HAUSA	Kane ya ci kwallaye uku sa wasan da Ingila ta buga yau Lahadi da Panama.	0						
+HAUSA	"Kwallayen uku dai biyu da bugun daga kai sai mai tsaron gida, wato fanereti ya samu nasanar jefa su."	0						
+HAUSA	"Dama kuma a wasan Ingila na farko sun yi nasara a kan kasar Tunisiya, wanda wannan nasara ta biyu da Ingila ta yi, ya ba ta damar hayewa zuwa zagaye na biyu."	0						
+HAUSA	"Dan wasan Portugal Cristiano Ronaldo ne ya fara cin kwallaye uku, sai kuma Romeleu Lukaku na kasar Belgium da ya ci uku jiya."	0						
+HAUSA	"A ci 6-1 da Ingila ta yi wa Panama, dan wasa John Stone ma ya jefa kwallaye biyu a ragar Panama."	0						
+HAUSA	"Dan wasan Najeriya Ahmed Musa ya zura wa kasar Iceland kwallaye biyu, wadanda masu kallon kwallo ke kira da suna cin-Allah-tsine-uwar-mai-karya, kwallayen da suka kankare wa Najeriya dusashewar da martabar ta ta yi a wasan Gasar Cin Kofin Duniya da ake fafatawa a Rasha."	0						
+HAUSA	"Bajintar da Musa ya yi ta jefa kwallaye biyu, ta ruda Najeriya, inda gaba daya birane da kauyuka aka barke da ihu da murnar da kade-kade da bushe-bushe."	0						
+HAUSA	"Ahmed Musa ya tura wa Iceland haushi, ya bakanta ran kasar Argentina, kuma ya harzuka ran dan wasa Leonel Messi, wanda a yanzu kuma shi duniya ta sa ido a gani ko zai yi bajintar sa ta karshe a gasar cin kofin duniya, ko kuwa zuwan-kare-karofi zai yi wa Rasha."	0						
+HAUSA	"Idan Najeriya ta yi galaba a kan Argentina, to ta karya duk wani lagon tarihin wasan cin kofin duniya da Messi ya kafa, domin gida yan wasan Argentina za su koma dauke da buhun kunya."	0						
+HAUSA	"Sai dai kuma tuni rahotanni sun nuna cewa Argentina ta karaya, domin yan wasan da mai horaswa sun fito a kafafen watsa labarai suna yamadidi da juna, har su na kiran a kore shi kawai."	0						
+HAUSA	"Shi ma mai horaswar ya shiga jaridu ya na bayyana cewa yan wasan Argentina duk ta-gina-ba-ta-shiga ba ce, rashin kokarin su ya sa Messi ya kasa tabuka komai, domin karfe daya inji, ai ba ya yin amo."	0						
+HAUSA	"Kwallon da Victor Moses ya shanfamo a cikin yadi na 18 a gidan Iceland, wadda dan wasa Ahmed Musa ya caf da kafar dama, sannan ya antaya ta a cikin raga, bayan an dawo daga hutun rabin lokaci, ta tayar da kaimin duk wani mai kallon wasa a Nijeriya aka barke da ihu da karaji."	0						
+HAUSA	"Ita ce kwallo ta farko da Najeriya ta ci a wannan gasa, sannan kuma gwanitta da kwarewar da Musa nuna wajen tare kwallon da doka ta, ya burge hatta wadanda ba su ganin kan sa da gashi."	0						
+HAUSA	"Kwallo ta biyu da ya jefa kuwa, baya ga burge daukacin yan Najeriya da ya yi, za ta zama abar tozartawa ga kasar Iceland, wadda a wasanta na cin kofin duniya 16 a jere, wannan ne karo na farko da aka yi nasara kan ta."	0						
+HAUSA	"Baya ga firgita Iceland da Musa ya yi, kwallayen da ya ci zai sa yan wasan Argentina kwana a gaban talbijin su na tariyar kallon yadda ya wulakanta Iceland, a lokaci daya kuma su rika tunanin yadda za su kaya su kwaranyecda Najariya, a wasan Argentina na ko a ci ko a mutu da za ta yi da Najeriya."	0						
+HAUSA	"Masu sharhin kwallo da dama a yau sun tabbatar da cewa idan yan wasan Najeriya suka nuna irin kaimi, bajinta, kwarewa da natsuwa da yawan kai farmaki kan Argentina, kamar yadda suka yi a wasan su na yau da Iceland, to za su kunyata Messi da rundunar sa."	0						
+HAUSA	"A yau dai magoya bayan Najeriya a katafaren filin kwallon birnin Volgogard Arena da ke Rasha, sun barje gumen su, sun share kuma sun katalle."	0						
+HAUSA	"Daga cikin yan kallo a filin kuwa har da Shugaban Majalisar Dattawa Sanata Bukola Saraki, wanda wasu ke ganin cewa mai yiwuwa ma shi ne ya kara wa yan wasan Najeriya kwarin-guiwar da ta sa suka yi namijin kokarin da suka fitar da Najeriya kunya."	0						
+HAUSA	"Da farko an dauka Najeriya ba za ta yi wata rawar gani ba, domin har aka tafi hutun rabin lokaci, babu wani dan wasan Najeriya da ya buga kwallon da ya tada hankalin mai tsaron gidan Iceland."	0						
+HAUSA	"Sai dai kuma labari ya sha bamban, inda bayan dawowa daga hutun rabin lokaci, aka rika zabga wa Iceland ruwan kibau din hare-hare."	0						
+HAUSA	"Ko kafin Ahmed Musa ya ci kwallo ta biyu, sai da ya kusa cin wata kwallo, inda ta bugi karfe, kadan ya rage ta fada cikin ragar Iceland, da kwallaye uku ya ci kenan."	0						
+HAUSA	"Ganin yadda Ahmed Musa ya yi bajinta a yau, mai horas da yan wasan Najeriya ba zai sake yin gangancin ajiye shi a benci ba, ko da kuwa giyar wake ya sha, kamar yadda ya ajiye shi a wasan Najeriya da Croatia."	0						
+HAUSA	Mutane da dama da suka soki Najeriya bayan wasan ta da Crotia sun dawo daga wannan rakiya domin kuwa Crotia da ta lallasa ta ta ragargaza Argentina da ci 3 ba ko daya a wasn dare da aka buga a kasar Rasha.	0						
+HAUSA	"Duk da cewa akwai shahararrun yan wasa kamar su Leo Messi, Aguero da sauran su abin dai bai haifar da da mai ido ba."	0						
+HAUSA	"Yanzu dai lissafi ya cakude wa Argentina, domin Najeriya ma da aka cire wa rai za ta iya kai wa zagaye na biyu idan ta iya doke Iceland sannan kuma ta buga koda kunnen doki ne da Argentina a wasan ta na karshe,"	0						
+HAUSA	"Faransa ta yi wa Peru ci daya mai ban-haushi, wanda ya sa a zaman yanzu ko da ta ci wasan ta na gaba, to Peru gida za ta koma."	0						
+HAUSA	"Kasar Peru dai na daga cikin kasashen da suka je gasar da wuri, kuma ta na cikin kasashen da za su koma gida da wuri."	0						
+HAUSA	"Dan wasan PSG, Kylian Mbappe ne ya ci wa Faransa kwallo daya, wanda ya kafa tarihin cewa shi ne dan wasa mafi karancin shekaru da ya taba ci wa Faransa kwallo a shekara 19 da haihuwa."	0						
+HAUSA	"Duk da Peru ta samu damar cin kwallaye, hakan bai ba ta saar jefa ko kwallo daya ba har aka tashi wasan."	0						
+HAUSA	"Duk da cewa Paul Pogba bai ci kwallo ba, amma a gaskiya shi ne kashin-bayan nasarar da Faransa ta samu a gasar, idan aka yi laakari da irin bajintar da ya nuna a wasan yau."	0						
+HAUSA	"Dan wasan Australia ya karya rekod din mai tsaron gida Scheimichel na Denmark, wanda ya buga wasa hudu a jere ba tare da an saka masa kwallo ko daya a raga ba."	0						
+HAUSA	"An jefa masa kwallon ne a wasan su daidai minti na 38 da fara wasa a bugun daga kai sai mai tsaron gida, bayan dan wasan Denmark ya taba kwallo a cikin yadi 18."	0						
+HAUSA	"Kafin nan kuwa, Denmark din ce ta fara cefa kwallo a daidai minti na 7 da fara wasan su."	0						
+HAUSA	"Dan wasa Jorgensen ne ya shandamo wa Ericksen kwallo ta sama, inda shi kuma bai yi wata-wata ba, sai ya fantsama ta cikin ragar Autralia."	0						
+HAUSA	"An yi tsammani Australia za ta yi kokarin yin nasara, ganin yadda aka yi ha-maza-ha-mata tsakanin ta da Faransa, kafin Faransa ta yi galaba a kan ta da ci 2:1 a wasan su na farko a gasar cikin makon da ya gabata."	0						
+HAUSA	"Kafin wannan wasa, Denmark ta yi nasara a kan Peru da ci daya mai ban-haushi."	0						
+HAUSA	Yanzu kenan Denmark ta fara jin kamshin shiga zagaye na biyu na gasar cin kofin duniya da ka yi a Rasha.	0						
+HAUSA	"Amma idan Australia ta yi nasara a kan Peru, daga nan za a sake tantance cewa ba a san maci tuwo ba tukunna, har sai miya ta kare."	0						
+HAUSA	"Mai tsaron gidan Australia ya yi namijin kokarin da ya hana kwallo shiga ragar su har kusan sau goma, bayan cin farko da aka yi masa."	0						
+HAUSA	"A ci gaba da wasan zagaye na farko na Gasar Cin Kofi Duniya da ke gudana a kasar Rasha, a yau ne Portugal ta yi nasara a kan kasar Morocco da ci daya mai ban-haushi."	0						
+HAUSA	"Dan wasan Real Madrid, Cristiano Ronaldo ya jefa musu kwallo a raga a daidai minti na biyar da fara wasa."	0						
+HAUSA	"Wannan ya kawo kasar Morocco ta zama ta biyu daga cikin kasahen Afrika da aka fara kwance wa zani a tsakiyar kasuwar kwallo, bayan da kasar Rasha ta fatattaki Eagypt jiya Talata."	0						
+HAUSA	"Kungiyar Morocco ta yi bajinta sosai a wasan ta da Portugal, sai dai da ya ke Hausawa sun ce, bukatar maje-Hajji Sallah, Portugal ba ta samu nasarar jefa kwallo ba, duk kuwa da takurawar da ta yi wa Portugal bayan an dawo daga hutun rabi lokaci har aka tashi wasan."	0						
+HAUSA	"A yanzu Ronaldo ne dai kan gaba da kwallaye 4. Wannan ya ba shi damar shiga gaban tsohon dan wasan kasar Hungary Ferens Puskas, mai yawan kwallaye 84 a tarihin gasar cin kofin duniya."	0						
+HAUSA	"Ronaldo a yanzu ya na da kwallaye 85, hakan kuwa ya ba shi damar shiga gaban duk wani Bature a duniya da ya ci kwallaye a tarihin gasar."	0						
+HAUSA	"A wasanni biyu da Ronaldo ya yi, ya ci kwallo da kafar dama, ya ci da ta hagu sannan a yau kuma ya ci kwallo da kai."	0						
+HAUSA	Kasar Masar wato Egypt ce kasa ta farko da aka fidda a gasar cin kofin duniya da ake buga wa a kasar Rasha.	0						
+HAUSA	Kasar Rasha ta lallasa Egypt da ci 3 da 1.	0						
+HAUSA	Shahararren dan wasan kasar wato Mohammed Salah ne ya jefa kwallo daya bayan sun sami bugun daga kai sai gola.	0						
+HAUSA	Kasar Urugay ta doke ta da ci 1 mai ban haushi a wasan farko da kasar ta buga.	0						
+HAUSA	Yanzu zata kara da kasar Saudi Arabiya ne a wasan karshe na rukunin farko kafin ta tattara nata-ina ta da koma gida.	0						
+HAUSA	Rasha ce kasa ta farko da ta tsallaka zuwa zagaye ta biyu bayan ta samu nasara a wasannin ta biyu a jere.	0						
+HAUSA	Zata buga wasan ta na karshe da kasar Urugay a makon gobe.	0						
+HAUSA	"Kungiyar Kwallon Kafa ta Senegal, ta yi nasara a kan ta kasar Poland da ci 2-1 a wasan ta na farko a gasar."	0						
+HAUSA	"Wannan ne karo na farko da wata kasa daga Afrika ta yi nasara, tun farkon fara wasan a makon da ya gabata."	0						
+HAUSA	Dan wasan Poland Thiago Cionek ne ya fara antaya kwallo a ragar su a kokarin sa na hana kwallo shiga raga.	0						
+HAUSA	"Shigowar MBaye Niange ke da wuya ya jefa kwallo ta biyu a ragar Poland, a wasan su a Rukunin H da aka kammala ba da dadewa ba a birnin Moscow."	0						
+HAUSA	"Senegal ta shige gaba tun a minti na 37, lokacin da dan wasan Poland ya ci kan su da kan su."	0						
+HAUSA	"Kwallon da Poland ta jefa a daidai minti na 86 ya kara wa yan wasan kwarin guiwa, sai dai kuma tuni wuri ya rigaya ya kure musu."	0						
+HAUSA	"Duk da alkalin wasa ya kara minti biyar, hakan bai sa Poland ta kara jefa kwallo ba."	0						
+HAUSA	"Wannan wasa ya fitar da Afrika kunya, domin babu wata kasar Afrika da ta yi nasara kafin wannan wasan."	0						
+HAUSA	"Najeriya da ake ganin za ta yi wani kokari, ta sha kashi a hannun Croatia da ci 2-0."	0						
+HAUSA	"Hukumar Kwallon Kafa ta Saudiyya ta bayyana cewa yan wasan ta sunn isa birnin Rostov na kasar Rasha lafiya, bayan da jirgin da ke dauke da su ya samu matsaar inji a lokacin da ya ke a sararin samniya."	0						
+HAUSA	"Mahukuntan hukumar kwallon sun ce matsalar ba babba b ace, amma dai daya daga cikin injinan jirgin ne ya samu matsala"	0						
+HAUSA	Wani faifan bidiyo da aka watsa a soshiyal midiya ya nuna hoton jirgin daidai lokacin da bangaren fukafikin sa daya ke cin wuta a lokacin da ya ke shawagi a sararin sama.	0						
+HAUSA	"Kamfanin Dillancin Labarai NAN, Reuters da PREMIUM TIMES ne suka ruwaito labarin."	0						
+HAUSA	"Kasar Japan ta yi nasara a kan Columbia, bayan da alkalin wasa ya bai wa Carlos Sanchez jan kati minti biyu kacal da fara wasa."	0						
+HAUSA	Japan ta jefa kwallaye biyu yayin da Columbia ta ci kwallo daya.	0						
+HAUSA	"An bai wa Carlos jan kati a daidai minti na biyu, wanda hakan ya sa ya ajiye tarihi cewa shi ne aka ba jan kati cikin kankanen lokaci a wasan na Rasha, kuma ta tarihin wasan cin kofin duniya, shi ne na biyu wajen saurin karbar jan kati daga fara wasa."	0						
+HAUSA	"Sun fafata wasan ne a filin wasa na birnin Mordovia, Rasha."	0						
+HAUSA	"Ya samu jan kati ne a daidai lokacin da ya sa damtsen hannun sa ya tare wata kwallo da fitaccen dan wasan Japan, Shinji Kagawa ya buga a daidai minti na 2:56 da fara wasa."	0						
+HAUSA	Kagawa din ne kuma ya jefa kwallon a ragar Columbia a bugun daga kai sai mai tsaron gida.	0						
+HAUSA	Kungiyar yaki da cutar shan inna (POLIO) na kasashen Afrika (ARCC) ta koka kan yadda har yanzu cutar taki ci taki cinyewa a kasashen Afrika.	0						
+HAUSA	"Kungiyar ta bayyana haka ne a taron kawo karshen ci gaba da yaduwar cutar da aka yi a babban birnin tarayya, Abuja cewa rahoyon binciken da tayi ne ya nuna mata haka a wsu kasashen Afrika."	0						
+HAUSA	"Kungiyar ta ce kasashen Afrikan da suke fama da wannan matsalar sun hada da Kenya, Equatorial Guinea, Guinea Bissau, Angola, South Sudan, Central Africa republic, Madagascar, Lake Chad Basin, Congo, Nigeria da wasu da dama."	0						
+HAUSA	A karshe ARCC ta yi kira ga wadannan kasashe da su mai da hankali wajen ganin sun yi wa yara kanana da ke bukatar rigakafin allurar tun da wuri domin ganin an kawo karshen cutar kwata-kwata a kasashen.	0						
+HAUSA	Kwamishinan kiwon lafiya na jihar Gombe Kennedy Ishaya ya sanar cewa cutar kwalara ta bullo a makarantar lslamiya dake Madaki a jihar.	0						
+HAUSA	Ishaya ya bayyana cewa a dalilin haka dalibai uku sun rasa rasu sannan 27 na kwance a cibiyar kiwon lafiya dake Madaki.	0						
+HAUSA	A cikin kwanaki uku daliban makarantar wannan Islamiya 30 sun kamu da cutar sannan daga ciki uku suka rasu.	0						
+HAUSA	A yanzu haka asibitin ta sallami dalibai 15 sannan ana ci gaba da kula da sauran 12.	0						
+HAUSA	Ishaya ya yi kira ga mutane da su gaggauta zuwa asibiti a duk lokacin da wani ya kamu da rashin lafiya ko kuma aka alamun haka cewa gwamnati ta zuba magani a asibitocin jihar.	0						
+HAUSA	Sannan a tabbatar an yi amfani da tsaftatacen ruwa musamman a lokacin yin alwala domin guje wa kamuwa da cutar.	0						
+HAUSA	A karshe yi kira ga malaman asibiti da su kare kansu daga kamuwa da cutar suma.	0						
+HAUSA	"Ministan kiwon lafiya na Najeriya Isaac Adewole ya bayyana cewa yara sama da 100,000 dake yankin arewa maso gabashin kasar nan na bukatan ayi musu allurar rigakafi cututtuka."	0						
+HAUSA	Ya ce an sami matsala a iya magance matsalar rigakafin ne saboda aiyukkan Boko Haram a yankin wanda ke hana masu yi wa yara allurar iya walwala da ganin yaran ma su kansu.	0						
+HAUSA	Adebowale ya ce duk da wannan matsala da aka samu a Najeriya ta sami nasarar kawar da cutar a wasu bangarorin kasar nan amma ya tabbatar da cewa gwamnati za ta zage damtse don ganin wadannan yara sun sami yi allurar rigakafin domin samun sauki a rasa su da ake yi a dalilin haka.	0						
+HAUSA	Shugaban kungiyar masana magunguna na Najeriya (ACPN) Sunday Ike ya bayyana cewa kungiyar su ta kona magungunan da waadin amfanin su ya cika a babban birnin tarayya Abuja.	0						
+HAUSA	Ike yace magungunan da suka kona din zai kai ta Naira miliya 452.	0						
+HAUSA	"Ya ce sun kona wadannan magunguna ne tare da hadin gwiwar hukumomin kula da magunguna na kasan kamar su NAFDAC,NDLEA,PCN da PSN."	0						
+HAUSA	Mun sami wadannan magunguna ne daga hannun wadannan kungiyoyi kuma sun yi haka ne domin yin biyayya ga dokokin aikunsu da kuma don kare kiwon lafiyan mutane.	0						
+HAUSA	Wani likita mai suna Daivi Bawa ya bayyana dalilan da ya sa mata suka fi maza kamuwa da cutar sanyi.	0						
+HAUSA	A bayanan da ya yi Bawa ya ce a halicce alauran mace a bude yake sannan bashi da kariya kamar na namiji wanda hakan ya sa cututtuka ke saurin shiga jikin su.	0						
+HAUSA	"A dalilin hakan ya sa yake kira ga mata da su dunga kare kansu ta hayar guje wa amfani da bayi mara tsafta, wanke gaban su da sabulu, fesa turare a gaban su domin yin hakan zai kare su daga kamuwa da cututtuka da ya hada da cutar sanyi."	0						
+HAUSA	Ya kuma ce yin hattara ga ya mace ya zama dole musamman yadda wasu cututtuka na sanyi basu da magani.	0						
+HAUSA	Ministan kiwon lafiya Isaac Adewole ya bayyana cewa gwamnatin Najeriya za ta fara sarrafa maganin cutar sikila mai suna Niprisan a kasar nan.	0						
+HAUSA	Adewole ya bayyana cewa gwamnati ta amince wa kamfanin sarrafa magunguna May and Bakerda maaikatar binciken magunguna na kasa (NIPRD) don sarrafa wannan magani.	0						
+HAUSA	Ya ce wakilan May and Baker da NIPRD ne suka saka hannu a takardan yarjejeniyyar sarrafa wannan maganin da gwamnati ta bada izinin haka.	0						
+HAUSA	Adewole ya kara da cewa gwamnati ta yi haka ne domin kawar da cutar daga kasar nan kwata-kwata.	0						
+HAUSA	Majalisar Dinkin duniya ta ruwaito cewa mutane miliyan 815 na fama da yunwa a duniya.	0						
+HAUSA	Majalisar ta gano haka ne a binciken da ta gudanar a shekarar 2017 inda ya nuna cewa an sami karuwar yawan mutanen dake fama da yunwa a duniya daga miliyan 777 a shekarar 2015 zuwa miliyan 815 a 2017.	0						
+HAUSA	"Wannan karuwa da aka samu a duniya na da nasaba da rikici, canjin yanayi da cinkoson jamaa a birane."	0						
+HAUSA	"Game da nasarorin da aka samu a shirin MDGs UN ta ce har yanzu ana fama da ganin an kauda zazzabin cizon sauro, tsaftace muhalli, da rashin dakunan bahaya."	0						
+HAUSA	Mazaunan karamar hukumar Jos ta Yamma jihar Filato sun bayyana wa PREMIUM TIMES cewa cibiyoyin kiwon lafiya dake ke kauyukan jihar na gab da su zama kango.	0						
+HAUSA	Mutanen sun kara da cewa matsalolin da asibitocin gwamnati ke fama da su ya kai ga har gara su je asibitocin kudi maimakon na gwamnati duka da arhar sa.	0						
+HAUSA	Babu yadda za a yi mu ci gaba da zuwa asibitin da suke karban haihuwa da fitillar kwai ga kuma rashin magungunan wai don na gwamnati ne.	0						
+HAUSA	Sanadiyyar wannan korafi da wadannan mazauna suka yi wakiliyar jaridar PREMIUM TIMES ta zazzagaya asibitocin yankin domin duba halin da wadannan asibitocin gwamnati ke ciki.	0						
+HAUSA	Da farko dai wakiliyar ta ziyarci asibitin Kerke dake karamar hukumar Jos ta yamma inda ta yi hira da maaikaciyar asibitin mai suna Grace Badung.	0						
+HAUSA	Grace wace ke kwance a kan tabarma tare da jaririyarta ta bayyana wa gidan jaridar cewa maaikatan asibitin sun dauke kafa daga zuwa aiki a asibitin gaba daya saboda rashin biyan su albashin su.	0						
+HAUSA	Mukan hada watanni hudu kafin gwamnatin ta biya mu rabin albashin wata daya.	0						
+HAUSA	"Baya ga haka Grace ta ce suna fama da rashin bayan gida, rashin kayan aiki musamman magunguna, rashin wutan lantarki da rashin ruwa duk suna daga cikin matsalolin da ya kara korar maaikata da mutanen yankin zuwa asibitin."	0						
+HAUSA	A asibitin Rizek dake kauyen Zarazon kuwa wata maaikaciyar asibitin mai suna Ajiji Abigail ta bayyana cewa sai da suka yi tsawon watanni bakwai kafin gwamnati ta fara biyan su kashi 55 bisa 100 na albashin su duk da cewa suna biyan haraji kowani wata.	0						
+HAUSA	"Sannan rashin kayan aiki, wutan lantarki, ruwa, wurin zagawa da sauran su ya ya sa sauran maaikatan asibitin ba su zuwa aiki da ma marasa lafiya."	0						
+HAUSA	"Wakiliyar ta kuma ziyarci asibitocin dake kananan hukumomin Bassa da Langtang, kamar wadanda suke kauyukan Fuskan Mata, Zalikali, Mista Ali, Layi, Kwampa da Pigani suma dai duk kanwar ja ce, matsalolin da wadancan ke fama da su shine suke fama da."	0						
+HAUSA	A karshe shugaban hukumar kula da cibiyoyin kiwon lafiya na jihar Miapkwap Livinus yace gwamnati ta kafa dokar da zai taimaka wurin dawo da kula da asibitocin a karkashin wannan gwamnati.	0						
+HAUSA	Ya ce hakan da gwamnatin ta yi zai taimaka wurin gyara wa da inganta cibiyoyin kiwon lafiya na jihar sannan ya kara da cewa gwamnati na aiki a asibitocin dake kananan hukumomin Bokkos da Mangu a yanzu haka.	0						
+HAUSA	Wata farfesan cututtukan dake kama zuciya kuma maaikaciyar asibitin koyarwa na jamiar Legas (LUTH) Janet Ajuluchukwu ta bayyana cewa maza sun fi kamuwa da cututtukan dake kama zuciya fiye da mata.	0						
+HAUSA	Ta ce ta gano haka ne a binciken da ta gudanar sannan binciken ya nuna mata cewa wannan matsalar kan kama namiji da zaran ya kai shekaru 40.	0						
+HAUSA	A bayanan da ta yi Janet ta ce hakan na yiwuwa ne sanadiyyar rashin zuwa asibiti a duba lafiyar su da mafi yawan maza ke kin yi.	0						
+HAUSA	A yanzu haka rashin zuwa asibiti ga namiji ya zama abin yin alfahari da domin idan namiji ya yawaita zuwa asibiti sai sauran maza su yi masa kalon sakarai.	0						
+HAUSA	Ta kuma ce mata kan sami kariya game da wannan matsalar domin kuwa zaka ga kusan kullum suna hanyar asibiti ne ko don su ko kuma a yayan su daga nan sai kaga sun duba suma kansu.	0						
+HAUSA	Janet ta yi kira ga maza da su dinga zuwa asibiti suna duba lafiyar su domin hakan zai taimaka wa lafiyar su. Sannan suma mata su dinga taimaka wa mazajen su da tunashe su kan muhimmancin zuwa asibiti a duba su.	0						
+HAUSA	Asusun tallafawa yara kanana na majalisar dinkin duniya (UNICEF) ta yi kira ga gwamnatocin duniya da su tsara kudirorin da za su taimaka wajen bunkasa kiwon lafiyar yara kanana a kasashen su domin samun yara masu nagarta.	0						
+HAUSA	"UNICEF ta ce irin wadannan kudirori za su kunshi baiwa mazajen da matan su suka haihu hutu tare da biyan su albashi, baiwa matan da suka haihu hutu tare da albashi, bude makarantun da za su koyar da yara kanana kyauta a makarantu kafin su kai munzalin fara makaranta yadda ya kamata, biyan matan da suka haihu albashi saboda shayar da yayan su nono da sauran su."	0						
+HAUSA	UNICEF ta ce tsarawa da kafa wadannan kudirorin zai samar wa iyaye damar kula da yayan su wanda hakan zai taimaka wajen inganta kiwon lafiyar yara da kasan za ta alfahari da nan gaba.	0						
+HAUSA	PDP reportedly changing name to avoid being called corrupt by APC ahead of 2019 general elections.	1						
+ENGLISH	"I think what is appropriate for us(PDP) is to apologize to President Buhari and the APC, then join them to move Nigeria forward"	0						
+HAUSA	"Shege dan karota ya shiga hannu,shegu marasa mutunci."	1						
+HAUSA	"'Yan KAROTA, suma sun haura layi kenan."	1						
+HAUSA	Mutum shege ne ! Allah ka kara nuna mana makiya ba sai lokacin da ba yadda zamu yi da su ba !!	1						
+HAUSA	"Shege Guardiola. Idan sun ci sunyi breaking record, idan ka ci ka daura daga inda ta tsaya."	0						
+HAUSA	"Kai Buhari, shege!"	1						
+HAUSA	Toh I still tank God for the match moses darling u try oo! And na God go judge dat refree! Shege Dan iska!	1						
+HAUSA	Ab Dan iska wato Facebook dinma sai an Ga dama ake hawa	0						
+HAUSA	Allah ya tsine wa munafiki duk yadda yake.	1						
+HAUSA	Baruwan buhari da munafiki kagama zaginsa yanzukuma yazama dan uwanka galadiman munafikai tsohon kwando	1						
+HAUSA	MUNAFIKI AN TSUFA BA ASAN AN TSUFA BA	1						
+HAUSA	Kai munafiki na fi karkinka wlhi....!kuma cigaba ma yanxu aka fara.	1						
+HAUSA	Gara Zama Da Munafiki Gara Zama da Barawo saboda saika Ajiye zaisata	0						
+HAUSA	Allah ya dawo mana da shi gida zamu bashi lambar nabogajin kano	1

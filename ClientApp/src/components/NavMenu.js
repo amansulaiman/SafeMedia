@@ -33,6 +33,11 @@ export class NavMenu extends Component {
                 <FontAwesomeIcon icon="bug"/> Report Hate Speech 
               </NavItem>
             </LinkContainer>
+            <LinkContainer to={'/dataprivacy'}>
+              <NavItem>
+                <FontAwesomeIcon icon="bug"/> Data Privacy 
+              </NavItem>
+            </LinkContainer>
               <NavItem href="/api-docs" target="_blank">
                 <FontAwesomeIcon icon="dot-circle"/> API
               </NavItem>

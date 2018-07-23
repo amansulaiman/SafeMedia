@@ -5,7 +5,7 @@ import { Home } from '../components/Home';
 import { SafeMessages } from '../components/SafeMessages';
 import { ReportHateSpeech } from '../components/ReportHateSpeech';
 import FacebookLogin from 'react-facebook-login';
-
+import { DataPrivacy } from '../components/DataPrivacy';
 export default class Facebook extends Component {
     displayName = Facebook.name;
     constructor(props) {
@@ -43,6 +43,7 @@ export default class Facebook extends Component {
                     <Route exact path='/' render={()=><Home id={this.state.userID} accessToken={this.state.accessToken} feed={this.state.feed} />} />
                     <Route path='/safemessages' component={SafeMessages} />
                     <Route path='/reporthatespeech' component={ReportHateSpeech} />
+                    <Route path='/dataprivacy' component={DataPrivacy} />
                 </Layout>
             );
         } else {

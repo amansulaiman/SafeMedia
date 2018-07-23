@@ -50,7 +50,7 @@ export class ReportHateSpeech extends Component {
   render() {
     return (
       <div>
-         <h2 style={{ fontSize: 38, fontFamily: "Patua One, cursive" }}>Help us capture all hate speech</h2>
+         <h2 style={{ fontSize: 38, fontFamily: "Patua One, cursive", color:"#4189C7" }}>Help us capture all hate speech</h2>
         <Form onSubmit={this.handleSubmit}>
           <FormGroup controlId="formControlsTextarea" bsSize="large">
             <Row>
@@ -97,7 +97,7 @@ export class ReportHateSpeech extends Component {
               </Col>
             </Row>
           </FormGroup>
-                <Button style={{fontFamily: "Patua One, cursive" }} type="submit" bsStyle={this.state.bsStyle} bsSize="large" disabled={this.state.disabled} block>SUBMIT HATE SPEECH <FontAwesomeIcon icon="arrow-right"/></Button>
+                <Button style={{fontFamily: "Open Sans, sans-serif"}} type="submit" bsStyle={this.state.bsStyle} bsSize="large" disabled={this.state.disabled} block>SUBMIT HATE SPEECH <FontAwesomeIcon icon="arrow-right"/></Button>
         </Form>
       </div>
     );

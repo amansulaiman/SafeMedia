@@ -833,14 +833,14 @@ HAUSA	Baba Buhari abunda kayi yayi dai dai. Allah ya tsare mana kai. Ameen	0
 HAUSA	Dakyau uban wayace	1
 HAUSA	Kwankwasawa aji tsoran Allah , qarya ba kyau.	0
 HAUSA	Ya koma ya ci gaba da sakarcin Shi da likimo..... Kidahumin dan kauye	1
-HAUSA	aikin banza Allah shike bada mulki ga wanda yaso a sanda kuma yaga dama.	0
+HAUSA	aikin banza Allah shike bada mulki ga wanda yaso a sanda kuma yaga dama.	1
 HAUSA	dagaskene,indaihakatafaru to alhakin kwankwaso	0
 HAUSA	Ai baza akimutun banzaba da walakin goro amiya	0
 HAUSA	Bai kamata ba gaskiya, yana da kyau mai girma buhari, ya saurari uzurinsa	0
 HAUSA	AI yasan Dan iskane. Shikuma bayasan mutumin banza akusadashi	1
 HAUSA	To aishima buharin yasan kwankwaso yafi ganduje amfani a jam,iya	0
 HAUSA	Maganin biri karen maguzawa kadan kagani dan iska kawoi	1
-HAUSA	Karyar banza. Ku dinga jin tsoron Allah.	0
+HAUSA	Karyar banza. Ku dinga jin tsoron Allah.	1
 HAUSA	qaryar banxa hassada ga mairabo takice	0
 HAUSA	GANDUJE kagari maisara ka gagari mai suka	0
 HAUSA	Likimo ya hadu da mai kula da nutsuwa.	0
@@ -1737,7 +1737,7 @@ HAUSA	Ai dukansu bawanda beda kashi a gindinsa	0
 HAUSA	kuma babu gudu babu ja dabaya	0
 HAUSA	muna tareda Allah	0
 HAUSA	Ashirye muke dasu	0
-HAUSA	daka su sa yayansu wannan izna ce kamai hankali ya gane saboda antabasu shine suke kunfan baki ba dan talaka bah da ace ya sabun ta masu lasisin rijiyoyin mansu dakaji su shiru munafukan	0
+HAUSA	daka su sa yayansu wannan izna ce kamai hankali ya gane saboda antabasu shine suke kunfan baki ba dan talaka bah da ace ya sabun ta masu lasisin rijiyoyin mansu dakaji su shiru munafukan	1
 HAUSA	Allah nata kara haska mana su muna ganin su marasa son cigaban mu	0
 HAUSA	insha'allah sai allah ya kunyata ku azzaluman banza da hofi allah kakara tsare mana baba buhari.	0
 HAUSA	abdussalam da gemunka gara na dan'bunsuru'	1
@@ -1843,14 +1843,14 @@ HAUSA	bamu Da Ko Wace Irin Bukata Daga Garesu Dan Basu Da Manufa Akan Ci Gaban K
 HAUSA	,kuma In Suna Da Manufa Micece Manufar Tasu Ta Tunbuke Shi Da SukeShiri Akai	0
 HAUSA	Idan Allah yanasonka uban kowamayakika mulki Na Allah Na shike badawa idan yabaka bamai karbewa idan yahanaka ba mai Baja basu sukebayarwaba.	1
 HAUSA	Dama basu suka zabe shiba. Kuma maganar rijiyoyin manfetur ne dazaa kwache ke gabatar su	0
-HAUSA	To ai ALLAH yafiku makiya ALLAH, makiya talaka, makiya Nigeria munafikan banza kawai mu talakawan Nigeria muna tare da BABA BUHARI shi kuma BABA yana tare da ALLAH	0
-HAUSA	Munafikan tsofi ta Allah ba takuba sai kun rigayi rana faduwa bi 'izinillahi	0
+HAUSA	To ai ALLAH yafiku makiya ALLAH, makiya talaka, makiya Nigeria munafikan banza kawai mu talakawan Nigeria muna tare da BABA BUHARI shi kuma BABA yana tare da ALLAH 1
+HAUSA	Munafikan tsofi ta Allah ba takuba sai kun rigayi rana faduwa bi 'izinillahi	1
 HAUSA	azaluman nageriya kenna kuma makiya talakawa don haka sai baba buhari sai dai ku mutu	0
 HAUSA	Sunga abubuwa sunfara saituwa basa kaunar talaka. To ta Allah batasu ba.	0
 HAUSA	Wayannan rubabbun ba abinda zasu iyayi suji da hawan jini da ciwon zuciya dake damunsu	0
 HAUSA	SHURE SHURE BAYA HANA MUTUWA. 2019 TA BABA BUHARI CE IN ALLAH YA YARDA KO ZA KUMUTU.	0
 HAUSA	AIKIN BANZA ARASAMASU KADA BABA SAI YANGIYA DATTAWAN BANZA TIR DAKU MASU HALINBERA	1
-HAUSA	Ta Allah batakuba yan uba munafakan banza kawai Allah ya kara tona asirinku	0
+HAUSA	Ta Allah batakuba yan uba munafakan banza kawai Allah ya kara tona asirinku	1
 HAUSA	Ya Allah kayi muna maganisu Allah Baba buhari yazama alhairi ga talkan Nigeria	0
 HAUSA	Wlh damuwana wadannan kafurai ty danjum da zamani lakot da dogon yaro wlh wadannan mutane da kuke gani sharrinsu yafi na boko haram don wlh yadda basa son msulunci da musulmai duk yadda zaayi sai sun yi munafurtan musulmi kuma wlh baku isa kumana komai ba laanau kawai kai allah yajikan abacha	0
 HAUSA	Kubarsu suta haduwa babu abunda zasu iya. Don't you know that Baba Bihari is a one man army?	0
@@ -1866,7 +1866,7 @@ HAUSA	Aimu talakwan Nigeria duk inda mukaga wan nan gungu babu Alkhairi a ciki k
 HAUSA	Allah kakare najeriya daga wodannan yan iskan barayi mutanen banza barayi kamurkushesu kamasu abinda kayima firauna da hamana da karuna da abujahal karyasu kamaidasu a Ya gana bayansu Don sunayenka masusterki	0
 HAUSA	Dadin abun ma talakawa ne ki yin zabi damu muga wani tsohon da bai riki mutuncen yazo munan mu talakawa muna jiransu	0
 HAUSA	In har basuiya kada shiba toh susani fa zasuyi karasa rayuwansu agidan wakafi Allah ya kweuta	0
-HAUSA	Mulki allah ne kebadawa basuba dan haka mu allah muka dogara dashi kuma allah zemana maganin su munafukai wa,anda basa kaunan talaka	0
+HAUSA	Mulki allah ne kebadawa basuba dan haka mu allah muka dogara dashi kuma allah zemana maganin su munafukai wa,anda basa kaunan talaka	1
 HAUSA	Allah yafisu, Kuma babu yadda zasuyi d ikon Allah dan BABANMU BUHARI, shi ikon Allah ne sai dai suyi hankuri dan sai yayi takwas shima dayardar ALLAH	0
 HAUSA	Dama ai ba abun mamaki vane idon tantagaryar barawo da marasa kishin kasa suka hadakai dn kauda mai kwatanta gaskiya.	0
 HAUSA	wallahi duk cikin su babu mai kawna Nigeria duk yan kasuwar bukatace da ga yan CAN Sai waki lansu don kowa ya zo da San rai ana ta ka mas burki suna hada rikici da sunan addini irin su TY jerry gana Allah ya Isa tsakanin mu daku	0
@@ -1895,7 +1895,7 @@ HAUSA	duk uwarsu allah yapi su, kuma shine xe kara vawa BABA Mulkin nigeria. Sai
 HAUSA	Gafili gamai doki tsofin jiragen ruwa masu cinye guri allah yafi karfin ku	0
 HAUSA	Ta ALLAH bataku batsofaffin laanannu matsiyata marasa aikin yi katshenku ne yazo 2019 sai DOGO DAN DAURA	0
 HAUSA	Hmmm maganar banza kosunmanta cewa buhari yana tare da Allah ne	0
-HAUSA	da kuma talakkawan kasar babu wani munafuki da yanzu bamusani ba akasan nan namu don haka kugama muna funcinku duka muna jiranku.	0
+HAUSA	da kuma talakkawan kasar babu wani munafuki da yanzu bamusani ba akasan nan namu don haka kugama muna funcinku duka muna jiranku.	1
 HAUSA	sofafin sojoji munhdaku da allah ya allah kayimana ma ganinsu ya allah kahanasu samu biyan bukata ya allah duniya da lahira	0
 HAUSA	kahanasu ka hanasu biyan bukata allah karushe duk wani shiri dasuke akan gamnatin buhari sukasance gasudarai amma basuamfanin kome arayuwarsu ya allah	0
 HAUSA	In Allah ya yarda basu isaba, km basu iyawa da yaddar Allah Sai {Baba Buhari},2019.	0
@@ -2203,7 +2203,6 @@ HAUSA	Wannan shi ne salon mulkin APC na cin zarafin duk wanda baya layinsu da ra
 HAUSA	yi korafin cewa ba a yi masaadalcigame da yadda ake cewa ba ya daukar mataki kan Fulanin da ake zargi da kashe mutane saboda shi ma Bafulatani ne.	0
 HAUSA	ALHAMDULILLAH! ALHAMDULILLAH! ALHAMDULILLAH! LEMA TA YAGE	1
 HAUSA	Dukwanda yazalinche mu Allah yasakamana,Bamuda karfin da zamuyi fada dasu amma Allah shine gatanmu,duk da wannan wahala da talaka kefama Ache wata uku (3) babu albashi saboda Allah akwai tausayi cikin wannan alamari wanda wallahi na abinci ya gagara saidai	0
-HAUSA	sharia ba,yaudara,munafunci,annamimanci,batanci,sharri,muguntada keta,zalumci,sata,wasoso da dukiyar jama,a,rashinadalcida nuna son kai,nuna wariya,watsa jita jita da watsa labarun da ba haka ba,	0
 HAUSA	SUNANA LAWAL YAHAYA AS SUNNAH BA JAMES WILLIAM BA KAMAR YADDA KU KA GANI. Jiya Allah ya Jarabceni, inda wannanmatsiyaciya kwace min account dina, ya canja masa suna da sunan shi, kamar yadda kuka gan	1
 HAUSA	Sai Sahabbai Sukace:-MatsiyaciAcikinmu shine Wanda Bayada Ko Dirhami ko Wata Kadara Sai Manzon Allah yace:-MatsiyaciAcikin Al'ummata shine Wanda Zaizo Ranar Alkiyama Da Sallarsa Da Azuminsa Da Zakk	0
 HAUSA	Zo ka rakani musha ice cream Idan Kanada kudi... Idan kuma kaiMatsiyacine kada kazo nan	0
@@ -3020,7 +3019,7 @@ HAUSA	Ka zama mahaukaci lamba daya	1
 HAUSA	Ga tsoho amma ba amfani. Kai ko a fulani kaji ance #BUBA toh fa sai a hankali	1								
 HAUSA	hahahahahahaha wallahi tusa takarewa budari su buba galadima anrasanayi Allah ya kyauta talakkawa munganeka	0								
 HAUSA	Wai har akwai wani abinda yan Nigeria basusani akan irinsu buba galadima bane? Ae mundade dasanin irinku	0								
-HAUSA	Mtsswww aikin banza shafa ma danni mai ya Allah duk wani munafuki Allah ka fitar muna dashi daga tafiyar PMB	0								
+HAUSA	Mtsswww aikin banza shafa ma danni mai ya Allah duk wani munafuki Allah ka fitar muna dashi daga tafiyar PMB	1								
 HAUSA	Kai, yan najeriya fa ba mahaukata bane, kuma kar kamanta cewa tun ba yau ba suka fara sanin Wayene BUBA GALADIMA.	0								
 HAUSA	Wannan I mafarkin masu kunu kenan 	0								
 HAUSA	Karayar tattalin arxikin wasu Kuma taxo karshe	0								
@@ -3043,7 +3042,7 @@ HAUSA	Allah ya rusa BUHARI da kungiyarsu ta (opc) oduduwa people congress.	0
 HAUSA	Akwai jahilci a tattare da muggan yan siyasar Nigeria, har yanzu sun kasa gane cewa Buhari ne APC. Yau ace Buhari ya barta, ku ga ikon Allah.	0								
 HAUSA	Wannan wani shiri ne dumin cin mutuncin Arewa da yardar Allah Buba ba zaku samu Nassara ba.	0								
 HAUSA	Shirme da shiririta duk inda zasuje suje, ko kuna kuka kokuna dariya sai Buhari ya juya.	0								
-HAUSA	Kai wannan Tsohon (Bubu Galadima) baiyi kyak-kyawan karshe ba. Allah yakara tona asirin munafukai.	0								
+HAUSA	Kai wannan Tsohon (Bubu Galadima) baiyi kyak-kyawan karshe ba. Allah yakara tona asirin munafukai.	1							
 HAUSA	Yo sunmanta ALLAH yana raya maraya ma, admin dan gyara nan in tufadda da miyau .....tuf.	0								
 HAUSA	Haha wai inji masu iya magana nacewa wai'inbasira yabacewa kare sai yabar cizo Yakoma tunkuri Allah ya kyauta	0								
 HAUSA	Wai ku bbc miyasa ko yaushe baku kawo akinda baba buhari yayi sai dai ku kawa matsala sa	1								
@@ -3063,7 +3062,7 @@ HAUSA	Daman Bayau Aka Faraba	0
 HAUSA	Allah ya kawo dauki Manage Allah ya kawo dauki Manag Allah ya kawo dauki Allah ya kawo dauki	1								
 HAUSA	Kasan dawa Kake magana kuwa?	0								
 HAUSA	Dan kaga mutun a social media sai ka ringa kiranshi daqiqi 	0								
-HAUSA	Kagane ko banza dakiki waye kai.	0								
+HAUSA	Kagane ko banza dakiki waye kai.	1							
 HAUSA	Wayasanka.	0								
 HAUSA	Waye gatanka a aduniyannan.	0								
 HAUSA	Idan kabatamin zanci durin uwarka wlh	0								
@@ -3175,7 +3174,7 @@ HAUSA	Wannan babban laifi ne 	0
 HAUSA	Ga Allah Dan da ka kusanci matar da bataka ba gara ka rungumi transformed 	0								
 HAUSA	Allah ya ganar dashi yadena Amma bai dace ba	0								
 HAUSA	gaskiya wannan bai burgeni ba wlh dukkan su hausa fulani musulmai amma su gaisa da juna tir da hakan.	1								
-HAUSA	Karyar Banza	0								
+HAUSA	Karyar Banza	1						
 HAUSA	Shi yafi kiwa kowa sani, in zai iyaci ko bazai ciba	0								
 HAUSA	aha haha zancen kawai 	0								
 HAUSA	Sunyi shekara uku suna zagin kwankwaso baice komaiba 	0								
@@ -3188,7 +3187,7 @@ HAUSA	mu munche IN ya isa yakafa sabuwar jam,iyya ya tsaya	0
 HAUSA	Kaima ka sha giyar mulki ne kamar ganduje?	0								
 HAUSA	Shege butulu kwankwaso ubanka ne wlh a siyasa dakai da buhari qarshenku yazo cikin ikon Allah	0								
 HAUSA	Shin kai bakaji kunya ba?	0								
-HAUSA	Hahhh! Wannan zancen banza ne	0								
+HAUSA	Hahhh! Wannan zancen banza ne	1								
 HAUSA	Gida biyu ne a siyasa a kano, in baka kwankwasiyya sai dai shekariyya Amman meye wani ganduje a Kano illah mujiya mai bakin jini	0								
 HAUSA	Ayi de mugani	0								
 HAUSA	Kai! Su baba kuma se ayi hattar	0								
@@ -3196,7 +3195,7 @@ HAUSA	Hahh! Wancan karan ance guguwa fasa lema, wannan lokacin kuma?	0
 HAUSA	Kowa ya debo da zafi de bakinsa	0								
 HAUSA	Ba girin girinba	0								
 HAUSA	Kanku akeji mu kam yan kallo ne	0								
-HAUSA	Idan ka koma can kuyi ko kare dama dukkan ku munafukai ne	0								
+HAUSA	Idan ka koma can kuyi ko kare dama dukkan ku munafukai ne	1								
 HAUSA	Su baba kuma se ai shirin komawa daura	0								
 HAUSA	Hmm wai Sabuwar jam'iyya	0								
 HAUSA	Kuyi ku gama zamu hadu a shekara me zuwa	0								
@@ -3527,7 +3526,7 @@ HAUSA	Yau da alama Malam Dila na kwanarmuguko ina zancenka ake mutanen gari da e
 HAUSA	Nima ji nayi ana fada	0
 HAUSA	To ai yafi Kama da dan liti ba dila ba.	1
 HAUSA	Mugubashi da kama	0
-HAUSA	Allah ya tona asirin munafikai	0
+HAUSA	Allah ya tona asirin munafikai	1
 HAUSA	Bomb ne aka daura masa yayi qunan baqin wake	0
 HAUSA	dan allah kugayan menene	0
 HAUSA	Sabulun salo ne	0
@@ -3544,7 +3543,7 @@ HAUSA	Hon Ahmad Sale Marke dan majalisa mai wakiltar karamar hukumar Dawakin tof
 HAUSA	Kamar wani Dan gambara	0
 HAUSA	Kai ba kyauba kayi wata shiga tamafi ta yan shi'a	1
 HAUSA	muni kamar dan fashi da makami	0
-HAUSA	.gaskia anyi katan banza kalan shi a ko	0
+HAUSA	gaskia anyi katan banza kalan shi a ko 1
 HAUSA	gaskiya zak zaki yasamu karuwa jama a haryafi garuje shiyasa	0
 HAUSA	TO KU CHIRE TA KAN GARUJE MANA SHIMA YASA BAKA KU AI YAN JAGALIYYA NE	1
 HAUSA	YA SAUKE JAR HULAN DA KE KANSA MANA	1
@@ -4616,7 +4615,6 @@ HAUSA	Yan kutumar uba ba	0
 HAUSA	Kutumar uba karyakake yasin	0
 HAUSA	"A dai yi mugani, za a cire kudin magudin zaben 2019 cikin hikima, to dai yan Nigeria sungane komai"	1
 HAUSA	"Muna godiya da wannan Gwamnatin na Baba Buhari, kuma muna rokon Allah yataimake ta"	0
-HAUSA	"Baba buhari ikon allah ya ubangiji allah kajakwanan wanna bawanaka adali allah kasareshi daga sharrin munafukai amin,"	0
 HAUSA	"Baba buhari ikon allah ya ubangiji allah kajakwanan wanna bawanaka adali allah kasareshi daga sharrin munafukai amin,"	0
 HAUSA	Bashine bukatar talakawaba waynda yau abinda zasuci yana nema ya gagaresu yaudara bazata kaiku koina ba wannan shekarar zabece tanan kuka bullo	0
 HAUSA	Muna godiya baba buhari nigeria president to day and tomorrow in sha Allah	0

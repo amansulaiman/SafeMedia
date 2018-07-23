@@ -9,6 +9,7 @@ namespace hateSpeach.Models
         public string HateText { get; set; } 
         [Display(Description="e.g Facebook")]
         public string Source { get; set; }
+        [DataType(DataType.Url)]
         public string EvidanceLink { get; set; }
         [Display(Description="e.g muslims")]
         public string Target { get; set; }

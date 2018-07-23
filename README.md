@@ -14,11 +14,10 @@ Our research is aim to help and promote nonuse of any form of hate speech in soc
 SafeMedia ask user's facebook permissions to read his/her feed any run AI tool to determine wether the feed data contain hate speech or not.  
 
 # How We built it
-We collected and gathered morethan 10,000+ post from various social media users of three most spoken languages oin Nigeria (English, Hausa, Yoruba) that include both hate and not hate speech. However, we wrote sentiment analysis algorithm using ML.NET machine learning framework with 90% accuracy to predict hate speech in three languages. 
-After that, we build 
+We collected and gathered morethan 10,000+ social media post from various social media users of two most spoken languages oin Nigeria (Hausa and English) that include both hate and not hate speech. However, we wrote sentiment analysis algorithm using ML.NET machine learning framework with 84% accuracy to predict hate speech in the two languages.
 
 # Challenges We ran into
-The most challanges we ran into is the data collection. Due to recent data provacy laws that enforce most of social media giants change theri policy on data sharing we find it diffucult to get a tool that will generate a data for us to train our model. Most of the public data we got are not hour main focus language (Hausa) hence we decided to collect morethan 5,000+ hausa post manually from social media platforms. Also, the schema we design to work with has so many data iputs to the extend that to fill a single row it will take you morethan 5 minutes, after all we design a siple shema that we use to collect morethan 6,000+ data manually from social media. 
+Due to recent data privacy laws that enforce most of social media giants change their data sharing policy we find it diffucult to find a tool that will generate a data for us to train our model. Most of the public data we got are not our main focus language (Hausa) hence we decided to collect morethan 5,000+ hausa post manually from social media platforms. Also, the initial schema we design to work with has so many data iputs to the extend that to fill a single row it will take you morethan 5 minutes, after all we design a siple schema that we use to collect morethan 6,000+ data manually from social media. 
 
 # Accomplishments that We are proud of
 Wanne abu muka cimma da muke alfahari da shi
@@ -41,5 +40,3 @@ Also to support other social media platforms like
 * React.js 
 * Facebook Login SDK
 * Facebook Graph API
-
-export ASPNETCORE_ENVIRONMENT=Development

@@ -73,12 +73,15 @@ export class Home extends Component {
 
   render() {
     return (
-      <Form onSubmit={this.handleSubmit}>
-        <FormGroup controlId="formControlsTextarea" bsSize="large">
-          <FormControl componentClass="textarea" style={{height: '200px', marginTop: '50px'}} value={this.state.value} onChange={this.handleChange} placeholder={this.state.placeholder} />
-        </FormGroup>
-        <Button type="submit" bsStyle={this.state.bsStyle} bsSize="large" disabled={this.state.disabled} block>POST ON MY FACEBOOK WALL <FontAwesomeIcon icon="arrow-right"/></Button>
-      </Form>
+      <div>
+        <h2>We help you write non abuse words on your Facebook</h2>
+        <Form onSubmit={this.handleSubmit}>
+          <FormGroup controlId="formControlsTextarea" bsSize="large">
+            <FormControl componentClass="textarea" style={{height: '200px'}} value={this.state.value} onChange={this.handleChange} placeholder={this.state.placeholder} />
+          </FormGroup>
+          <Button type="submit" bsStyle={this.state.bsStyle} bsSize="large" disabled={this.state.disabled} block>POST ON MY FACEBOOK WALL <FontAwesomeIcon icon="arrow-right"/></Button>
+        </Form>
+      </div>
     );
   }
 }

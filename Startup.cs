@@ -44,7 +44,7 @@ namespace hateSpeach
                         {
                             Name = "Team",
                             Email = "i@amansulaiman.me"
-                        }
+                        }, License = new License(){Name = "MIT", Url="https://github.com/amansulaiman/SafeMedia"}
                     }
                  );
                 var filePath = Path.Combine(System.AppContext.BaseDirectory, "hateSpeach.xml");

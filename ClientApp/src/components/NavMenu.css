@@ -16,6 +16,7 @@
     .navbar {
         height: 100%;
         width: calc(25% - 20px);
+        font-family: 'Open Sans', sans-serif;
     }
     .navbar {
         border-radius: 0;

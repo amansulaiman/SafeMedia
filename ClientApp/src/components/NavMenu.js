@@ -35,7 +35,7 @@ export class NavMenu extends Component {
             </LinkContainer>
             <LinkContainer to={'/dataprivacy'}>
               <NavItem>
-                <FontAwesomeIcon icon="bug"/> Data Privacy 
+                <FontAwesomeIcon icon="database"/> Data Privacy 
               </NavItem>
             </LinkContainer>
               <NavItem href="/api-docs" target="_blank">

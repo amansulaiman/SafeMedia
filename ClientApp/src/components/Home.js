@@ -75,7 +75,7 @@ export class Home extends Component {
         
     return (
       <div>
-            <h2 style={{ fontSize: 38, fontFamily: "Patua One, cursive", color:"#4189C7"}}>We help you write non abuse words on your Facebook</h2>
+            <h2 style={{ fontSize: 28, fontFamily: "Patua One, cursive", color:"#4189C7"}}>We help you write non abuse words on your Facebook</h2>
         <Form onSubmit={this.handleSubmit}>
           <FormGroup controlId="formControlsTextarea" bsSize="large">
             <FormControl componentClass="textarea" style={{height: '200px'}} value={this.state.value} onChange={this.handleChange} placeholder={this.state.placeholder} />

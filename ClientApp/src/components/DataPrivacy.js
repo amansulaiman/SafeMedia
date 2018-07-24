@@ -27,9 +27,8 @@ export class DataPrivacy extends Component {
             </section>
             <section id="privacy-protection">
                 <h3>How do we protect your information?</h3>
-                <p>We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.</p>
-                <p>We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Database to be only accessed by those authorized with special access rights to our systems, and are required to?keep the information confidential.</p>
-                <p>After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.</p>
+                <p>We do not store any user's Facebbok data in our platform, all data collected from Facebbook are only use for the porpose of hate speech analysis and never stored in our platform.</p>
+                <p>We also require no any identity to report a hate speech on our platform.</p>
             </section>
             
             <section id="privacy-disclose-third-party">
@@ -42,7 +41,7 @@ export class DataPrivacy extends Component {
             </section>
             <section id="privacy-coppa-complicance">
                 <h3>Children's Online Privacy Protection Act Compliance</h3>
-                <p>We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.</p>
+                <p>We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not authorize login from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.</p>
             </section>
             <section id="privacy-online">
                 <h3>Online Privacy Policy Only</h3>
@@ -54,15 +53,15 @@ export class DataPrivacy extends Component {
             </section>
             <section id="privacy-changes">
                 <h3>Changes to our Privacy Policy</h3>
-                <p>If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below.</p>
+                <p>If we decide to change our privacy policy, we will post those changes on this page and/or update the Privacy Policy modification date below.</p>
             </section>
             <section id="privacy-contact-us">
                 <h3>Contacting Us</h3>
                 <p>If there are any questions regarding this privacy policy you may contact us using the information below.</p>
                 <address class="site-address">
-                    <span class="url">http://halaldelivery.com.ng</span> <br />
-                    <span class="name">Halal Delivery</span> <br />
-                    <span class="phone">+2349066666958</span> <br />
+                    <span class="email">i@amansulaiman.me</span> <br />
+                    <span class="name">Abdulrahman Sulaiman</span> <br />
+                    <span class="phone">+2348148877252</span> <br />
                     <span class="street-address">Flat 12B Hungu House, zaria road, beside Dan Abibi Collection</span> <br />
                     <span class="city-state-zip">Kano, 700224</span>
                     <span class="country">Nigeria</span> <br />

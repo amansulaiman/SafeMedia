@@ -5,7 +5,7 @@ export class DataPrivacy extends Component {
 
   render() {
     return (
-        <div class="privacy-policy">
+        <div className="privacy-policy">
             <h1>Privacy Policy</h1>
             <section id="privacy-information-we-collect">
                 <h3>What information do we collect?</h3>
@@ -58,13 +58,13 @@ export class DataPrivacy extends Component {
             <section id="privacy-contact-us">
                 <h3>Contacting Us</h3>
                 <p>If there are any questions regarding this privacy policy you may contact us using the information below.</p>
-                <address class="site-address">
-                    <span class="email">i@amansulaiman.me</span> <br />
-                    <span class="name">Abdulrahman Sulaiman</span> <br />
-                    <span class="phone">+2348148877252</span> <br />
-                    <span class="street-address">Flat 12B Hungu House, zaria road, beside Dan Abibi Collection</span> <br />
-                    <span class="city-state-zip">Kano, 700224</span>
-                    <span class="country">Nigeria</span> <br />
+                <address className="site-address">
+                    <span className="email">i@amansulaiman.me</span> <br />
+                    <span className="name">Abdulrahman Sulaiman</span> <br />
+                    <span className="phone">+2348148877252</span> <br />
+                    <span className="street-address">Flat 12B Hungu House, zaria road, beside Dan Abibi Collection</span> <br />
+                    <span className="city-state-zip">Kano, 700224</span>
+                    <span className="country">Nigeria</span> <br />
                 </address>
             </section>
         </div>

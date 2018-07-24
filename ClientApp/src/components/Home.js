@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import { Form, FormGroup, FormControl, Button } from 'react-bootstrap';
+import { Redirect } from 'react-router';
+import { Form, FormGroup, FormControl, Button, Row, Col, Panel } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 export class Home extends Component {
   displayName = Home.name
@@ -10,12 +11,18 @@ export class Home extends Component {
       value: '',
       bsStyle: 'default',
       disabled: true,
+      hateSpeechConfidance: 0,
       isHateSpeech: false,
+      language: '',
+      languageConfidance: 0,
+      suggestion: '',
+      changeRoute: false,
       placeholder: 'Have anything in your mind? Write it here'
     };
 
     this.handleChange = this.handleChange.bind(this);
     this.handleSubmit = this.handleSubmit.bind(this);
+    this.reportHateSpeech = this.reportHateSpeech.bind(this);
   }
 
   handleChange(event) {
@@ -25,7 +32,13 @@ export class Home extends Component {
       Promise.resolve((async () => {
         return await fetch(`/api/SentimentAnalysis?sentiment=${sentimentText}`).then(res => res.json());
       })()).then(data => {
-        this.setState({isHateSpeech: data.isHateSpeech});
+        this.setState({
+          hateSpeechConfidance: data.hateSpeechConfidance,
+          isHateSpeech: data.isHateSpeech,
+          language: data.language,
+          languageConfidance: data.languageConfidance,
+          suggestion: data.suggestion
+        });
       })
     }
     
@@ -70,17 +83,77 @@ export class Home extends Component {
       disabled: true
     });
   }
+
+  reportHateSpeech(event) {
+    event.preventDefault();
+
+    this.setState({
+      bsStyle: 'default',
+      disabled: true,
+      changeRoute: true
+    });
+  }
   
-    render() {
-        
+  render() {
+    if (this.state.changeRoute === true) {
+      return (<Redirect to={{
+        pathname: '/reporthatespeech',
+        referrer: {
+          hateSpeech: this.state.value,
+          platform: 'SafeMedia'
+        }
+      }} />)
+    }
+
     return (
       <div>
-            <h2 style={{ fontSize: 28, fontFamily: "Patua One, cursive", color:"#4189C7"}}>We help you write non abuse words on your Facebook</h2>
+        <h2 style={{ fontSize: 28, fontFamily: "Patua One, cursive", color:"#4189C7"}}>We help you write non abuse words on your Facebook</h2>
         <Form onSubmit={this.handleSubmit}>
           <FormGroup controlId="formControlsTextarea" bsSize="large">
-            <FormControl componentClass="textarea" style={{height: '200px'}} value={this.state.value} onChange={this.handleChange} placeholder={this.state.placeholder} />
+            <Row>
+              <Col sm={12}>
+                <FormControl componentClass="textarea" style={{height: '200px'}} value={this.state.value} onChange={this.handleChange} placeholder={this.state.placeholder} />
+              </Col>
+            </Row>
+            <Row>
+              <Col sm={6} style={{marginTop: '10px'}}>
+                <Panel bsStyle="primary">
+                  <Panel.Heading>
+                    <Panel.Title componentClass="h3">Language</Panel.Title>
+                  </Panel.Heading>
+                  <Panel.Body style={{height: '50px'}}>{this.state.language}</Panel.Body>
+                </Panel>
+              </Col>
+              <Col sm={6} style={{marginTop: '10px'}}>
+                <Panel bsStyle="primary">
+                  <Panel.Heading>
+                    <Panel.Title componentClass="h3">Language Confidence</Panel.Title>
+                  </Panel.Heading>
+                  <Panel.Body style={{height: '50px'}}>{this.state.languageConfidance}</Panel.Body>
+                </Panel>
+              </Col>
+            </Row>
+            <Row>
+              <Col sm={6} style={{marginTop: '10px'}}>
+                <Panel bsStyle="primary">
+                  <Panel.Heading>
+                    <Panel.Title componentClass="h3">Hate Speech Confidence</Panel.Title>
+                  </Panel.Heading>
+                  <Panel.Body style={{height: '50px'}}>{this.state.hateSpeechConfidance}</Panel.Body>
+                </Panel>
+              </Col>
+              <Col sm={6} style={{marginTop: '10px'}}>
+                <Panel bsStyle="primary">
+                  <Panel.Heading>
+                    <Panel.Title componentClass="h3">Suggestion</Panel.Title>
+                  </Panel.Heading>
+                  <Panel.Body style={{height: '50px'}}>{this.state.suggestion}</Panel.Body>
+                </Panel>
+              </Col>
+            </Row>
           </FormGroup>
           <Button style={{fontFamily: "Open Sans, sans-serif"}} type="submit" bsStyle={this.state.bsStyle} bsSize="large" disabled={this.state.disabled} block>POST ON MY FACEBOOK WALL <FontAwesomeIcon icon="arrow-right"/></Button>
+          <Button style={{fontFamily: "Open Sans, sans-serif", marginTop: '5%'}} bsStyle={this.state.bsStyle} bsSize="large" disabled={this.state.disabled} onClick={this.reportHateSpeech}>REPORT AS HATE SPEECH <FontAwesomeIcon icon="arrow-right"/></Button>
         </Form>
       </div>
     );

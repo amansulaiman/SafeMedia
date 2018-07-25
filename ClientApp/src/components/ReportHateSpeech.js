@@ -51,7 +51,7 @@ export class ReportHateSpeech extends Component {
     if (this.props.location.referrer) {
       return (
         <div>
-          <h2 style={{ fontSize: 38, fontFamily: "Patua One, cursive", color:"#4189C7" }}>Help us capture all hate speech</h2>
+          <h2 style={{ fontSize: 32, fontFamily: "Patua One, cursive", color:"#4189C7" }}>Help us capture all hate speech</h2>
           <Form onSubmit={this.handleSubmit}>
             <FormGroup controlId="formControlsTextarea" bsSize="large">
               <Row>
@@ -105,7 +105,7 @@ export class ReportHateSpeech extends Component {
     } else {
       return (
         <div>
-          <h2 style={{ fontSize: 38, fontFamily: "Patua One, cursive", color:"#4189C7" }}>Help us capture all hate speech</h2>
+          <h2 style={{ fontSize: 32, fontFamily: "Patua One, cursive", color:"#4189C7" }}>Help us capture all hate speech</h2>
           <Form onSubmit={this.handleSubmit}>
             <FormGroup controlId="formControlsTextarea" bsSize="large">
               <Row>

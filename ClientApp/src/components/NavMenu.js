@@ -25,7 +25,7 @@ export class NavMenu extends Component {
             </LinkContainer>
             <LinkContainer to={'/safemessages'}>
               <NavItem>
-              <FontAwesomeIcon icon="comments"/> Safe Messages
+              <FontAwesomeIcon icon="comments"/> Safe Groups
               </NavItem>
             </LinkContainer>
             <LinkContainer to={'/reporthatespeech'}>

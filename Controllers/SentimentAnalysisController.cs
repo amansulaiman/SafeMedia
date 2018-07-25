@@ -15,6 +15,11 @@ namespace hateSpeach.Controllers
     [Route("api/[controller]")]
     public class SentimentAnalysisController : Controller
     {
+        private readonly AppDbContext _context;
+        public SentimentAnalysisController(AppDbContext context)
+        {
+            _context = context;
+        }
         /// <summary>
         /// Analyze a hate speech.
         /// </summary>
@@ -56,7 +61,7 @@ namespace hateSpeach.Controllers
                 }
                 if (predictedLanguage.PredictedLabels == "ENGLISH" && predictedSentiment.PredictedLabels)
                 {
-                    suggestion = "Please refine your world they might be offensive to others";
+                    suggestion = "Please refine your words they might be offensive to others";
                 }
                 return Ok(new SentimentViewModel()
                 {
@@ -78,11 +83,21 @@ namespace hateSpeach.Controllers
         /// <response code ="201">Created successfully</response>
         /// <response code ="400">Bad request invalid inputs</response>
         [HttpPost]
-        public async Task<ActionResult<HateSpeechReportViewModel>> ReportHateSpeech([FromBody]HateSpeechReportViewModel model)
+        public async Task<ActionResult<HateSpeechReport>> ReportHateSpeech([FromBody]HateSpeechReportViewModel model)
         {
             if (ModelState.IsValid)
             {
-                return Created(nameof(ReportHateSpeech), model);
+                var report =  new HateSpeechReport(){
+                    HateText = model.HateText,
+                    Source = model.Source,
+                    EvidanceLink = model.EvidanceLink,
+                    Target = model.Target,
+                    Language = model.Language,
+                    Category = model.Category  
+                };
+                await _context.HateSpeechReports.AddAsync(report);
+                await _context.SaveChangesAsync();
+                return Created(nameof(ReportHateSpeech), report);
             }
             return BadRequest();
         }

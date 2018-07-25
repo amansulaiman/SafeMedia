@@ -153,7 +153,7 @@ export class Home extends Component {
             </Row>
           </FormGroup>
           <Button style={{fontFamily: "Open Sans, sans-serif"}} type="submit" bsStyle={this.state.bsStyle} bsSize="large" disabled={this.state.disabled} block>POST ON MY FACEBOOK WALL <FontAwesomeIcon icon="arrow-right"/></Button>
-          <Button style={{fontFamily: "Open Sans, sans-serif", marginTop: '5%'}} bsStyle={this.state.bsStyle} bsSize="large" disabled={this.state.disabled} onClick={this.reportHateSpeech}>REPORT AS HATE SPEECH <FontAwesomeIcon icon="arrow-right"/></Button>
+          <Button style={{fontFamily: "Open Sans, sans-serif", marginTop: '5%'}} bsStyle={this.state.bsStyle} bsSize="large" disabled={this.state.disabled} onClick={this.reportHateSpeech}>REPORT AS HATE SPEECH <FontAwesomeIcon icon="flag"/></Button>
         </Form>
       </div>
     );

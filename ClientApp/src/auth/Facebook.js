@@ -37,7 +37,7 @@ export default class Facebook extends Component {
     }
 
     render() {
-        if (this.state.isLoggedIn) {
+        if (!this.state.isLoggedIn) {
             return (
                 <Layout>
                     <Route exact path='/' render={()=><Home id={this.state.userID} accessToken={this.state.accessToken} feed={this.state.feed} />} />

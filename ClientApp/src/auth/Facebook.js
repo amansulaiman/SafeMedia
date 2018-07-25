@@ -6,6 +6,7 @@ import { SafeMessages } from '../components/SafeMessages';
 import { ReportHateSpeech } from '../components/ReportHateSpeech';
 import FacebookLogin from 'react-facebook-login';
 import { DataPrivacy } from '../components/DataPrivacy';
+
 export default class Facebook extends Component {
     displayName = Facebook.name;
     constructor(props) {
@@ -17,7 +18,8 @@ export default class Facebook extends Component {
             name: '',
             email: '',
             picture: '',
-            feed: ''
+            feed: '',
+            groups: ''
         }
     }
     
@@ -32,7 +34,8 @@ export default class Facebook extends Component {
             name: response.name,
             email: response.email,
             picture: response.picture.data.url,
-            feed: response.feed
+            feed: response.feed,
+            groups: response.groups
         });
     }
 
@@ -41,7 +44,7 @@ export default class Facebook extends Component {
             return (
                 <Layout>
                     <Route exact path='/' render={()=><Home id={this.state.userID} accessToken={this.state.accessToken} feed={this.state.feed} />} />
-                    <Route path='/safemessages' component={SafeMessages} />
+                    <Route path='/safemessages' render={()=><SafeMessages id={this.state.userID} accessToken={this.state.accessToken} groups={this.state.groups} />} />
                     <Route path='/reporthatespeech' component={ReportHateSpeech} />
                     <Route path='/dataprivacy' component={DataPrivacy} />
                 </Layout>
@@ -52,8 +55,8 @@ export default class Facebook extends Component {
                     <FacebookLogin
                         appId="1453670621367042"
                         autoLoad={true}
-                        fields="name,email,picture,feed"
-                        scope="public_profile,publish_actions"
+                        fields="name,email,picture,feed,groups"
+                        scope="public_profile,publish_actions,groups_access_member_info"
                         version="2.10"
                         onClick={this.componentClicked}
                         callback={this.responseFacebook}

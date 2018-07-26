@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Form, FormGroup, FormControl, Button, Row, Col } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-
+import Notifications, {notify} from 'react-notify-toast';
 export class ReportHateSpeech extends Component {
   displayName = ReportHateSpeech.name
 
@@ -35,8 +35,12 @@ export class ReportHateSpeech extends Component {
       body: JSON.stringify(data),
       headers: {'Content-Type': 'application/json'}
     }).then(res => res.json())
-    .catch(error => console.error('Error:', error))
-    .then(response => console.log('Success:', response));
+    .catch(error => {
+      notify.show('Something went wrong', 'error');
+    })
+    .then(response => {
+      notify.show('Hate speech reported successfully', 'success');
+    });
 
     event.target.hateText.value = '';
     event.target.source.value = '';
@@ -51,6 +55,7 @@ export class ReportHateSpeech extends Component {
     if (this.props.location.referrer) {
       return (
         <div>
+          <Notifications />
           <h2 style={{ fontSize: 32, fontFamily: "Patua One, cursive", color:"#4189C7" }}>Help us capture all hate speech</h2>
           <Form onSubmit={this.handleSubmit}>
             <FormGroup controlId="formControlsTextarea" bsSize="large">
@@ -105,6 +110,7 @@ export class ReportHateSpeech extends Component {
     } else {
       return (
         <div>
+          <Notifications />
           <h2 style={{ fontSize: 32, fontFamily: "Patua One, cursive", color:"#4189C7" }}>Help us capture all hate speech</h2>
           <Form onSubmit={this.handleSubmit}>
             <FormGroup controlId="formControlsTextarea" bsSize="large">

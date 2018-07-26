@@ -23,7 +23,7 @@ export class NavMenu extends Component {
               <FontAwesomeIcon icon="edit"/> Safe Write
               </NavItem>
             </LinkContainer>
-            <LinkContainer to={'/safemessages'}>
+            <LinkContainer to={'/safegroups'}>
               <NavItem>
               <FontAwesomeIcon icon="comments"/> Safe Groups
               </NavItem>

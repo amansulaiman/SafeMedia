@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Route } from 'react-router';
 import { Layout } from '../components/Layout';
 import { Home } from '../components/Home';
-import { SafeMessages } from '../components/SafeMessages';
+import { SafeGroups } from '../components/SafeGroups';
 import { ReportHateSpeech } from '../components/ReportHateSpeech';
 import FacebookLogin from 'react-facebook-login';
 import { DataPrivacy } from '../components/DataPrivacy';
@@ -44,7 +44,7 @@ export default class Facebook extends Component {
             return (
                 <Layout>
                     <Route exact path='/' render={()=><Home id={this.state.userID} accessToken={this.state.accessToken} feed={this.state.feed} />} />
-                    <Route path='/safemessages' render={()=><SafeMessages id={this.state.userID} accessToken={this.state.accessToken} groups={this.state.groups} />} />
+                    <Route path='/safegroups' render={()=><SafeGroups id={this.state.userID} accessToken={this.state.accessToken} groups={this.state.groups} />} />
                     <Route path='/reporthatespeech' component={ReportHateSpeech} />
                     <Route path='/dataprivacy' component={DataPrivacy} />
                 </Layout>

@@ -37,6 +37,7 @@ export class SafeGroups extends Component {
   }
 
   render() {
+    // check if user belongs to any group on Facebook
     if (this.state.groups !== undefined && this.state.groups.length !== 0) {
       return (
         <div>

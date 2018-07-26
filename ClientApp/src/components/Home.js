@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { Redirect } from 'react-router';
 import { Form, FormGroup, FormControl, Button, Row, Col, Panel } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import Notifications, {notify} from 'react-notify-toast';
 export class Home extends Component {
   displayName = Home.name
 
@@ -74,8 +75,12 @@ export class Home extends Component {
       body: JSON.stringify(data),
       headers: {'Content-Type': 'application/json'}
     }).then(res => res.json())
-    .catch(error => console.error('Error:', error))
-    .then(response => console.log('Success:', response));
+    .catch(error => {
+      notify.show('Something went wrong', 'error');
+    })
+    .then(response => {
+      notify.show('Posted successfully to your wall', 'success');
+    });
 
     this.setState({
       value: '',
@@ -107,6 +112,7 @@ export class Home extends Component {
 
     return (
       <div>
+        <Notifications />
         <h2 style={{ fontSize: 32, fontFamily: "Patua One, cursive", color:"#4189C7"}}>We help you write non abuse words on your Facebook</h2>
         <Form onSubmit={this.handleSubmit}>
           <FormGroup controlId="formControlsTextarea" bsSize="large">

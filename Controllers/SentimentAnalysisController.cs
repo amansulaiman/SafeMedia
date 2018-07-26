@@ -95,8 +95,8 @@ namespace hateSpeach.Controllers
                     Language = model.Language,
                     Category = model.Category  
                 };
-                await _context.HateSpeechReports.AddAsync(report);
-                await _context.SaveChangesAsync();
+                // await _context.HateSpeechReports.AddAsync(report);
+                // await _context.SaveChangesAsync();
                 return Created(nameof(ReportHateSpeech), report);
             }
             return BadRequest();

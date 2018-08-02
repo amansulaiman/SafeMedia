@@ -56,7 +56,7 @@ export default class Facebook extends Component {
                         appId="1453670621367042"
                         autoLoad={true}
                         fields="name,email,picture,feed,groups"
-                        scope="public_profile,publish_actions,groups_access_member_info"
+                        scope="public_profile,groups_access_member_info"
                         version="2.10"
                         onClick={this.componentClicked}
                         callback={this.responseFacebook}

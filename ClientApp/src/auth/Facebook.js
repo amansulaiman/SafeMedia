@@ -6,6 +6,7 @@ import { SafeGroups } from '../components/SafeGroups';
 import { ReportHateSpeech } from '../components/ReportHateSpeech';
 import FacebookLogin from 'react-facebook-login';
 import { DataPrivacy } from '../components/DataPrivacy';
+import { GroupFeed } from '../components/GroupFeed';
 
 export default class Facebook extends Component {
     displayName = Facebook.name;
@@ -44,9 +45,10 @@ export default class Facebook extends Component {
             return (
                 <Layout>
                     <Route exact path='/' render={()=><Home id={this.state.userID} accessToken={this.state.accessToken} feed={this.state.feed} />} />
-                    <Route path='/safegroups' render={()=><SafeGroups id={this.state.userID} accessToken={this.state.accessToken} groups={this.state.groups} />} />
+                    <Route exact path='/safegroups' render={()=><SafeGroups id={this.state.userID} accessToken={this.state.accessToken} groups={this.state.groups} />} />
                     <Route path='/reporthatespeech' component={ReportHateSpeech} />
                     <Route path='/dataprivacy' component={DataPrivacy} />
+                    <Route exact path='/safegroups/:id' component={GroupFeed} />
                 </Layout>
             );
         } else {

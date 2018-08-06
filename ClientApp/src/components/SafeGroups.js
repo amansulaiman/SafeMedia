@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
-import { Button, Col, Panel } from 'react-bootstrap';
+import { Col, Panel } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { Link } from 'react-router-dom';
 
 export class SafeGroups extends Component {
   displayName = SafeGroups.name
@@ -12,8 +13,6 @@ export class SafeGroups extends Component {
       accessToken: '',
       groups: []
     }
-
-    this.viewMessages = this.viewMessages.bind(this);
   }
 
   componentDidMount() {
@@ -22,18 +21,6 @@ export class SafeGroups extends Component {
       accessToken: this.props.accessToken,
       groups: this.props.groups.data
     });
-  }
-
-  viewMessages(event) {
-    event.preventDefault();
-
-    // here I'm only logging the clicked group id to the console
-    // I'll use the id to query the graph API and fetch the groups message
-    // Using this endpoint 
-    // https://graph.facebook.com/v2.10/${this.state.id}/${event.target.dataset.groupid}/feed?access_token=${this.state.accessToken}
-    console.log(this.state.id);
-    console.log(event.target.dataset.groupid);
-    console.log(this.state.accessToken);
   }
 
   render() {
@@ -50,7 +37,16 @@ export class SafeGroups extends Component {
                     <Panel.Title componentClass="h3">{group.name}</Panel.Title>
                   </Panel.Heading>
                   <Panel.Body style={{height: '60px', textAlign: 'center'}}>
-                    <Button data-groupid={group.id} bsStyle='success' bsSize="small" disabled={false} onClick={this.viewMessages}>VIEW MESSAGES <FontAwesomeIcon icon="arrow-right"/></Button>
+                    <Link to={{
+                        pathname: `/safegroups/${group.id}`,
+                        referrer: {
+                          userId: this.state.id,
+                          groupId: group.id,
+                          token: this.state.accessToken
+                        }
+                      }}
+                      >
+                      VIEW MESSAGES <FontAwesomeIcon icon="arrow-right"/></Link>
                   </Panel.Body>
                 </Panel>
               </Col>

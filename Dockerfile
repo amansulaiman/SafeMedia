@@ -1,10 +1,3 @@
-# FROM microsoft/aspnetcore:1
-# LABEL Name=safemedia Version=0.0.1
-# ARG source=.
-# WORKDIR /app
-# EXPOSE 3000
-# COPY $source .
-# ENTRYPOINT dotnet safemedia.dll
 FROM microsoft/dotnet:2.1-sdk AS build
 WORKDIR /safemedia
 

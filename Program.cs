@@ -24,7 +24,7 @@ namespace hateSpeach
             //new LightGbmArguments();
 
             //Uncomment these two lines to train new models, after finish copy .Zip files from bin/Debug folder to the root folder
-            //await MLTraining.LanguageTrainAsync();
+            await MLTraining.LanguageTrainAsync();
             //await MLTraining.SentimentTrainAsync();
 
             MLTraining.LanguageModel = await PredictionModel.ReadAsync<LanguageModel, LanguagePrediction>(DataPath.LanguageModelPath);

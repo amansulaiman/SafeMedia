@@ -26,8 +26,12 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.SpaServices.Extensions" Version="2.1.1" />
-    <PackageReference Include="Microsoft.ML" Version="0.3.0" />
-    <PackageReference Include="Microsoft.ML.LightGBM" Version="0.3.0" />
+    <PackageReference Include="Microsoft.ML" Version="0.5.0" />
+    <PackageReference Include="Microsoft.ML.CpuMath" Version="0.5.0" />
+    <PackageReference Include="Microsoft.ML.HalLearners" Version="0.5.0" />
+    <PackageReference Include="Microsoft.ML.ImageAnalytics" Version="0.5.0" />
+    <PackageReference Include="Microsoft.ML.LightGBM" Version="0.5.0" />
+    <PackageReference Include="Microsoft.ML.Onnx" Version="0.5.0" />
 		<PackageReference Include="Swashbuckle.AspNetCore" Version="2.5.0" />
   </ItemGroup>
 
@@ -39,6 +43,9 @@
 
   <ItemGroup>
     <Folder Include="datasets\" />
+  </ItemGroup>
+   <ItemGroup>
+    <Folder Include="ONNX\" />
   </ItemGroup>
   <ItemGroup>
     <None Update="datasets\data.txt">
@@ -75,7 +82,7 @@
     <!-- Include the newly-built files in the publish output -->
     <ItemGroup>
       <DistFiles Include="$(SpaRoot)build\**" />
-      <ResolvedFileToPublish Include="@(DistFiles-&gt;'%(FullPath)')" Exclude="@(ResolvedFileToPublish)">
+      <ResolvedFileToPublish Include="@(DistFiles->'%(FullPath)')" Exclude="@(ResolvedFileToPublish)">
         <RelativePath>%(DistFiles.Identity)</RelativePath>
         <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       </ResolvedFileToPublish>

@@ -7,7 +7,6 @@ using Microsoft.ML.Models;
 using Microsoft.ML.Runtime.LightGBM;
 using Microsoft.ML.Trainers;
 using Microsoft.ML.Transforms;
-
 namespace hateSpeach.Services
 {
     public class MLTraining
@@ -23,8 +22,7 @@ namespace hateSpeach.Services
 
             // The TextLoader loads a dataset. The schema of the dataset is specified by passing a class containing
             // all the column names and their types.
-           pipeline.Add(new TextLoader(DataPath.TrainDataPath).CreateFrom<LanguageModel>());
-
+            pipeline.Add(new TextLoader(DataPath.TrainDataPath).CreateFrom<LanguageModel>());
             // Assign numeric values to text in the "Label" column, because only
             // numbers can be processed during model training
             pipeline.Add(new Dictionarizer(("Language", "Label")));
@@ -47,7 +45,14 @@ namespace hateSpeach.Services
 
             // Saving the model as a .zip file.
             await model.WriteAsync(DataPath.LanguageModelPath);
-            
+            // OnnxConverter onx = new OnnxConverter()
+            // {
+            //     Name = "LanguageModel.onnx",
+            //     Onnx= DataPath.ONNXPath,
+            //     Json= DataPath.ONNXJsonPath,
+            //     Domain = "SafeMedia"
+            // };
+            // onx.Convert(model); 
             return model;
         }
 
@@ -84,7 +89,7 @@ namespace hateSpeach.Services
 
             // Puts all features into a vector
             pipeline.Add(new TextFeaturizer("Features", "SentimentText"));
-            
+            //pipeline.Add(new WordEmbeddings("", ""){ModelKind = WordEmbeddingsTransformPretrainedModelKind.FastTextWikipedia300D});
             // FastTreeBinaryClassifier is an algorithm that will be used to train the model.
             // It has three hyperparameters for tuning decision tree performance. 
             pipeline.Add(new FastTreeBinaryClassifier() {NumLeaves = 128, NumTrees = 100, MinDocumentsInLeafs = 10});
